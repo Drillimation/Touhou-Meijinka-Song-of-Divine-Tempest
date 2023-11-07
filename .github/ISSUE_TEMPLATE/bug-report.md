@@ -12,6 +12,9 @@ assignees: ''
 
 
 **What operating system and hardware setup are you using?**
+ - System Manufacturer: [e.g. Lenovo, Dell, HP] <!-- If you're using a custom build, put the manufacturer of your motherboard. If you're using a Mac, put Apple. -->
+ - Processor: [e.g. Intel i7, AMD Ryzen, Apple M1]
+ - RAM: [e.g. 8GB]
  - OS: [e.g. Windows 11]
  - Graphics Card: [e.g. NVidia GeForce RTX]
  - Sound Card: [e.g. SoundBlaster]
@@ -22,10 +25,7 @@ assignees: ''
 
 **To Reproduce**
 <!-- List all actions necessary to make the bug happen. They must be reproducible 100% of the time. -->
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+
 
 **Expected behavior**
 <!-- Please explain what is supposed to happen if the bug isn't there. -->
