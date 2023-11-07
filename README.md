@@ -32,3 +32,12 @@ Song of Divine Tempest is a trademark of Drillimation Systems Co., Ltd. in the W
 Touhou Project is a trademark of Team Shanghai Alice.  
 All audiovisual asset rights are reserved.  
 This game makes use of the Scribble Text Rendering Engine, licensed under the MIT License.
+
+## External links
+* Website: https://drillimation.com/
+* Twitter: https://twitter.com/Drillimation1
+* Instagram: https://instagram.com/drillimation.official
+* YouTube: https://youtube.com/c/DrillimationSystems
+* Twitch: https://twitch.tv/Drillimation
+* Discord: https://discord.gg/WU5Afch or Driller#1924
+* Patreon: https://patreon.com/Drillimation
