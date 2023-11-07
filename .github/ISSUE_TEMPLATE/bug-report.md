@@ -1,7 +1,8 @@
+---
 name: Bug report
 about: Use this form to report issues with the game. Personal opinions will be rejected.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -40,4 +41,4 @@ assignees: ''
 
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
