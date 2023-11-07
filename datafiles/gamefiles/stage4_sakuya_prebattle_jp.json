@@ -1,0 +1,98 @@
+{
+    "lng" : 13,
+    "char_info" : {
+        "nm" : "落合カガミとユミ",
+        "desc" : "時をかけた亡霊"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "いったいこの少女は？なんでそもそもここにいるのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "状況の見から、あんたが襲撃ため気分ある思え。",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "今、その不思議なコンサートを戦うんでうちを参加してな！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "終わるとき、戦利品があったら、共有せえ！",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ユミ：",
+        "dialogue" : "お姉はん！うちをナイフで打ったわ！どうやら、そのメイドがうちで投げたえ！",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あら、二人が私へ近づこうとするよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "コンサートを襲撃するのを主張する代わりに、報復するつもり？",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "あんたが見たものを刈り取りたい、言うて？２つの選択がありまっせ：",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "去るか、襲撃をするにコンサートを入るで。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "ユミ：",
+        "dialogue" : "ここはプロットツイスト：うちを打ったさかい、選択肢もは屈辱を受けるのん意味せえ！",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あんたで何が起こっているのかわからないので、「黒幕」を対決するに選択肢がないのよ。仕事。",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "死を選択したのように見えるのう。最後に言う言葉がありまっか？ご自由に！",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "ユミ：",
+        "dialogue" : "めっちゃ寛大や！世界に最後言葉を広めるのんと、あんたが死ななあかん！",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "うーん…無実の人々が絶望に燃えさせるのをみたい？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "いいえの場合、なぜナイフで私を殺しそうになる？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "交渉計画に考えを変えて。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "まじ。これが害はない。本当に救世主。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あんたにごめんなさい。少し無謀だったよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "とても無害なら、お茶に誘ってみてはいか？ダージリンまたはアッサムを思えくれ。",
+        "function" : "scr_game_clear"
+    }
+}

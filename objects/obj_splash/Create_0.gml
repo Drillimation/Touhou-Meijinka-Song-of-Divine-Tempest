@@ -1,0 +1,1 @@
+scr_one_channel_sound(snd_splash);

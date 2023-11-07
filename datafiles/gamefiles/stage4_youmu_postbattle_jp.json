@@ -1,0 +1,63 @@
+{
+    "lng" : 8,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "カガミ：",
+        "dialogue" : "ユユコ嬢の侍女はん、襲撃を参加したなかったな？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "カガミ：",
+        "dialogue" : "終了するあと、この選択を後悔せないかん。中にあるものを略奪するわ！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "襲撃を参加するのについて後悔がないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "そして、本当に侍女なので、なんでとても奇妙に振る舞った？クォーターバックなの？",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "ユミ：",
+        "dialogue" : "ほんま、剣士…あの、ヨウム様。中に、略奪できるぎょうさんの財宝があるのん。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "コンサートに進むのをわかるけど、うるさいメタル注意してたげて。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "お別れ…",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "カガミ：",
+        "dialogue" : "話を終える前に出てるえ？現れるあらゆる不幸に対して責任がありまへん！",
+        "function" : "scr_stage_clear"
+    }
+}

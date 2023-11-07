@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "カオリ：",
+        "dialogue" : "ふーん…呪いが効いているとき体が変なった前に、お前が顔に拳を与えた！",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "そうさ！正しい！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "世界中を養えるハムサンドイッチを増やせるとしても、誰でもないがすべてを食べる。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "カオリ：",
+        "dialogue" : "何よりもハムサンドイッチなのか？あたしをバカにしようとする？",
+        "function" : "scr_stage_clear"
+    }
+}

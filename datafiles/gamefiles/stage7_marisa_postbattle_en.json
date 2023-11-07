@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Okay, I take back my words. You are not such a sleaze like what I have thought.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Let me take a guess: 'Soap god' is just another affectionate nickname for Adonai, right?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "If that's the case then you are truly an airhead who enjoys horsing around with others in a...",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Oh... I forgot how to describe it.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "And if you don't mind this, will you allow me and my followers to stay here for just a few more days?",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "For sure? Just don't act like a fool towards my people.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "They definitely won't like how you play that Hallelujah song in a cacophonic volume.",
+        "function" : "scr_game_clear"
+    }
+}

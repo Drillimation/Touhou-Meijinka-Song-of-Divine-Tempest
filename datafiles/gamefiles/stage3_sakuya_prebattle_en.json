@@ -1,0 +1,147 @@
+{
+    "lng" : 20,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I see nobody here. And who on Earth is the person who she said 'her appearance is a lie'?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I guess it must be a murderer with a nice-looking appearance.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I just hope she doesn't have a weird obsession with prey. That gives me the willies.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Robbing a soul from a dead person, murdered or not, is plain disgusting.",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "If you think I am the murderer, I should drop a bucket of iced water on those who murdered my cousin long ago.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Skewering them with my flag pole is a good way to polish them off, as the saying goes, 'Begone evil spirits!'",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "You should be burning in the Netherworld. You don't deserve to have your sins burn off in the Purgatory.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Another person bites the dust, eh?",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Anyway, you sound just exactly like that winged klutz I met a while ago. I bet you must be her agent.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Of course I am!",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Without her, I would have been a nervous wreck who cannot deal with the loss of my dearest cousin.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "And with her, I became an unstoppable fighting machine, powered by an eternal flame of determination...",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "However at the cost of forgetting everything before that fateful day.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I now see through this person's lies: You rejected your humanity, through a deal with a total doofus.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I'm glad you didn't do anything unholy as part of the deal though.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Rejecting humanity? Hmph, you are the one who rejected your humanity as you work for a demon!",
+        "function" : "scr_bgm_fade"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Sacrilege to the Archangel is a gravely unholy act, which must be punishable by sending this person back to the Pit.",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Skewering me with that toothpick? Remilia's Gungnir is going to put you to shame.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "A weapon of a false pagan divinity will do nothing against the Flaming Sword.",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Bring that up and you are going to try a little harder than what you think in order to flatten me!",
+        "function" : "scr_start_boss"
+    }
+}

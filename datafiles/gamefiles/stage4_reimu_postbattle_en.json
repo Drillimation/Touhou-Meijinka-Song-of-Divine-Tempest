@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Y... you... Are you actually not a spy from that concert, are you?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Yes. I am here to investigate that mysterious concert, and to see if there's anything fishy about it.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_joy",
+        "speaker" : "Yumi:",
+        "dialogue" : "So you are not a bad person after all...",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "But I must warn you beforehand, that I sense something inhuman about the 'mastermind' of this concert.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Bye now.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "Kagami:",
+        "dialogue" : "Hey, I haven't finished talking yet!",
+        "function" : "scr_stage_clear"
+    }
+}

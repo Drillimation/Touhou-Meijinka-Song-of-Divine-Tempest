@@ -1,0 +1,63 @@
+{
+    "lng" : 8,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "Kagami:",
+        "dialogue" : "You are not going to join the raid, Lady Yuyuko's handmaid?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "Kagami:",
+        "dialogue" : "Then you must regret this choice as after we are done with this business, we can then loot whatever is inside there!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "I have no regrets about joining the raid.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "And, while I am indeed her handmaid, why are you acting so weird towards me? Am I some kind of big shot or something?",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Yumi:",
+        "dialogue" : "Indeed you are, swor... I mean, Miss Youmu. But I heard there is plenty of gold inside there for us to loot.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "I know you are going to proceed further into the concert, but beware, as you are taking some metal...",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "Farewell...",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "Kagami:",
+        "dialogue" : "You leave before I even finish warning you? Fine, I won't be responsible for whatever failures you will have!",
+        "function" : "scr_stage_clear"
+    }
+}

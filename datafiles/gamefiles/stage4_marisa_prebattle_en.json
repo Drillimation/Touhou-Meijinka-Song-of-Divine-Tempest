@@ -1,0 +1,112 @@
+{
+    "lng" : 15,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Why are you here? You're supposed to be in... er...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Well, I forgot. But I can hear the 'Hallelujah Chorus' from somewhere distant.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "Kagami:",
+        "dialogue" : "Why greetings, Queen Marisa!",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Fancy meeting you here! You look a little older than the last time I saw you. Anyway...",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Yumi:",
+        "dialogue" : "Sister! A huge laser, supposedly from that girl, fired at me earlier on!",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "Oh, so both of you are approaching me for me to take down this creep? Well then, time for me to...",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "Kagami:",
+        "dialogue" : "Bring down that concert?",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "Kagami:",
+        "dialogue" : "They are acting like it is Christmas or Easter, blasting religious music 24/7, and worst of all hog my audiences!",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "Yumi:",
+        "dialogue" : "I am tired of listening to the concert blasting that Handel composition over and over!",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "Yumi:",
+        "dialogue" : "Please, sister, bring them down!",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Oh yes... This is what I am waiting for!",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Good point that you are supporting bringing down the concert.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Join me in the great raid plot, my Queen.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Yumi:",
+        "dialogue" : "But what about me? Are you braindead?",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Yumi:",
+        "dialogue" : "Now, silly witch, if your laser can knock me down, my sheer powers are going to star KO you!!",
+        "function" : "scr_start_boss"
+    }
+}

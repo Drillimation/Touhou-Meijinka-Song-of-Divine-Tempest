@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "It's dangerous to go alone, mate! Take your weapon and fight against whoever's lurking in that 'Labyrinth'!",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Who cares? My cousin is already out in order to find out about the truth of the Labyrinth of Mirrors!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Well, you said that if she failed her mission, you can count on ME!",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "I am very sure that she shall succeed on her mission.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Whatever fool behind the scheme is just an angel, or a henchman of one.",
+        "function" : "scr_start_boss"
+    }
+}

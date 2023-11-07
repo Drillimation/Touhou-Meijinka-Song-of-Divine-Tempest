@@ -1,0 +1,91 @@
+{
+    "lng" : 12,
+    "char_info" : {
+        "nm" : "落合カガミとユミ",
+        "desc" : "時をかけた亡霊"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "待って…この少女で既視感見る…前に会ったの？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "うち覚えへんけ？名前は落合カガミや。時をかけた亡霊！",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "今、どうして私ように老けなかったと思う。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "カガミ：",
+        "dialogue" : "違い期間へ旅行したさかい老けへんかった。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : " ",
+        "dialogue" : "お姉はん！",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ユミ：",
+        "dialogue" : "前に巫女はんがうちを戦った！",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "あら、両方は姉妹だよね。言え、どうしてここだの？",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "復讐をに来た。そのコンサートが人気を排水してまう。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "ユミ：",
+        "dialogue" : "鉱山国から信者で、コンサートを襲うえ！",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "待って、何のよ？",
+        "function" : "scr_bgm_fade"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "なんや、行動を疑うのう？その疑わしいコンサートからおそらく間者だんな。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "ユミ：",
+        "dialogue" : "巫女はん詐欺師、死ぬに覚悟しろ！前に戦ったよってに、罰や！",
+        "function" : "scr_start_boss"
+    }
+}

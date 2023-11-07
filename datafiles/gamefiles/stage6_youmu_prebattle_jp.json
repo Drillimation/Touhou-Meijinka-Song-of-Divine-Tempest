@@ -1,0 +1,196 @@
+{
+    "lng" : 27,
+    "char_info" : {
+        "nm" : "堀川ライコ",
+        "desc" : "天な夢幻のパーカッショニスト"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "シンボルは奇妙わ。幽霊がお互いに旋回するのように見える…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "幽霊ではなく。シンボルは「三つ巴」だよ。",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "私を除いて、地元はシンボルを無数の方法で解釈できる。私に、意味が多き。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "三つ巴と配置は聖三位一体を象徴するものとして取られる。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "シンボルを解釈するのこの方法を聞いたのがない。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "ほとんどの時間、シンボルは雷または八幡神を表現する。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "より一般的に、シンボルも太鼓に関係する怪物のような姿をした神を表現するよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "すべては神道実体だから、なんでシンボルは異教で関連付けるのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "教会は図像に他の文化のシンボルを同期するわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "特に、エジプトの教会はアンクで十字架の代わりになる。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "もちろん、会衆の身元を迫害から隠れるので同期は重要だ。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "堀川家が設立されたとき、徳川幕府は教会を迫害している。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "逃げるために、教会の大切な教えを表現するシンボルで三つ巴を適応した。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "言ったすべては「隠れキリシタン」の子孫と考えさせられる。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "ユユコ様はそれを教えなかったが、スミレコさんから聞いた。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "迫害から逃れるために自分のもので仏教と神道を適用した。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "コンサートは全部持っていれば、家族が持っているものは何でもはさらなるトラブルにつながる。",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ライコ：",
+        "dialogue" : "言った何だのよ！？",
+        "function" : "scr_bgm_fade"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ライコ：",
+        "dialogue" : "堀川家の何世紀も前の紋章は無意味だと言う！？",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ライコ：",
+        "dialogue" : "そして家族も無意味だっ！？",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "嘘はつけないわ。冥界の教えはナラカの概念を盗むのだと思う。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "その件に関連して詩でそれについて聞いた。",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "教会の教えは時間と空間の前で主で鼓舞した。",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "自分のものと他の信念の教義の類似点はまったくの偶然または露骨な模倣だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "最後の真実を巨大な嘘に変える。",
+        "function" : "scr_do_nothing"
+    },
+    "a25": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "主の存在と権威を否定したと聞いた？火と硫黄が降りかかるよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a26": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "地獄で待っている罰は最悪の悪夢になるぜ！",
+        "function" : "scr_start_boss"
+    }
+}

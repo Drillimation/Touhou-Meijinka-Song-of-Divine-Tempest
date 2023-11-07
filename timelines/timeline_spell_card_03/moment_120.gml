@@ -1,0 +1,1 @@
+ammo = 3 + global.difficulty;

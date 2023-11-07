@@ -1,0 +1,126 @@
+{
+    "lng" : 17,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Man, oh man, this is surely a wonder of nature to behold, no matter how disastrous it is...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "But at the same time, my clothing is all wet. Till when will the rain stop?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "This storm won't stop unless the Narukami successfully consecrates the residents of land to Eternal Euthymia.",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "The storm is a sign that her powers are at the zenith.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "Thus, she has to use this power to achieve her goal of an Eternal Paradise.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "The name sounds a bit suspicious to me.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Tell me, is she the one who is a part of our local band, the Prismrivers?",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_joy",
+        "speaker" : "Kaori:",
+        "dialogue" : "Prismrivers? I haven't heard of that name.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "If there's anyone who claimed she is with them, then they know nothing about the Impeccable Mistress of Thunder.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "You are such a stupid suspicious one.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Now, get off my lawn as I won't believe your suspicious words.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "The person you are describing closely resembles the person the Prismrivers claim to be missing since the storm began.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "Y-you liar...",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "The Narukami Ouki has said that she isn't affiliated with any other entertainment troupes other than those of her family!",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Oh, so she belongs to a family who runs an entertainment empire?",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Betcha that her family are total fools compared to the classy entertainment of good ol' Gensokyo.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "Enough! May your woes be many and your days few... for the heinous act of demeaning the greatness of the Ouki!",
+        "function" : "scr_start_boss"
+    }
+}

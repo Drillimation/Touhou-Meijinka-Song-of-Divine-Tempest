@@ -1,0 +1,119 @@
+{
+    "lng" : 16 ,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Who are these people!? Am I going inside that concert and seeing some random people getting in my way...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "...for defeating that bell-ringer?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "What are you talking about? As far as I know, there aren't any bells or whatnot here!",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "But on second thought, I see what you are talking about.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Those are horribly ugly for a venue of a geisha performance for me.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Yumi:",
+        "dialogue" : "Sister! I have seen someone swinging a sword at me at full power, but luckily I dodged and wasn't hurt!",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "I wonder why that girl got blue hair even though her sister got multicolored hair...",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "Perhaps she was under the hex of a magician with a similar appearance?",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "You are definitely horsing around with that silly question, aren't you?",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "But anyway, let's get to the business.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Yumi:",
+        "dialogue" : "But what about that girl over there? She nearly sliced me in half with that sword!",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "What business? And what on Earth are you talking about!? Are you pinning something on me?",
+        "function" : "scr_bgm_fade"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "We are going to raid that concert, Lady Yuyuko's handmaid.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "As revenge for stealing my audience and making the entirety of Kozan sound like a monastery.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Yumi:",
+        "dialogue" : "A raid? Let's just postpone that and beat up that swordsman, sister!",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Yumi:",
+        "dialogue" : "Let's show her what biting the dust is like!",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "lng" : 21,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "I can't believe that the culprit's hideout has those symbols that I saw earlier.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Or when tools begin to rebel, what if...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Who's there? Is that Jane? Oh, it's not her but that girl in a witch outfit. What do you want here?",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Oh, you are the same person I met during that magical storm a while ago, but you look a bit different from last time...",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Tell me, why are you even here? You're supposed to be with the Prismrivers, y'know.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Prismrivers? I haven't heard of them or been a part of them. And the reason I am here in the first place?",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "I feel that Gensokyo is a gloomy place plagued by turmoils.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Many of the so-called incidents happen within a small timeframe. Poor them; they must be living in constant fear.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "And that's why my Grand Concert exists in the first place - to bring back joy to a land ravaged by sadness and fear!",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Absolute nonsense. I and many other Gensokyo denizens have been involved in those incidents many times.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "They were indifferent towards the situation. Anyway, I must say that your musical choices are absolute trash.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Lyrics such as 'Hallelujah' and ‘Praise the Lord' are simply lame words that are directed as heretical deities.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "You better find somewhere else to host your concert. Gensokyo is not the place to do this.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "This young lady is underestimating the powers of these heavenly words.",
+        "function" : "scr_bgm_fade"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "It won't hurt to praise the holy name of the Lord, and in return, you will receive eternal life in the Lord.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "But for this lady, she is a mere infidel, denying the benefits of praising the Lord.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "Uh... something's wrong. I can feel it. Are you okay, Raiko?",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Good question. Everything is going to be okay unless you keep that attitude towards the Lord.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "If you are still an impenitent and irreverent young lady...",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "The gates of the cursed cities of Sodom and Gomorrah shall be open for you!",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Prepare to feel the fire and brimstone as I am burning you on the pyre!",
+        "function" : "scr_start_boss"
+    }
+}

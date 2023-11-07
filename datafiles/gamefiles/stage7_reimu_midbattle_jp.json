@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "ああっ！なんでここにいるの？これは真剣な仕事であるので、出てくれよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "じゃ、あなたも出なければならない。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "神様が来るのには準備をするためにいとこは罪深い土地を浄化するわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "レイム：",
+        "dialogue" : "正確に言うと、神様は幻想郷に見れる。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "うーん！",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "人民の子供の心を浄化するのにこれが神様の究極の来るのよ！",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "mode" : {
+        "a0" : "Normal",
+        "a1" : "Extra",
+        "a2" : "Free Play"
+    },
+    "mode_desc" : {
+        "a0" : "Play the story mode.",
+        "a1" : "Play the extra stage.",
+        "a2" : "Freely play on any stage. Recommended for those wanting a quick game."
+    },
+    "difficulty" : {
+        "a0" : "Easy",
+        "a1" : "Normal",
+        "a2" : "Difficult",
+        "a3" : "Lunatic"
+    },
+    "difficulty_desc" : {
+        "a0" : "A starter mode recommended for beginners.",
+        "a1" : "A basic mode recommended for most players.",
+        "a2" : "A challenge mode recommended for experienced players.",
+        "a3" : "A mode not for the faint-hearted. Recommended for experts."
+    },
+    "types" : {
+        "a0" : "Classic",
+        "a1" : "Chuhou Joutai"
+    },
+    "type_desc" : {
+        "a0" : "Play using the traditional lives system.",
+        "a1" : "Play using a healthbar system. You won't have to worry about fainting in one hit."
+    },
+    "character" : {
+        "a0" : "Reimu Hakurei",
+        "a1" : "Marisa Kirisame",
+        "a2" : "Sakuya Izayoi",
+        "a3" : "Youmu Konpaku"
+    },
+    "character_desc" : {
+        "a0" : "The shrine maiden of the Hakurei Shrine. Special attack homes in on enemies.",
+        "a1" : "A magician and the ruler of the Federal Kingdom of Gensokyo. Special attack fires a laser that continuously deals damage.",
+        "a2" : "The maid of the Scarlet Devil Mansion. Special attack fires projectiles in another direction.",
+        "a3" : "A half-youkai samurai. Special attack fires projectiles in a wide range."
+    },
+    "stage" : {
+        "a0" : "Stage 1\nBlessings From the Lord of Hosts ~ Sanctus",
+        "a1" : "Stage 2\nA Mystic Hidden Within the Fragrant Mist ~ Theosis",
+        "a2" : "Stage 3\nA Maiden Searching for Vengeance ~ Cries of the Lost",
+        "a3" : "Stage 4\nBefore the Grand Debut ~ STARDOM",
+        "a4" : "Stage 5\nParadise of Cherubic Choirs ~ Gloria",
+        "a5" : "Final Stage\nThe Descent of the Angel of Thunder ~ Drummer Who Came From Heaven",
+        "a6" : "Extra Stage\nThe King of Kings and Lord of Lords ~ Go and Sin No More"
+    },
+    "stage_intro" : {
+        "a0" : "Blessings From the Lord of Hosts ~ Sanctus",
+        "a1" : "A Mystic Hidden Within the Fragrant Mist ~ Theosis",
+        "a2" : "A Maiden Searching for Vengeance ~ Cries of the Lost",
+        "a3" : "Before the Grand Debut ~ STARDOM",
+        "a4" : "Paradise of Cherubic Choirs ~ Gloria",
+        "a5" : "The Descent of the Angel of Thunder ~ Drummer Who Came From Heaven",
+        "a6" : "The King of Kings and Lord of Lords ~ Go and Sin No More"
+    },
+    "how_to_play" : {
+        "a0" : "Use the cursor keys, D-pad, or joystick to move your character.",
+        "a1" : "Hold the Z key/A button to fire.",
+        "a2" : "Hold the Shift key/B button to focus.",
+        "a3" : "When in difficult situations, push the X key/X button to use a spell card.",
+        "a4" : " "
+    },
+    "cont" : {
+        "a0" : "To continue, insert coins and push 1P start button."
+    },
+    "insert_coin" : "To insert coins, push the Tab key or Select button.",
+    "power_off" : "Power off the cabinet?",
+    "name_entry_screen" : "Push Z/A to input, X/B to erase, and Start/Enter to confirm.",
+    "_paused" : {
+        "a0" : "Player 1 paused the game.",
+        "a1" : "Player 2 paused the game."
+    },
+    "choices" : {
+        "a0" : "Yes",
+        "a1" : "No"
+    }
+}

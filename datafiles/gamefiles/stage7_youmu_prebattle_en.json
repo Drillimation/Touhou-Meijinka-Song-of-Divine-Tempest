@@ -1,0 +1,252 @@
+{
+    "lng" : 35,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Man, that nightmare from last night was very scary...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "I thought only the Yama can judge people for their deeds, but the 'thing' from the labyrinth can do the same too!?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Whatever the 'Yama' is, their judgements do not have any effect on people's souls.",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Pagan gods' judgements fall short of God's eternal judgment.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "God? Even though Shinto has the upper hand with myriads of gods, Buddhism does not believe in the existence of any gods.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "While it does teach the judgment of the souls, people's deeds determine their fates and not divine power.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Some schools of your faith still teach that Buddha is a being with somewhat divine status, y'know.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Even though the person behind the so-called labyrinth is under the domination of a good angel...",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Their revelations of the sins of this land's people went a bit out of hand, causing paranoia.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Their original plan is to hunt down a cambion who has been wreaking havoc upon surrounding lands and trapping souls.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I'm sure the cambion is planning to ravage upon this land next...",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Angel!? Really? Some time ago, I went to Kourindou and met Sumi there.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "She's a wiz in the Outside World's culture, including yours.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "She said there are various angels in theology.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Very few of them had come down to Earth to help people, even in the modern era.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Have you heard of the top-secret 'Church Archives'?",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "There is some 'classified information' about a very ancient and powerful archangel, being Zepheliel.",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "It was once the Commander of the Heavenly Host shortly after Lucifer fell.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "It was succeeded by Michael before its fall, who holds the position to this day.",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "It is said before the fall, their soul was split in two:",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "The bad part fell along their body and became an infamous demon.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "The good part was reborn as the 'mysterious person'.",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "The mind was separated from both, reborn as the mastermind of the 'Labyrinth of Mirrors'.",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Oh dear Lord... I thought your belief did not teach about reincarnation!",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Neither the teachings of that Western prophet mentioned by Seiga a while ago nor Sumi's sayings shed any light.",
+        "function" : "scr_do_nothing"
+    },
+    "a25": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "I wonder if that's considered heretical...",
+        "function" : "scr_do_nothing"
+    },
+    "a26": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "They are not heretical.",
+        "function" : "scr_do_nothing"
+    },
+    "a27": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "These thoughts are deviational, but since they are written by noteworthy theologians, they cannot be denied as lies.",
+        "function" : "scr_do_nothing"
+    },
+    "a28": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Only because they are so esoteric, mainstream beliefs are not aware of those and labeled these 'heretical'.",
+        "function" : "scr_do_nothing"
+    },
+    "a29": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "If esoteric thoughts are considered heretical by mainstream believers, then why did 'esoteric' schools emerge?",
+        "function" : "scr_do_nothing"
+    },
+    "a30": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Shingon Buddhism, the Jewish Kabbalah, Onmyoudou, to name a few. The world operates in mysterious ways.",
+        "function" : "scr_do_nothing"
+    },
+    "a31": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "And so is the beliefs of man. Anyway, can you tell those labyrinth guys to not cause a hubbub in Gensokyo?",
+        "function" : "scr_do_nothing"
+    },
+    "a32": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "You said it is getting out of hand and I want to relieve some of my stress on those chaps.",
+        "function" : "scr_do_nothing"
+    },
+    "a33": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "As I said, a dangerous cambion is ravaging the surrounding lands and is aiming for Gensokyo soon...",
+        "function" : "scr_bgm_fade"
+    },
+    "a34": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Just like you, I don't want its people to suffer and die!",
+        "function" : "scr_start_boss"
+    }
+}

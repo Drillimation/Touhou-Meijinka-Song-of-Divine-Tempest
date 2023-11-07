@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "一人では危険じゃ！武器を取れ、その「迷宮」で潜む誰でもを戦え！",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "誰が気にする？鏡達の迷宮の真実を学ぶために、いとこがすでに探景してるよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "じゃ、ミッションを失敗したら、頼りに！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "ミッションに成功するのと本当に思うわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "しかし、計画の人は天使、または子分だの？",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "lng" : 17,
+    "char_info" : {
+        "nm" : "細川カオリ",
+        "desc" : "大天使バラキエルのアンジェラス"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "まぁ、どんなに悲惨な状況であっても、これは本当に見るべき自然の驚異だね…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "同時に、服はとても濡れたけど。いつ雨が降るのを止めるの？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "鳴神が永遠神聖平和に土地の住人を成功に聖別するまで嵐が止まらないわ。",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "嵐は、力が最大に高まっている兆候だよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "やっぱり、永遠楽園の目標を達成するにこの力を使うが必要だぜ。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "私に、名は少し疑わしいに聞こえる。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "教えれ、彼女は地元のバンドのプリズムリバー姉妹のメンバーだの？",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_joy",
+        "speaker" : "カオリ：",
+        "dialogue" : "プリズムリバー姉妹？聞いたことがないわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "一緒にいると主張する人があれば、雷鳴の完璧お嬢様についてなしがわかる。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "かで疑わしそう。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "疑わしい言葉に信じらないので、芝生を出て！",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "あんたが説明する人は嵐の開始からプリズムリバー姉妹が前提とする人によく似ているぜ。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "お…お前が嘘をついている！",
+        "function" : "scr_bgm_fade"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "家族による設立された劇団以外で他の劇団で所属していないと鳴神王姫が言った！",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "あら、エンターテイメント複合企業を経営する家族のもの？",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "幻想郷の上品なエンターテイメントと比べて、家族は完全な馬鹿者だと思うわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "口を閉じれ！王姫の偉大を貶めたので、日は短くになるのよ！",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "じゃ、やっぱり恐ろしくなかった。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "推測させて：「ソープ神」はアドナイの別の愛情深いあだ名だのね？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "本当なら、他で遊ぶのを楽しめる気弱なった。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "そしてそれを説明し方を忘れたよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "もしよろしければ、私と信者がここにあと数日滞在できますか？",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "まじで？幻想郷の人民におかまように振る舞わないで。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "法外に高いの音量でハレルヤの歌を再生するのを容認しないのよ。",
+        "function" : "scr_game_clear"
+    }
+}

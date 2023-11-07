@@ -1,0 +1,1 @@
+sprite_index = spr_kagami_atk2;

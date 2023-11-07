@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "巫女さん、厳しすぎて申し訳ありません！何があっても、住人を守ることの善意がわかる。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "私と三位一体が土地は罪深いとわかるので…",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "何かをやらなければならない。さもないと、呪われる！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "信者といとこを傷つけずに幻想郷に受けますか？",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "はいが、郷の人々に問題を引き起こさないでくださいのね…",
+        "function" : "scr_game_clear"
+    }
+}

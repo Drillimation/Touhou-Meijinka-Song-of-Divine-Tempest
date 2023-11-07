@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "ジェーン：",
+        "dialogue" : "この試練生き残ったとわかった。今、一つの天の命令が持つ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "このお茶を飲むことで天なオーケストラで参加してくれよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "私が気持ち悪い黄色いお茶を飲むのに欲しい？飲まないのよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "神様の恋のため、バナナで衝突する人たちにこの方法がだけが機能する。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "これを私に試してみれば、本当にあんたを参加しないわ。他にやるべきことがある。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ちょっとまって…人間的な見た目をしていても、ロボットは消化器系がないのね。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "消化器系を合成できるのを知っているの？",
+        "function" : "scr_stage_clear"
+    }
+}

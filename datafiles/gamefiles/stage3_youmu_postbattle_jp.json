@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "やれやれだぜ…その刀が私を半分に切るところだったが、ありがたいに大天使が間一髪で救ったわ…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "あら、攻撃を簡単に回避するのと思った？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "今回は幸運だったが、また私をいじったら、西に行く必要！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "きさま、サンドバッグ侍…",
+        "function" : "scr_stage_clear"
+    }
+}

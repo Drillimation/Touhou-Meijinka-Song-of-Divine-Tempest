@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Ayaka Takajima",
+        "desc" : "The Mystic Who Transcends Humanity"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "You are that strong! Who on Earth gave you such strength?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Can you please let me go? It will take me to the last trump for me to explain the origins of my powers.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Okay. I will let you go, for now...",
+        "function" : "scr_stage_clear"
+    }
+}

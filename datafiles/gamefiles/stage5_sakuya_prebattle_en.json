@@ -1,0 +1,84 @@
+{
+    "lng" : 11,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "What a beautiful backstage!",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I would be very sorry for trampling upon it using a road roller like what I initially intended...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Oh, there's a bookshelf over there. But hey, why aren't there any encyclopedias for me to whack someone's head with?",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "There's a spare encyclopedia in there if you look closely enough.",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Unfortunately, you cannot even use it against me as a weapon like what you intend to.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "If I cannot hit you with an encyclopedia, I will pop a cap up in your back, a filthy act done with no strings attached!",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Thinking these things can cause any damage for me? The bad news is that my body is adamantine.",
+        "function" : "scr_bgm_fade"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "If you think a single bullet only does a flea's damage to you, how about four of them? That's definitely scary.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Tetraphobia is literally nonexistent within the people who believe in Reverence.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "The most eminent people who helped spread her salvational words? There are four of them!",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Now, there are two paths you can choose: Be lulled to your demise by my secret chords, or if you survive... join me!",
+        "function" : "spr_start_boss"
+    }
+}

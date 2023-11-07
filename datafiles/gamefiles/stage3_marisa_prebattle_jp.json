@@ -1,0 +1,112 @@
+{
+    "lng" : 15,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "これは舞台と呼べるのか？入り口でグロースティックを受けなかったわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "グロースティックが多分あるけど見たその異端な物体のように形にしたね。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "ところで、なぜ接地が不純に見えるのか？黒幕は正しくやっていなそう…",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "？？？：",
+        "dialogue" : "誰だ？誰かはお嬢様を批判することを聞いた…",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "待って、これは私の詐欺師だの？コンサートを浸透するために混ぜるの？",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "本当にいいえ。感覚から、あんたは前に会ったその頭の悪い大天使の使者だと思うよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "そうさ。数年前、いとこを真紅人下っ端が多くので殺した。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "大天使が来て神聖な勇気を与えたまですべてが終わったと思ったわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "勇気は自分が死に苦しむのを防ぐ。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "ああもう。香霖堂へ旅行中に見たその魚の妖怪の独りよがりを滲み出す。",
+        "function" : "scr_bgm_fade"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "あのね？お前は見たもっとも不遜な存在だぜ。感じるよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "大天使を侮辱した冒涜行為なので今回は私を強く殴った。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "そうかい？あんたを戦う必要があるよぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "天使殺し屋になれたら、どうして魔法使いではないわ？",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "何でもを倒す種類の女王だと思うね？じゃ、それよりもう少し頑張れ！",
+        "function" : "scr_start_boss"
+    }
+}

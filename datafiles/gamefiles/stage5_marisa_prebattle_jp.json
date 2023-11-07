@@ -1,0 +1,84 @@
+{
+    "lng" : 11,
+    "char_info" : {
+        "nm" : "ジェーン",
+        "desc" : "思いを操作するロボット"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "到着した。すべての黄金のもの…これは…鎮魂歌なの？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "なんでここに間抜けなる？",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "トニトルスの舞台の内部は本当に黄金のもの。この場所の周りを吹いている風さえも。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "見覚えがあるよう。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "あんたように髪型で人を最後に見たのは、圧勝に倒した。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "あら、あんたに同じをやるよ。",
+        "function" : "scr_bgm_fade"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "じゃ、再び言え、おかま。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "やばい…",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "経験則はこれように声が持つときなんでその八卦炉が必要？",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "今、皆様！現代の魔女狩りのこの素晴らしい瞬間を目撃するわよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "最新の楽曲は：「憤怒日〜 Marisa Must Die!」",
+        "function" : "scr_start_boss"
+    }
+}

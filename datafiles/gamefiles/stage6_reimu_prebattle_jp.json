@@ -1,0 +1,161 @@
+{
+    "lng" : 22,
+    "char_info" : {
+        "nm" : "堀川ライコ",
+        "desc" : "天な夢幻のパーカッショニスト"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "記号は見覚えがある…主犯格は…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "私がこのそうでなければ暗い土地に天から至福を持ってくるにこの地に降り立った！",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "人々が「鳴神王姫」の名で呼ぶけど…",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "以前は「原始の嵐」、「雷の天使」、「堀川の女家長」などと呼ばれていた。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "あはっ！あなたは前にある異変から生まれた同じ太鼓付喪神だよね。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "何か珍しいことを感じるけど…",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "若い女性、恐れないで。権威な教会の支援を受けた堀川家で生まれ育った。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "舞台裏で祈るの見たり、ステージにクロスを見たりしたら、驚くべきことではないよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "鳴神人で縫ったこの服装は強力な雷の天使と喜びと希望の前触れを正しくに伝える。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "それを知る！私が会った同じライコ様ではないのよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "あんたは彼女で変装する異端的な詐欺師であり、中に隠れているわ！",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "私の弟子を盗まなって父の異端的な教えで妊娠させないのよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "「悪からお救いください」…うーん、それは幻想郷に起こらないわ。ロバさま。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ライコ：",
+        "dialogue" : "主とペトロよ、種も仕掛けもない事を、お許しください。",
+        "function" : "scr_bgm_fade"
+    },
+    "a14": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ライコ：",
+        "dialogue" : "悪魔のヘルスポーンは子羊を盗もうとしている、私と愛人を含む。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "ライコ：",
+        "dialogue" : "主よ、冥界の邪悪な力を即座に倒すのを助けてください！",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "どうして立って異端的な言葉を唱えているの？本当に助けるのは一人と思うのね？",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "幻想郷の人々に問題を引き起こした人であるのに気づいていない。",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "あははっ。じゃ、剣で住む誰かは剣で死ぬよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "行いのせいで、紅悪魔が地獄に引きずるよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "歌は罪深い文化の汚い行為に対して勝利を歌う。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "雷はあんたが苦しむ悲惨の伝令者なるぜ！",
+        "function" : "scr_start_boss"
+    }
+}

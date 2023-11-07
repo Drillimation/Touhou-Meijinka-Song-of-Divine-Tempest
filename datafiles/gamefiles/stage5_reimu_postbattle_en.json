@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Jane:",
+        "dialogue" : "Oof... My body is made of the strongest of materials and thus is virtually indestructible.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Jane:",
+        "dialogue" : "How can you beat me black and blue?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "So, you're a robot then? That's bad news for you, as I've fought a robot before and it was easy as pie.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "Plus, 'virtually' does not mean 'absolute'.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "With brute force, I can play rough with you and leave some deep dents on your body! May I fight you again?",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Jane:",
+        "dialogue" : "No...",
+        "function" : "scr_stage_clear"
+    }
+}

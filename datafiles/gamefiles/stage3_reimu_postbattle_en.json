@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Rats. I cannot believe that you are that strong to defeat such a skilled fighter like me!",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "Well, all pagans like you are just like twerps that I can use as punching bags. So long, fish-eating loser!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Curse you, shrine maiden!",
+        "function" : "scr_stage_clear"
+    }
+}

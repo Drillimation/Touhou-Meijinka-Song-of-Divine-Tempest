@@ -1,0 +1,77 @@
+{
+    "lng" : 10,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "This concert looks kind of weird.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "It looks more like one of those heretical places of worship than a concert in Gensokyo.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Now, we have gotten closer to the culprit of this incident, so... am I ready to beat some pagan creeps again?",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Hey! I heard you making some obnoxious noises outside and you're hogging my stage!",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Reimu:",
+        "dialogue" : "Who cares? You are one of those people who cause trouble to my land! Why don't you pay a visit to the Scarlet Devil?",
+        "function" : "scr_bgm_fade"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Oh my, what have you just said!?",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Reimu:",
+        "dialogue" : "Uh... nothing. Calm down.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Me the Angel of Music shall not be fallen by the blasphemous rhetoric uttered from your impure mouths!",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "I deserve to sing the most angelic of melodies in praise of the Almighty!",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Now, join me in the Holy Church through my sweetest of melodies, those who need repentance... like you!",
+        "function" : "scr_start_boss"
+    }
+}

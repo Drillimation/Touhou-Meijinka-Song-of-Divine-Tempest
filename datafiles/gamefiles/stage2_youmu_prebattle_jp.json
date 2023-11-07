@@ -1,0 +1,140 @@
+{
+    "lng" : 19,
+    "char_info" : {
+        "nm" : "高島アヤカ",
+        "desc" : "人類を超越する神秘"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "紫の霧？むしろ、生活を終わるに別の方法だの？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "有毒な水で跳ぶのは究極の終わりだと最もが思う。",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "地球体を捨てて忘却の彼方に消えれば…",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "痛みや悲しみを感じらないわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "あんたの目は神聖で全能のレヴェレンスの面前。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "ユユコ様が妖怪人に変換したときそれをやった。最後に、何も起こらなかったように感じたよね。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "それは、レヴァレンスを信じていないので。昔の自分は灰に崩れると、昔の精神も。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "レヴァレンスの恵みを救うことに信じたら、神様の王国を永遠に住む。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "誰は「レヴァレンス」だとわからないわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "そのあるレヴァレンスは王国全体があるのよ？",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "簡単に言えば、彼女はユユコに責任を負わせる人だろう。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "屈辱を受ける必要があれば、容赦はしないが。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "入れば、ユユコ様の感情傷つけなくためにこの所について静かにする必要。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "豪華な馬車を出てあんたように人々が何かおかしなのをピアノに弾き始めると想像すれ。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "これはレヴァレンスに向かって不遜な行為だわ。",
+        "function" : "scr_bgm_fade"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "物事が手に負えなくなったときレヴァレンスの慈悲はすべてを包含するとしても…",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "あんたにレヴァレンスは怒りを解き放つ。",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "レヴェレンスの永遠の神性を違反された。怒りは真っ直ぐ崩壊するのだ。",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "終焉とウザーの永遠の拷問に覚悟しろ！",
+        "function" : "scr_start_boss"
+    }
+}

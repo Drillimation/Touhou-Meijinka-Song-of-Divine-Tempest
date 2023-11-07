@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Do you know, that blasphemy against Reverence is an eternal sin? If so, then why are you keep on doing it?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Aren't you afraid of the eternal netherfire that awaits you if you keep on trying? Are you braindead?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "It's not blasphemy, dummy.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "You know what, I prefer to find out what is behind the mysterious concert over there than take the chances with you.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Nonsense! Get back here!!",
+        "function" : "scr_stage_clear"
+    }
+}

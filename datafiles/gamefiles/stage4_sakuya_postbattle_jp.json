@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "カガミ：",
+        "dialogue" : "やっぱし、めっちゃ悪い人やないが…そやかてコンサートを襲撃せえわ？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ないが、機嫌が悪かったらコンサート会場を潰すぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ユミ：",
+        "dialogue" : "ちょおまって！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "あんたを通知しなあかん：",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "自分の行動に注意してえや。このコンサートを主催する誰があんたを力で圧倒できる思え…",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "さようなら…",
+        "function" : "scr_stage_clear"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "カガミ：",
+        "dialogue" : "ちょおまって！",
+        "function" : "scr_do_nothing"
+    }
+}

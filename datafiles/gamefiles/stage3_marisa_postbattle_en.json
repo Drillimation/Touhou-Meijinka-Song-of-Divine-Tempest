@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Oh dear God... Why!? O Michel... I said you defend me in this battle.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "Haha, got 'em! So long, and may that ditzy-winged twerpette break your leg! ",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Curse you, witch girl...",
+        "function" : "scr_stage_clear"
+    }
+}

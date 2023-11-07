@@ -1,0 +1,112 @@
+{
+    "lng" : 15,
+    "char_info" : {
+        "nm" : "落合カガミとユミ",
+        "desc" : "時をかけた亡霊"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "なぜここにいるのか？どこに行っているの…あの…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "じゃ、忘れたけど。遠くから、コーラスを聞けるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "カガミ：",
+        "dialogue" : "こんにちは、マリサ女王様！",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "あんたを見るのに嬉しいわ！見た前回から、少し年上に見えるのや。とにかく…",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ユミ：",
+        "dialogue" : "お姉はん！以前にその少女がごっついレイザーをうちで撃った！",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "あら、あこのアホを倒すのをんたたち二人ともが手伝いたいので来た？じゃ…",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "カガミ：",
+        "dialogue" : "そのコンサートを倒したい、言うて？",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "カガミ：",
+        "dialogue" : "クリスマスとイースターを祝うかのように振る舞うのでんな。最悪なことに観客を盗むんになる！",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "ユミ：",
+        "dialogue" : "壊れたレコードのようにコンサートがその音楽を大音量で再生し飽きたぁ！",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "ユミ：",
+        "dialogue" : "お姉はん、倒してえなっ！",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "ああ、そうだね…これだぜ。",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "コンサートを倒すんでうちを支えるんさかい、えらいおおきに！",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "女王様陛下、大襲撃で一緒に参加してくれ！",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "ユミ：",
+        "dialogue" : "うちはどうなん？あほだっか？",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "ユミ：",
+        "dialogue" : "魔法使いはん、レイザーがうちを倒したら、純粋な力は星バーストをするわ！",
+        "function" : "scr_start_boss"
+    }
+}

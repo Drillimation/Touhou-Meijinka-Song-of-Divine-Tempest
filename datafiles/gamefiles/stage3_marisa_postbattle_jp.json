@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "あぁぁぁぁぁっ…なぜ！？ミシェル様…この対戦に私を守るのに尋ねたわ…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "ははっ、やったぜ！さようなら、頭がおかしいおかまは足を壊すよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "きさま、魔女さん！",
+        "function" : "scr_stage_clear"
+    }
+}

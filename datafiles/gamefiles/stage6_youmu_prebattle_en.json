@@ -1,0 +1,196 @@
+{
+    "lng" : 27,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "These symbols are weird. They look like ghosts circling each other...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "These are not ghosts, stranger. These symbols are called 'mitsudomoe'.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Natives of this land except for us can interpret the symbol in myriads of ways. For us, it holds several meanings.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "The threefold tomoe in the symbol as well as how they are arranged are taken to symbolize the Trinity.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "I haven't heard of this way of interpreting the symbol before.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Most of the time, I hear the symbol represents something like thunder, or even deities like Hachiman.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Or more commonly, the symbol is taken to represent a certain monstrous-looking deity with drums etched with the symbol.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Since all these figures are entities in Shinto, why is there a way of interpreting the symbol associated with pagans?",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "The Church is always known for syncretizing other cultures' symbols to its iconography.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Notably, Church members in Egypt are notable for taking a very ancient symbol, the ankh, as substitute for the cross.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Of course, such syncretism is important as it can help mask the identities of the congregation from persecution.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Back when House Horikawa was formed, the Shogunate was persecuting Church members very seriously.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "As a way to escape it, we adapt the Shinto-looking mitsudomoe as a symbol that represents the Church's important teaching.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "All the things you have said are making me think that you are descended from those 'Kakure Kirishitan'.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "While Lady Yuyuko hasn't told me that before, I again heard it from Sumireko.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "They are well known for taking Buddhist and Shinto stuff as their own in order to escape persecution.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "If your concert has it all, I bet whatever your family mansion has will have more trouble.",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "What did you just say, stranger?",
+        "function" : "scr_bgm_fade"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "You said the centuries-old crest of House Horikawa is something nonsensical!?",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "And whatever relating to my family is like a bunch of baloney!?",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "You can't tell a lie. I feel like your teachings over the Netherworld are ripping off the concepts of the Naraka.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "It's based on what I have heard in a poem related to that matter.",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Everyone knows that the teachings of the Church are definitely inspired by the Lord before time and space.",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Whatever similarities between ours and other beliefs' doctrines are pure coincidence or blatant copycats.",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "You're turning the Ultimate Truth into Great Lies.",
+        "function" : "scr_do_nothing"
+    },
+    "a25": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Have I heard you denied the existence and authority of the Lord? Fire and brimstones shall befall!",
+        "function" : "scr_do_nothing"
+    },
+    "a26": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Whatever punishment awaits you in the Netherworld will be your best nightmare!",
+        "function" : "scr_start_boss"
+    }
+}

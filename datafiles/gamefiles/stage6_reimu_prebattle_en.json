@@ -1,0 +1,161 @@
+{
+    "lng" : 22,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "The symbols look quite familiar... could the culprit be...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "It is I who descended upon this land to bring the bliss from heaven to this otherwise gloomy land.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "People often call me by the name 'the Narukami Ouki'...",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "But I also go by names such as 'Primordial Storm', 'Angel of Thunder', 'Matriarch of Horikawa', and so on.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Aha! So, you are the same drum tsukumogami who was born from a certain incident a while ago!",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "But I feel something unusual with her today. What if...",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Be not afraid, young lady. I was born into and raised in the prestigious Church-backed House Horikawa.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "It shouldn't be a surprise if you see me praying backstage or seeing crosses on my stage.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "This outfit correctly conveys my status as a mighty angel of Thunder as well as the Harbinger of Joy and Hope.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "I know it! You are not the Raiko I met!",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "You are a heretical impostor disguising as her, hiding among us! ",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "I won't let you steal my followers and bless them with your Father's heretical teaching!",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "'But to deliver us from evil'? Hmph, that won't happen in Gensokyo, you donkey.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "O Lord and Saint Peter, please help me. I will neither forgive gimmick nor trick.",
+        "function" : "scr_bgm_fade"
+    },
+    "a14": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "The Scarlet Devil's scepter is trying to snatch away your lambs, including me and those who love me.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "Please, O the Lord of Hosts, help me vanquish the forces of evil of the Netherworld in an instant!",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "Why are you standing there chanting heretical words? You think you are actually the one in help, huh?",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "You are the one who caused trouble to the people of Gensokyo, you know.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Ah ha ha... Well then, I must say that those who live by the sword will die by the sword!",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Prepare to be dragged down to Hades due to your deed, the Handmaid of the Scarlet Devil!",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "My songs shall sing for the triumph of my eternal crusade against the dirty acts of your sinful culture.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "My thunder shall be the herald of the woes you will suffer!",
+        "function" : "scr_start_boss"
+    }
+}

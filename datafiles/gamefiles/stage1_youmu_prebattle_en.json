@@ -1,0 +1,105 @@
+{
+    "lng" : 14,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "This stormy weather seems very unnatural as if someone is manipulating this kind of weather into existence...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "The only thing left is to have this kind of ungodly weather making me think I am a chicken or something slimy...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "You sound like you are under the effects of my curses already.",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "???:",
+        "dialogue" : "But if you want, yeah, whatever. I can curse you to make you think you are a slug during this wonderful weather.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "You can do curses? Maybe you were at work with those cursed objects and tombs.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "Curses are just a dark side of my ability to grant blessings.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "You might know how my abilities work via the story of bread being multiplied to the point of feeding everyone.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "Or a similar tale of finding a coin inside a fish's mouth.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "To someone with wordy attachments, the coin is nothing but a knickknack, but someone would treat it very differently.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "If you can feed the entirety of Gensokyo with that amount of food or make a coin of any value to appear inside of a fish...",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Then why not bless us with peace as well as good weather?",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "You are underestimating my powers, swordswoman...",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "Uhh... okay. I will take back the words I said earlier...",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "You think you are gonna be a kind of unholy animal in this kind of weather? Fine, I will do what you will!",
+        "function" : "scr_start_boss"
+    },
+}

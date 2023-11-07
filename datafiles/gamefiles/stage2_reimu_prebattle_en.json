@@ -1,0 +1,91 @@
+{
+    "lng" : 12,
+    "char_info" : {
+        "nm" : "Ayaka Takajima",
+        "desc" : "The Mystic Who Transcends Humanity"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Oh dear... Why is the mist at the Misty Lake purple today? There must be some suspicious agenda behind it...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Ah, an intruder who breaks the holy silence of katharsis.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Even though I or the Almighty would not forgive your actions, in conformity with the virtue of Love, I should not smite her.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Excuse me, who are you, and what did you just say?",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "I'm Ayaka Takajima, a Mystic of the Modern World.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "This world is too sinful for a person destined for a life devoted to the union of God like me.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "So, transcending humanity that is mystically unifying with God is the only way for me to escape this world.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Uh, it's all Greek to me. Besides, we Shintoists do not believe in all those heebie-jeebies.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "You must be a person from the Myouren Temple or one of those 'heretics' I met earlier.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "I sense something fishy about you guys.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "You must be the ones who set up the concert to steal our local bands' audience.",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "What!? Th... thou... call me such a pure and holy person a heretic! Fie! Then fire and brimstone should be upon thee!",
+        "function" : "scr_start_boss"
+    }
+}

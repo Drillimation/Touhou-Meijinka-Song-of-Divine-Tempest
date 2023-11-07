@@ -1,0 +1,105 @@
+{
+    "lng" : 14,
+    "char_info" : {
+        "nm" : "細川カオリ",
+        "desc" : "大天使バラキエルのアンジェラス"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "この嵐について馴染みのあるものを感じる…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ナイフが逸れ始めたときすごく似ている気がするわ…",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "？？？：",
+        "dialogue" : "ナイフが逸れるのを伴う何かを体験するの？",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "そうさ、金の心で若者の働きだよね…あたしではないが、王姫だぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あら、あんたを操作するビッグショットがあるの？",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "いずれにしても、その人は前に会ったクロスクラッド人々に関係のあると思う…",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "いずれにせよ、鳴神王姫があたしを操作しなかった。サービスの下を簡単に奉仕しているわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "主のホストに向かって、なぜとても多くの敵意を運んでるのよ？",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "誰かがそんな気持ちがあれば、おそらく悪魔の代理人だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あっ、やっぱり名誉を間引きしたいだと思うね。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "権威と権力を挑戦するのをを決めたら、レミリア嬢様は喜ばないだろうよ…",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "言葉は紅悪魔の力で同盟を装う兆候だ。",
+        "function" : "scr_bgm_fade"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あっ、どのように近づくの？",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "メイドの外見を取るので、ヘルスポーンで地獄に焼くのだぜ！",
+        "function" : "scr_start_boss"
+    }
+}

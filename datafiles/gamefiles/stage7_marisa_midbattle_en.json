@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "What the... why are you here again?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Are you going to give me a dirty look and then proceed to do nickel-worthy filthy acts?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Can you please mind that there is some serious matter going on? I must warn you: one more step and you will be dead.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "This is the look of a liar! I can definitely see through it.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "First, you think that praising the Lord of Hosts is criminally underrated. Now that you're seeing me as a liar...",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Fine! One last warning: You can defeat me again, but you won't defeat who you'll face next!",
+        "function" : "scr_start_boss"
+    }
+}

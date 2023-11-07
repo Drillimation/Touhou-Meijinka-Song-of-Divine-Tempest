@@ -1,0 +1,168 @@
+{
+    "lng" : 23,
+    "char_info" : {
+        "nm" : "神崎エミリ",
+        "desc" : "決意を強さに変える乙女"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "結界を越えて、柱で不思議な「もの」を見る。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "見た目に基づいて、普通の柱と思わないが、外の世界から鈴が中に置かれた柱だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "記憶が正しければ、レイムが教えたによると、「鐘楼」と呼んだとスミレコが言った。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "一つの質問が残す：そもそも、なぜ柱はそこにいるのか？舞台であるはずの？",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "お嬢様が祈ることに舞台が必要。",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "毎朝、午後、夕方、鐘楼の鈴が祈りを呼ぶ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "私、神崎エミリが、鳴神隊者から卒業したのに、護衛でまだ働く。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "さまざまなニーズの責任にある、祈りの鈴を鳴らすのが含む。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "塔の使用を正しくに推測したと思う。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "祈りの鈴の単一のアイデアはまったく奇妙だけど。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "教会の会員の練習がわからないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "はい、人里離れた異郷の地で住むので、これに気づいていないが。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "簡単に言えば、教会はいくつかの敬虔な実践である。いくつかがわかりやすいが、他がわからない。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "世界中に、クリスマスの練習はどこにでも明らかだが…",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "世俗化なので大幅に変更された。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "前にそれものについてスミレコが教えた。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "ここにその休日を祝うのが欲しかったら、七面鳥がクリスマスに投票するのようなものだわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "サンドバッグ侍さん、なんだっけ？",
+        "function" : "scr_bgm_fade"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "ここに信仰を練習したいと言ったら、壊滅寸前だの！？",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "いいえ！スミレコが教えた何は実際には別の意味だぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "あんたが来た土地は幕府の秘密の最後の砦だと思う。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "その所に教会の示教について言ったことのせいで…",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "もう少し頑張る必要がある、おかま。没落が起こらないのよ！",
+        "function" : "scr_do_nothing"
+    }
+}

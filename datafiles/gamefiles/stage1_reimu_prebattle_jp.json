@@ -1,0 +1,70 @@
+{
+    "lng" : 9,
+    "char_info" : {
+        "nm" : "細川カオリ",
+        "desc" : "大天使バラキエルのアンジェラス"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "まぁ、その嵐が私を濡れたにしたよ！原点はどこ？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "？？？：",
+        "dialogue" : "大主人が嵐を想起させた。起こるとき、力が強くなるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "前掛けの刻印に基づいて、少し前に会った異端の人々に見える。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "ねぇ、あたしに異端と呼び出しないのよ！",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "あたしため、品等の神様の信者。大鳴神王姫がこのパラダイス的なコンサートで幻想郷を祝福した。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "じゃ、あんたは人々の一人だね？異端が主催した所に行かないよ。",
+        "function" : "scr_bgm_fade"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "うーん…よくもそんなのができるな。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "レイム：",
+        "dialogue" : "お…落ち着いて、若い子！",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "あたしに異端と呼び出したから、人々に祝福は呪いなるよ！",
+        "function" : "scr_start_boss"
+    }
+}

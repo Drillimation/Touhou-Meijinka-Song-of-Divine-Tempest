@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Hey! Why are you here? This is some serious business, so get out.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Well, you are the one that is supposed to get out!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "My little cousin will absolve all of this sinful land, making it fit to see the coming of God.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Reimu:",
+        "dialogue" : "We have seen God in Gensokyo twice to be exact.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Urgh!",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "This is God's ultimate coming to the land for purifying the hearts of its people and make them God's adoptive Children!",
+        "function" : "scr_start_boss"
+    }
+}

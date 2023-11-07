@@ -1,0 +1,62 @@
+{
+    "a0" : {
+        "name" : "DRILLER",
+        "score" : 76500,
+        "stage" : 5,
+        "char" : "REIMU"
+    },
+    "a1" : {
+        "name" : "DRILLER",
+        "score" : 70000,
+        "stage" : 5,
+        "char" : "REIMU"
+    },
+    "a2" : {
+        "name" : "DRILLER",
+        "score" : 65000,
+        "stage" : 4,
+        "char" : "REIMU"
+    },
+    "a3" : {
+        "name" : "DRILLER",
+        "score" : 60000,
+        "stage" : 4,
+        "char" : "REIMU"
+    },
+    "a4" : {
+        "name" : "DRILLER",
+        "score" : 55000,
+        "stage" : 3,
+        "char" : "REIMU"
+    },
+    "a5" : {
+        "name" : "DRILLER",
+        "score" : 50000,
+        "stage" : 3,
+        "char" : "REIMU"
+    },
+    "a6" : {
+        "name" : "DRILLER",
+        "score" : 45000,
+        "stage" : 2,
+        "char" : "REIMU"
+    },
+    "a7" : {
+        "name" : "DRILLER",
+        "score" : 40000,
+        "stage" : 2,
+        "char" : "REIMU"
+    },
+    "a8" : {
+        "name" : "DRILLER",
+        "score" : 35000,
+        "stage" : 1,
+        "char" : "REIMU"
+    },
+    "a9" : {
+        "name" : "DRILLER",
+        "score" : 30000,
+        "stage" : 1,
+        "char" : "REIMU"
+    }
+}

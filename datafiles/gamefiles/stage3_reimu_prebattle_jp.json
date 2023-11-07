@@ -1,0 +1,112 @@
+{
+    "lng" : 15,
+    "char_info" : {
+        "nm" : "神崎エミリ",
+        "desc" : "決意を強さに変える乙女"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "結界の向こう側に何かを見る…そして所を守る人あるよう？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "えっと、これは、幻想郷を叩きた嵐に伴い、どこからともなく現れたコンサートだのね？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "なぜ、若い乙女さん、確かにそうよ！",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "こちらはトニトルスの舞台であり、天から送た鳴神嬢様による盛大出演の会場だ！",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "お嬢様はこの人里離れた地方の暗闇に光を確実に持ち込むよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "今まで、久々ため恐れの暗闇の中だった。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "幻想郷の人々を応援するに「鳴神嬢様」と呼んだ誰かように必要がないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "すでに、住人を楽しませるに鳥獣伎楽とプリズムリバー姉妹だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "おほほっ！これらのバンドはお嬢様に劣っている。人類に幸福を持ってくるに神様で送った。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "やっぱり、音楽に徳のある人をなりすますにこの人々は偽預言者で陥れた異教徒だ。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "どうしてこれについて口を閉じらなかったのよ？お嬢様について話し続ければ、大当たりを与える！",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "最愛のいとこを殺したそれらと、お前の心は暗いわ…行動は破裂した心を踏みにじれた…",
+        "function" : "scr_bgm_fade"
+    },
+    "a12": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "レイム：",
+        "dialogue" : "私を騙して没収するにすすり泣きの話を使わないで。明け渡しないのよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "超自然的な存在の殺人者と聞きたね。じゃ、それをさせないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "エミリ：",
+        "dialogue" : "鳴神の卒業生の神崎エミリは、コンサートを割り込むにチャンスをつかむ前にお前を打ち負かす！",
+        "function" : "scr_start_boss"
+    }
+}

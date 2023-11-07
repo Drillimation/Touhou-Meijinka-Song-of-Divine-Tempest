@@ -1,0 +1,98 @@
+{
+    "lng" : 13,
+    "char_info" : {
+        "nm" : "ジェーン",
+        "desc" : "思いを操作するロボット"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "二人の少女が言った何のように、ここで見るほとんど全ては黄金だ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "全ての黄金を取るのについて問題なのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "砂漠でお墓のように古代の存在を挑発するのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "ここで黄金のもの自由に取れて、利益に売る。",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "そこで十字架と聖杯を売れないけど。シモニアだ。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "私が黄金を取って売れてもいいのか？十字架と聖杯を売らないよ。香霖堂がすべてが持つ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "太陽のような形のものを売ることは私を間抜けな気分にさせると思うわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "ただ言った何を覚えるの？",
+        "function" : "scr_bgm_fade"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "あの…忘れた。とにかく何だのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "取って売りたいもの。聖体顕示台だ。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "聖体顕示台は神聖な目的のに予約される。家庭用品のように売るのはシモニアだ。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "シモニアはどのような罪だの？大罪だぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "地獄にまっすぐ行きたかったら、進め！始まりから値する、不信者よ！",
+        "function" : "scr_start_boss"
+    }
+}

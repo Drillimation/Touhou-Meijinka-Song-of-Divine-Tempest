@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Jane:",
+        "dialogue" : "Grant... me... Thine...eternal rest... A... men.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "Who is the real killjoy here? Not me, but you! You are a total tone-deaf sucker.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "And plus, what you just said is like you just shoved a bar of soap into your mouth.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "A minion of that Soap God or not, it is a pleasure to meet you, wimp.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Jane:",
+        "dialogue" : "Ugh...",
+        "function" : "scr_stage_clear"
+    }
+}

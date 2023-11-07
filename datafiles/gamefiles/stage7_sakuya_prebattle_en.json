@@ -1,0 +1,203 @@
+{
+    "lng" : 28,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "By sending whatever or whoever was the 'secret weapon' out there, it seems like she must have lost her marbles.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "If that person can cause me to have terrible nightmares, they better not mess or let alone negotiate with them.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "All of her efforts are like putting lipstick on a pig.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Futile? Worthless? Nah, that's none of my business.",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Are you Raiko's cousin? Since you don't look like her, I have to make sure you are actually her cousin.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "And why the heck did your cousin send you to 'negotiate'?",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Do you know the figure stalking the concert grounds is dangerous?",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Because she wants to. Since I am God... I mean, the vessel of Iesua, and the Son of the Nazarene...",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I can negotiate with just about everyone. And you are wrong though - the person is actually a nice person.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "Jeanne:",
+        "dialogue" : "It was love at first sight when I got a glimpse of them.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Ugh... A notorious Don Juan, right? You said they are so good-looking.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Everyone ends up falling in love with them even when catching a glimpse...",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Even though I don't believe in gods, Sumi told me that the people in the Outside World knows that God is chaste.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I mean, they're too young to do stuff like that.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "All of their followers just maintain friendship and loyalty to them.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "In the case of that one girl, a good relationship.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "And the reason they are here in the first place is to find a certain cambion who went on a rampage.",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "He trapped many of his followers inside a pocket dimension.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "All those pocket dimensions with strange text hooey?",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "C'mon, this is not THAT grimp place where magical girls are constantly hunting hostile surreal beings.",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "Jeanne:",
+        "dialogue" : "It's true. Seriously! This very cambion came with two of her sisters during an incident.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "One of them helped her penetrate into the Great Hakurei Divide.",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I didn't know that, but I know someone who did take part in the incident.",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Reimu, Marisa, Sanae, and that Girl who I barely even know.",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I don't know the weirdo who took part in the incident, but seems like she's based off some unfunny skeleton stories.",
+        "function" : "scr_do_nothing"
+    },
+    "a25": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "She had dunked on that cambion for sure. End of story, and what you just described is a lie.",
+        "function" : "scr_bgm_fade"
+    },
+    "a26": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Jeanne:",
+        "dialogue" : "NO! REALLY! Many people had been trapped in the barriers created by that cambion!",
+        "function" : "scr_do_nothing"
+    },
+    "a27": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Almost none of them came back, and I have to rescue them!",
+        "function" : "scr_start_boss"
+    }
+}

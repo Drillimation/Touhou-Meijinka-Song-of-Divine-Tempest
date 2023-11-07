@@ -1,0 +1,1 @@
+global.canjoin = true;

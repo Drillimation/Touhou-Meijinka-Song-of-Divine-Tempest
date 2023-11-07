@@ -1,0 +1,203 @@
+{
+    "lng" : 28,
+    "char_info" : {
+        "nm" : "堀川ジャンヌ",
+        "desc" : "夢幻のパーカッショニストのいとこ"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "「秘密の武器」を誰にでも送り込むことで、彼女が心を失ったわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "その人がひどい悪夢を引き起こすなら、交渉すべきではない。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "すべての努力は豚に口紅を塗るのよう。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "無駄または無価値よね？いいえ、関係ない。",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ライコのいとこだの？彼女のように見えないので、本当に？",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "なんでいとこがあんたを交渉するのに送り出す？",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "コンサート会場を歩き回る凄惨な姿は危険だと知る？",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "にしたい。神様なので…えっと、イシュアの容器、ナザレ人の息子…",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "私は誰でもで交渉できる。正しくないけど。人は本当に素敵だね。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "垣間見たとき、一目で愛だった。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ふーん…悪名高いドンファンわよね？とてもハンサムと言った…",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "サクヤ：",
+        "dialogue" : "垣間見るときとしても、皆さんが恋に落ちる。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "サクヤ：",
+        "dialogue" : "神様に信じない、外の世界の人々が神様は貞淑を知る。スミさんがそれを教えた。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "あの…それには若すぎるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "すべての従者は友情と忠誠心を維持する。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "の少女の場合、良い関係。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "そもそも存在の理由は暴れ回るカンビオンを見つけること。",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "従者を異世界にかけた。",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "異世界にかけるのはどういう意味なの？",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "魔法少女が敵対的な超現実的な存在を狩る不機嫌な場所ではない。",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "本当。まじで！異変中、このカンビオンは二人の姉妹で来た。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "一人は大博霊結界を突破するのに助けたぜ。",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "それを知らなかったが、異変で参加した誰かであった。",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "参加者はレイム、マリサ、サナエ、ほとんど知らない他の少女だった。",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "彼女についてあまり知らないが、笑えないホラー話に基づいて、思う…",
+        "function" : "scr_do_nothing"
+    },
+    "a25": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "そのカンビオンを本当に倒した。物語終わり、あんたの説明は嘘。",
+        "function" : "scr_bgm_fade"
+    },
+    "a26": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "いいえ！まじで！人々が多くのがカンビオンの結界を閉じ込められた。",
+        "function" : "scr_do_nothing"
+    },
+    "a27": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "そのなかで何もが逃げた。救わなければならないのよ！",
+        "function" : "scr_start_boss"
+    }
+}

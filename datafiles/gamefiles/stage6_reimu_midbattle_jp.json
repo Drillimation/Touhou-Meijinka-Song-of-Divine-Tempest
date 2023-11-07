@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "ねぇ！前にすべての問題を引き起こした同じ人だね！迷子になれるのよ？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "レイム：",
+        "dialogue" : "いいえ！時事問題に基づいて、主犯格を知る…",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "レイム：",
+        "dialogue" : "おそらく前に会った人だわ。終了に行って、主犯格を暴露するよ！",
+        "function" : "scr_start_boss"
+    }
+}

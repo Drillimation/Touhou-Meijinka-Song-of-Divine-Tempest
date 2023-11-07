@@ -1,0 +1,105 @@
+{
+    "lng" : 14,
+    "char_info" : {
+        "nm" : "細川カオリ",
+        "desc" : "大天使バラキエルのアンジェラス"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "この荒れた天気はとても不自然に見える、まるで誰かはこの種の天気を操作すれば…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "欲しかった最後のことは、この悪天候が鶏またはぬるぬるした何かように私を扱う…",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "あんたがすでに呪の効果の下のように聞こえるよ。",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "???:",
+        "dialogue" : "もしそうしたいなら、そうね。素晴らしい天気でナメクジと考えさせるために、あんたを呪えるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "呪いをやれるの？呪った物体と墓でおそらく働きた。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "呪いは暗黒面の祝福を与える能力の一部だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "パンを皆さんを栄養するに増やしの物語を通じて能力が機能するかとわかるかもしれない。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "または魚の口の中にコインを見つけの似たような物語。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "カオリ：",
+        "dialogue" : "くどいもので人に、コインは単なる小物以外の何物でもないが、現人神は全く違う扱いをする。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "すべての幻想郷をその量の食事で養えるか、あらゆる価値のコインを魚の中で出現させれば…",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "どう平和といい天気で祝福しないのよ？",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "剣士、力を過小評価しているわ…",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "あの…大丈夫。前に言った言葉を取り戻す…",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "こんな天気で不浄な動物なりたい？望むことをするのよ！",
+        "function" : "scr_start_boss"
+    }
+}

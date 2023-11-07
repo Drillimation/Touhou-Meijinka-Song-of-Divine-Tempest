@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "レヴァレンスに冒涜は永遠の罪だとあんたがわかるのか？もしそうなら、どうして続けるのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "試行し続ければ、待っている業火が怖いのよ？ばかだの？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "冒涜ではないの、おかま。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "もっと慈悲を示すのではなく、不思議なコンサートを主催する人を見つけたいさ…",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "いいえ！戻ってくれ！",
+        "function" : "scr_stage_clear"
+    }
+}

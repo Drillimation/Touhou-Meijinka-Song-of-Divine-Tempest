@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Kaori:",
+        "dialogue" : "Waaah! Why are you so strong?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "I told ya, you should not mess with a shrine maiden like me.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "This is what you get for forcing me to attend a heretical ceremony!",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Kaori:",
+        "dialogue" : "Augh...",
+        "function" : "scr_stage_clear"
+    }
+}

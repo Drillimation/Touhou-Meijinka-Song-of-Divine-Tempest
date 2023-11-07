@@ -1,0 +1,182 @@
+{
+    "lng" : 25,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "These symbols are definitely something for me. Based on them, I definitely know who is the mastermind of the concert.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "I'm back, Jane. Oh, it's not her but a maid I suppose. Anyway, nice to meet you.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "A redhead with a sleek look? You must be the same person I met in an incident involving my knives behaving weirdly!",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Did you remember when I had really good fun just trolling with you?",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "And once both of us are done, we are like 'let's just chill out after playing rough with each other!'",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "I haven't done such things yet. It is my late adoptive father who doesn't want anyone to lay a finger on me.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Even if I really deserve it for some unholy reason...",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "As a result, I stay away from fights, and don't even think of picking up a fight myself.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "But as he is long dead and I have risen to power, I am now the apex of House Horikawa.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "Commoners like you are supposed to fall on your knees upon seeing me.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "I am the one whose voice can make the Welkin Palace tremble.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "You want me to fall on my knees upon seeing you in plain sight?",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Even if you're a noblewoman like what you are claiming, there's a greater chance that you will get duped by your ex.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I have heard about this before.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "It's probably the boyfriend who went off to study for priesthood as one last revenge for your family's corruption.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "They can't produce children meaning no heirs, they go awol on media regulation, and God knows what else.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Are you spilling the beans in the worst bits of our family? This is definitely something that will not go unpunished.",
+        "function" : "scr_bgm_fade"
+    },
+    "a17": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "I'm not a lawyer so we cannot kill you as punishment. But something worse is definitely going to happen...",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Sakuya:",
+        "dialogue" : "If you plan to kill me, this is the Inquisition all over again.",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Sakuya:",
+        "dialogue" : "If you won't, I will take back my words and pretend this didn't happen. You'll spare me in the process, right?",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "What a smart move you're trying to pull in order to get out of this sticky situation. But it's too late now.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Everything you do has their consequences, being connected to each other like a zipper.",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "When they stay put, everything works as intended, but once unzipped chaos will ensue by what the Almighty wants.",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "Now, prepare to stand before the Angel of Thunder. You will be engulfed by the chaos that you will heap!",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "This zipper of fate, once unzipped, shall unleash the Egyptian darkness that befalls those who are holier than you!",
+        "function" : "scr_start_boss"
+    }
+}

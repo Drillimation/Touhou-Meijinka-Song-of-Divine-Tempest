@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "印象だよね。私より時間が早く加速すると感じる…彼女の存在に一歩近づく？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "本当にいいえ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "私をいじって無駄にした時間のために罪悪感を感じさせるにこれをやったよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "これを教えなければならないわ…次に会う人を注意すれくれ…外観は嘘…",
+        "function" : "scr_stage_clear"
+    }
+}

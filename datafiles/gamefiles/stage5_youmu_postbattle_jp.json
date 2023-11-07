@@ -1,0 +1,70 @@
+{
+    "lng" : 9,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "ジェーン：",
+        "dialogue" : "シモニックさん…聖体顕示台を盗み続けようとしたいと思うね？好きなことをすれ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "私達の神様に信仰が持たないので、地獄に行くかどうかは気にしないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "やっぱり、地獄を言及したので、聖体顕示台を盗まないわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "あんたの地獄はどのようなものがわからないけど、私のはとても野蛮な。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "スミレコさんがあんたの地獄についてとても長い詩を読み上げた。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "旧地獄に似たもの。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "あんたも神様を言及したので、このコンサートの巨擘の名だと思うね。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "そうだとすれば、奇妙な宗教運動に従者を集まるにこのコンサートは大きな計画全体だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "あんたの言葉...嘘つきになった！再び、シモニックだぜ！",
+        "function" : "scr_stage_clear"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "I'm not done with you yet! Saying that I have a bar of soap in my mouth... this is unacceptable!",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Who cares? I have one of your pictures. You are definitely an agent of that Soap God.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "You better stay inside a bubble rather than going around that tone-deaf idiot.",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "lng" : 24,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "That's odd...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Back at the stage, she was dead serious. Now all of her words seem to be like as if they are coming from a total doofus.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "From what Driller told me earlier, this whole incident isn't Raiko's fault, but the soap god and their lackeys...",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Thankfully those dogs who attacked Driller earlier on didn't show up. Otherwise I would be dead at this point.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Soap god? You must be crazy. Divinity, even those false gods, don't even patronize soaps.",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Crazy? Nah, that's a lie.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "What I meant is that whoever you are, you must be connected to that eccentric dichromatic weirdo I met ages earlier.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Fruitcake? You called Adonai a fruitcake? Especially when you are saying that in front of me, is she the same nature?",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I have a feeling that you were just there loafing around at the moment...",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "To the point that Adonai got fed up with your antics.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Well, heck no. She didn't lay a finger on me as soon as I declared that I don't believe in gods.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "What you call 'smiting' only works on those who believe in that kind of nonsense.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Even those who are ignorant of divine retribution are no exceptions to the grapes of wrath.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Despite being oblivious to the sheep, Jezebel suffered a tragic end because she defied El Shaddai.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Serves her right.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "It's like getting thrown out of a window and getting mauled by dogs. It's gruesome but painful anyway.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "You have made a smart move by expressing malicious joy towards this matter.",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Unfortunately, I must say that the near exact same thing might happen to you soon thereafter if you persist here.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "What are you talking about? You are nothing but a meat puppet of the soap god.",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "And by meat puppet, I mean, those who come around knocking on every door, asking how they're doing.",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "They then leave with the result of more fools that eventually become more meat puppets.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "I cannot tell a lie; this is my most honest opinion about people like you.",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Well then, I regret the decision to not send Mary after you. But it's fine.",
+        "function" : "scr_bgm_fade"
+    },
+    "a23": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I have no need for my Agents to fight. I shall smite this witch with a sharp sword coming from my mouth!",
+        "function" : "scr_start_boss"
+    }
+}

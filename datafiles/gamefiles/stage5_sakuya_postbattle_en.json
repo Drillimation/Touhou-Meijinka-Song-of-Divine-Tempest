@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Jane:",
+        "dialogue" : "I know you are going to survive this ordeal. Now, I want you to do one thing.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Join me in this heavenly orchestra by drinking this tea. Now, take this.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "You want me to drink that gross-looking yellow tea? I won't.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "For the love of God, this method only works for those who have slipped on a banana peel.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "So, even if you try this on me, I am definitely not going to join you as I have a lot more business to do.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "But wait a minute... Robots like you don't have a digestive system, no matter how humanoid you look.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Don't you know that the digestive system can be synthesized!?",
+        "function" : "scr_stage_clear"
+    }
+}

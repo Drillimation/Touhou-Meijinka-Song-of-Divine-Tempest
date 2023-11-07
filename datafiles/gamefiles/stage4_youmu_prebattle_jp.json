@@ -1,0 +1,119 @@
+{
+    "lng" : 16 ,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "それらは誰だの？そのコンサートを入ること、なんでランダムな人々が邪魔になるのを見ている？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "鈴鳴らしを倒したから？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "言うなんや？知る限りなら、ここに鈴があらへん！",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "やっぱし、何について話しているのわかれ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "うちに、芸者公演の会場ためひどく醜いや。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ユミ：",
+        "dialogue" : "お姉はん、誰かが剣をうちで振ったわ！幸いことに、回避したさけ、けがをしなんた。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "お姉さんが色とりどりの髪が持っているが、なんで妹が青髪だかな…",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "似たような外見で鬼女が呪文を彼女に唱えたね？",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "何でもをあんたが言うて、うちが鬼女の呪文で呪わへんかったのう。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "とにかく、真実を説明しい。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ユミ：",
+        "dialogue" : "そこにその少女についてなんでっか？その剣がうちをほぼ半分に切れたえ！",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "話してる何だの？私を壁にピン留めしたいのか？",
+        "function" : "scr_bgm_fade"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "ユユコ嬢の侍女はん、そのコンサートを襲撃しいわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "観客を盗んだって鉱山国を修道院のように聞こえたさかい、これは復讐や。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "ユミ：",
+        "dialogue" : "襲撃どすな？それを延期して。お姉はん、その剣士を倒そ！",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "ユミ：",
+        "dialogue" : "鉛を食べることがどんな感じかを見せるのん！",
+        "function" : "scr_start_boss"
+    }
+}

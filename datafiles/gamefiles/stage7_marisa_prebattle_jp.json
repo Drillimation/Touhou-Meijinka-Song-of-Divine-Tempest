@@ -1,0 +1,175 @@
+{
+    "lng" : 24,
+    "char_info" : {
+        "nm" : "堀川ジャンヌ",
+        "desc" : "夢幻のパーカッショニストのいとこ"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "奇妙な…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "大まじめのようだ！すべての言葉は全くの愚か者から来るわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "前にドリラー様が教えた何から、この異変はライコ様の罪ではないけど、ソープ神…",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "ありがたいに、ドリラー様を戦った犬が現れなかった。やっぱりこの点で死ぬだろう。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "ソープ神？狂ったのようだ。神性と偽りの神さえもソープをひいきにしない。",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "狂った？いいえ、うそ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "だれであっても、会ったずっと昔の風変わりで二色性のおかまに関係である。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "アドナイのことだの？彼女で同質だのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "ぶらぶらしているのを見たね…",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "アドナイがおふざけにはうんざりなった？",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "じゃ、いいえ。神様に信じないのを宣言したかのように、私を触らなかった。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "殴るのは無意味だと信じる人たちでのみ機能する。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "天罰の無知でも、怒りのブドウに例外がない。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "羊に無意識であるにも関わらず、エルシャダイを無視したからイゼベルが悲劇的な結末苦しんだ。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "記憶が正しければ…",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "窓から放り出されて犬で戦ったのよう。とにかく陰惨で苦痛な。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "私に悪意のある喜びを表現したから、賢明な行動をとった。",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "不幸にも、粘り強く続ければ全く同じことがあなたに起こるよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "話す何だの？ソープ神の肉人形？",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "言いたいのは、訪問販売員のように振る舞うこと。",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "もっとおかまを肉人形に変換したいわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "嘘をつけないが、あんたについてこれは正直な意見だ。",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "じゃ、メアリーがあなたを追求するのを後悔するけど、大丈夫だよ。",
+        "function" : "scr_bgm_fade"
+    },
+    "a23": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "代理人が戦う必要ない。口から鋭い剣を使うと、この魔法使いを倒す！",
+        "function" : "scr_start_boss"
+    }
+}

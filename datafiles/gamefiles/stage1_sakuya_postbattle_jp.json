@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "カオリ：",
+        "dialogue" : "お前に攻撃を与えようとするたびに、なぜすべてが止まって代わりにあたしを打つのよ？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "時間を操作するのに先天的な能力のせいだよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "また私をいじったら、同じことが起こるぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "カオリ：",
+        "dialogue" : "ふーん…",
+        "function" : "scr_stage_clear"
+    }
+}

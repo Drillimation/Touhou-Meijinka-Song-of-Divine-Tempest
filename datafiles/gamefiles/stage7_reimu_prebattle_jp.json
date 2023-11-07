@@ -1,0 +1,182 @@
+{
+    "lng" : 25,
+    "char_info" : {
+        "nm" : "堀川ジャンヌ",
+        "desc" : "夢幻のパーカッショニストのいとこ"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "あの、なんで今回はライコ様がそこまで残酷である必要だった？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "さらに、異端神を言及したので、何か疑わしいであるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "神を幻想郷に招待するのにユカリ女王様は緩すぎるよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "異端の宗派が「許し」を強調したとしても…",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "誰かが三位一体についてピシャリと話している…または心だのか？",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "あら、ライコ様が前に言及した人だの？",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "彼女に似ているけど、そうではないよう。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "待って…会った人々から、神様の子を呼んだ人だの？",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "まさに！これを教えなければならないよ：",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "父なる神は、名が多くの二色性の存在、この素晴らしい界を作って、既存と聖霊だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "すべての存在は神様に賞賛を与える必要。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "二色性も。お父さんは以前会った家長で同じ？",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "洪水の生存者が簡単に逃げてほしかったから空を壊した。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "邪悪な世界には、残ったのは良い人だけだったから、父なる神が救いたかった。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "最近、ライコ様は私が堀川家の住人になってほしい。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "父なる神と聖霊の到着に備えて、三位一体の力を目覚めたよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "あら、家がその不純な人を「採用した」ね？",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "祖国の「守矢神社陰謀」と同じように、神様で設定した「YHWH陰謀」である？",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "不浄の地の人民を救うのに神様の計画についてピシャリと話すので、怒りが降るよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "感じれるわ。私の前に立てる巫女さんに目指するぜ。",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "言葉で私を傷つけれないね？知る限りでは、攻撃は信者に効果があるね。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "神道巫女さんなので、攻撃に免疫があるよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "準備ができていなかったら、あんたと信者が消える。いつもそうしてきたように！",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "口から宣戦布告するよ！",
+        "function" : "scr_bgm_fade"
+    },
+    "a24": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "鋭い剣が現れる、神様の怒りで冒涜的な巫女を打ち倒すぜ！",
+        "function" : "scr_start_boss"
+    }
+}

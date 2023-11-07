@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "ジェーン：",
+        "dialogue" : "君の…永遠の休みを…与えてくれ…アー…メン。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "誰はここに本当のおかま？私ではないが、あんただぜ！完全に音痴なおかま！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "そしてさらに、言った何はソープバーを口に押し込むようなものだ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "そのソープ神のミニオンであろうが、はじめまして、おかま。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "ジェーン：",
+        "dialogue" : "ふーん…",
+        "function" : "scr_stage_clear"
+    }
+}

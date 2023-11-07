@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "ジェーン：",
+        "dialogue" : "うぅん…体は事実上壊れにくい素材から作った。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "ジェーン：",
+        "dialogue" : "どうやって私を倒したの？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "やっぱりロボットだのね？それは悪い知らせよ。倒す前にロボットを戦って倒した。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "簡単だったわ。さらに、「事実上」は「絶対」ではないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "総当たりで、あなたを戯れ付ける、体に深いへこみを与えるわ！再び戦いたいの？",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "ジェーン：",
+        "dialogue" : "いいえ…",
+        "function" : "scr_stage_clear"
+    }
+}

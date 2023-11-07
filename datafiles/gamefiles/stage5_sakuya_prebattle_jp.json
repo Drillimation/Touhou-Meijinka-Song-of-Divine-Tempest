@@ -1,0 +1,84 @@
+{
+    "lng" : 11,
+    "char_info" : {
+        "nm" : "ジェーン",
+        "desc" : "思いを操作するロボット"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "美しい舞台裏！",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ロードローラーを使うことで破壊したら、残念に思う…",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あら、そこに本棚を見るわ。誰かの頭を打つに百科事典がない？",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "よくよく見てみると、予備の百科事典がある。",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "不幸にも、武器で使えないよね。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "あんたを百科事典で打てなかったら、後ろから撃つよ。紐を付けずにやるぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "私を傷つけれると思うのね？残念な、体はアダマンティンから作った。",
+        "function" : "scr_bgm_fade"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "一つの弾幕がノミのダメージを与えると思えば、４つはどう？本当に怖い！",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "レヴァレンスに信じる人々の中で、四肢恐怖症が存在しない。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "救いの言葉を広める著名な人々は誰だの？４つがあるよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "ジェーン：",
+        "dialogue" : "今、選べる二つの道である：秘密の和音で倒すこと、生き残りたかったら、参加してくれ！",
+        "function" : "spr_start_boss"
+    }
+}

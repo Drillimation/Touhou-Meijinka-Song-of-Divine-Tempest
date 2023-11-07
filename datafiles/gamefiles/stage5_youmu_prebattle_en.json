@@ -1,0 +1,98 @@
+{
+    "lng" : 13,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Just like what these two girls said, literally almost everything I see here is golden. ",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "What's so wrong about taking all this gold for ourselves?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Are we going to provoke some ancient being hidden inside, like those tombs in the desert?",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "You are free to take some golden stuff here and sell it for some money you can pocket.",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Unless you are going to do that with those crosses and chalices over there, that's simony.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "So, I can take and sell these items? I am not interested in selling those figures or discs. Kourindou has them all.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Instead, I think selling anything shaped like the sun would make me goofy.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "Remember what I have just said regarding those things, stranger?",
+        "function" : "scr_bgm_fade"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Uhhh... I forgot. What is that thing, anyway?",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "The thing you want to take and sell? That's a monstrance.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "And since monstrances are reserved for holy purposes, the selling of them like household objects is considered simony!",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "And what kind of sin is simony? Mortal!",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "If you want to be sent straight to the Netherworld, go forward! You deserve it from the beginning, fushinja!",
+        "function" : "scr_start_boss"
+    }
+}

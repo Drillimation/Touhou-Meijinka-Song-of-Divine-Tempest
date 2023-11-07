@@ -1,0 +1,252 @@
+{
+    "lng" : 35,
+    "char_info" : {
+        "nm" : "堀川ジャンヌ",
+        "desc" : "夢幻のパーカッショニストのいとこ"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "昨夜から悪夢はとても怖かった…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "ヨウム：",
+        "dialogue" : "閻魔が行為に判断すると思うけど、他にあるの？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "閻魔に言えば、判定は魂に効果がない。",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "異教の神の判定は神様の永遠判定には及ばないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "神様？神道は八百万の神で優勢である。仏教では、事実上の神様がない。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "魂の判定を教えながらも、人々の行為は神力ではなく運命を決める。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "いくつかの学校は仏教の教訓を教えるね。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "迷宮の作成者は良い天使の支配の下…",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "土地の人民の罪の啓示が手に負えなくなった。妄想症が起こったわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "元は、計画はカンビオンを殺すんだ。周囲の土地を戦って魂を罠にかける。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "カンビオンの次の計画はこの土地を戦うと思うよ…",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "天使！？本当を？少し前に、香霖堂に行ってここにスミさんを会った。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "外の世界の文化で専門家だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "神学はさまざま天使であると彼女が言った。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "助けるんに非常に少ないのが地球に来た。現代時代でも。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_joy",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "極秘の「教会公文書」と聞きた？",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "古代の強力な大天使ゼフェリエルについて機密情報である。",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "過去では、ルシファーの没落に続いて天の主人の指揮官だった。",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "没落の前、ミシェルで継いだ。今でもそれを持っている。",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "また、魂は二つに分かれた。",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "悪くのは体ごと落ちた、悪名高い悪魔なったわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "良くのは「不思議な人」で生まれ変わった。",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "両方から心が別れた、「鏡達の迷宮」の黒幕で生まれ変わった。",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "あぁっ…信念は輪廻転生について教えなかったと思った！",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "セイガで言及した西洋の預言者の教えとスミさんの言葉は光を当てない。",
+        "function" : "scr_do_nothing"
+    },
+    "a25": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "異端のかな…",
+        "function" : "scr_do_nothing"
+    },
+    "a26": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "異端ではないわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a27": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "考えは逸脱だが、注目すべき神学者で書きたので、嘘で否定できない。",
+        "function" : "scr_do_nothing"
+    },
+    "a28": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "秘教的な。主流の信念は教えを知らずに、「異端的」でラベルを貼る。",
+        "function" : "scr_do_nothing"
+    },
+    "a29": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "秘教的な考えは異端とみなされるなら、なんで秘教的な学校が存在するのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a30": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "例えば：真言仏教、陰陽道、ユダヤ教カバラ。世界は神秘的な方法で動作するよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a31": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "そして人類の信念。とにかく、幻想郷に問題を起こらないのを教えれ。",
+        "function" : "scr_do_nothing"
+    },
+    "a32": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ヨウム：",
+        "dialogue" : "おかまにストレスを和らげたいわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a33": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "言ったように、危険なカンビオンが周囲の土地を荒らす。すぐで幻想郷を戦うかもしれない！",
+        "function" : "scr_bgm_fade"
+    },
+    "a34": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "あんたように、人々が苦しむのに欲しくないのよ！",
+        "function" : "scr_start_boss"
+    }
+}

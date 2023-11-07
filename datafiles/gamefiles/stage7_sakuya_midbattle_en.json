@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Are you braindead!? Once bitten, twice shy.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Remember, you have been ambushed by that 'creepy kid' some time ago!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "What are you talking about? I have been cautious ever since I got ambushed, but I am here for another reason...",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "What reason?",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "About the mysterious ghoulish figure who was making me lose my business...",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "I have sent my 'secret weapon' to negotiate with the 'mysterious person'. She shall return from the mission soon!",
+        "function" : "scr_start_boss"
+    }
+}

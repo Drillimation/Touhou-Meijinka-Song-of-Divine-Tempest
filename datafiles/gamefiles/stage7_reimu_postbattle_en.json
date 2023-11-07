@@ -1,0 +1,42 @@
+{
+    "lng" : 5,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Sorry for being harsh with you, shrine maiden! I finally know of your goodwill to protect your denizens no matter what!",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Since I, the Father, and the Spirit know that the land is sinful because of their faith in God...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "We have to do something about it or else it will be smitten by God!",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Will you please spare all of my believers, including my cousin, and accept them to the Land of Illusions?",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "Indeed, but you should not cause any trouble to the people of the land, okay?",
+        "function" : "scr_game_clear"
+    }
+}

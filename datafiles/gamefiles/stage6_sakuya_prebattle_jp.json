@@ -1,0 +1,182 @@
+{
+    "lng" : 25,
+    "char_info" : {
+        "nm" : "堀川ライコ",
+        "desc" : "天な夢幻のパーカッショニスト"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "シンボルが何かを意味する。知識に基づいて、コンサートの黒幕を知ると思う！",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "ジェーンさん、戻ってきたよ。あ、彼女ではないがメイド。とにかく、はじめまして。",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "洗練された外観で赤毛？ナイフが奇妙に振る舞っていたときの異変中、同じ人だわ！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "トローリングをとても楽しんでいたときを覚えるのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "そして終わったとき、「乱暴に遊んだ後リラックスするぞ」と。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "まだこれをやっていなかった。亡き養父は、誰でもが私を触るのに欲しくない。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "不浄な理由でたとえ本当に値するとしても…",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "結果として、争いを避ける傾向がある。始めることさえ思わないで！",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "養父が死んで私が主導権を握ったので、堀川家の頂点！",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "平民が私を見るとき、膝に落ちる。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "声が楽園浄殿を身震いにするわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "私が膝に落ちることを見たいのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "何を言っても、元があんたを騙す高い確率である。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "前にこれについて聞きた。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "家族の腐敗に復讐で司祭になるおそらく彼氏と思う。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "子供たちがない、メディア規制に彼らが気が狂う、他に何があるかは神のみぞ知るよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "家族の最悪について豆をこぼす？本当にこれが無罪にはならないだろう。",
+        "function" : "scr_bgm_fade"
+    },
+    "a17": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "弁護士ではないので、罰で殺せないが。もっと悪いことが起こる…",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "サクヤ：",
+        "dialogue" : "私を殺すのに計画を立てれば、またまたこれだぜ。",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "サクヤ：",
+        "dialogue" : "殺さなかったら、言葉を後悔して起こらなかったふりをする。惜しみたいね？",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "厄介な状況を出るにやろうとする賢い行動だけど。遅すぎるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "すべての行動は結果がある。ジッパーのように繋げた。",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "一緒とき、すべてが意図したとおりに動作するけど。解凍したとき、全能の名に混乱が起こる。",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "今、雷鳴天使の前に、立つ準備をしろ！混乱で飲み込むわよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a24": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "この運命のジッパーが解凍したとき、最も神聖を降りかかるエジプトの暗闇を解き放つ！",
+        "function" : "scr_start_boss"
+    }
+}

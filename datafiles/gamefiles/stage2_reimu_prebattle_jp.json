@@ -1,0 +1,91 @@
+{
+    "lng" : 12,
+    "char_info" : {
+        "nm" : "高島アヤカ",
+        "desc" : "人類を超越する神秘"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "まぁ…どうして霧の湖の霧は紫だわ？おそらく疑わしい議題だよね…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "あぁ、カタルシスの神聖な科学を壊した侵入者だ。",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "全能はお前のおふざけを許しないが、愛の美徳で殴らないよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "すみません？だれだの？何だって？",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "高島アヤカだ。現代世界の神秘！",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "神様の連合に捧げる生活ため、この世界は罪深すぎる！",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "あら、この世界を逃げるの唯一の方法は神様で神秘的に統一する人類を超越するわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "あの、すべてのグリークに見える。そして、神道家たちがそのヒービー・ジービーで信じないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "命蓮寺から人、または前に会った異端者だの？",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "本当にあなたは異端者場合は、どこかに行けっ！",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "地元バンドの聴衆を盗むにコンサートを整理したの？",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "何！？お…お前は…異端者と呼ばえば、火災と硫黄が来るよ！",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "prompt" : "↑↓: Select  Z/A: Play  X/B: Exit  C/X: Stop",
+    "song_name" : {
+        "a0" : "Amidst the Musical Tempest",
+        "a1" : "She Who Bestows Barachian Blessings",
+        "a2" : "Novus Fulguris",
+        "a3" : "Misty Borders Between the Viewable",
+        "a4" : "Mystic Fragrance of Prayers and Incense",
+        "a5" : "Perpetual Scarlet of Oriental Orl\u00e9ans",
+        "a6" : "Vengeance for the Lost in a Battlefield",
+        "a7" : "Grand Debut On Air",
+        "a8" : "Fantastic Stardom ~ La Naranja Princesa",
+        "a9" : "Hallway to Ethereal Chorus of Paradise",
+        "a10" : "Shining Miracle of the Angel of Music",
+        "a11" : "Into the Eye of the Divine Tempest",
+        "a12" : "Paradisiacal Primordial Light of Remiel",
+        "a13" : "Into the Ethereal Realm of Eternity",
+        "a14" : "Maiden of Salvation ~ Way of Rakuen",
+        "a15" : "Cecilian Concerto",
+        "a16" : "The Thunderbolt that Ignites Our Souls",
+        "a17" : "Player's Score"
+    },
+    "comments" : {
+        "a0" : "Title screen theme.\n\nWhen I began working on the game's soundtrack, this is what I jumped onto.\nI didn't use any inspiration. All I did was throw down whatever I slammed on my keyboard. ^^;\nAnyway, to fit within the game's theme, I used the choir to give the illusion of somebody singing (Raiko, perhaps?).",
+        "a1" : "Stage 1 theme.\n\nI needed to find a way to get the introductory feel to this game. It was tough trying to move from Japanese to Western style while I was composing this theme, but I was able to get used to it.\nAs illustrated with those trumpets, it sounds heavenly and light, even though it takes place during a thunderstorm. The way beginning stage themes sound varies depending on my overall mood.\nI didn't want to get struck by lightning while composing this theme.",
+        "a2" : "Kaori Hosokawa's theme.\n\nPlayers of Chuhou Joutai 3 may be a little familiar with this theme since it is a partial arrange of Angelic Resurrection of a Winter Avatar, even though Meijinka doesn't take place in winter.\nEmiko likes incorporating Latin words into the stuff she names. This is one example.\nThis is a carryover from Kagami Ochiai's Gagaku Works. The original didn't sound like this. It was in a different key before I changed things up to match the action of a Touhou game.",
+        "a3" : "Stage 2 theme.\n\nThis theme is an arrangement of a song I did for Susumu Takajima's Memorial Works. The original took place in a forest, even though the second stage takes place in the Misty Lake. The water color being purple kind of contributed to its gloomy atmosphere.\nI drank some grape water after I finished writing this theme.",
+        "a4" : "Ayaka Takajima's theme.\n\nWhen I saw this character for the first time, I didn't know who she was all because she shared the same last name as Susumu Takajima from Chuhou Joutai.\nThe original didn't have the boss feel and was written on the YM3812 chip. I arranged it for the Super Nintendo's audio hardware, this time going more intense.",
+        "a5" : "Stage 3 theme.\n\nI needed to cool things down after the previous theme. I wanted to mix Japanese and French styles, so that's why you hear both in this song.\nAfter racing through Paris Promenade, I decided to make this theme a waltz number like the course.",
+        "a6" : "Emiri Kanzaki's theme.\n\nThis is what happens if you mix a maid and melancholy, and make it more intense.\nEmiri is swearing her revenge over someone's death, so that's why I gave it a fierce feel.",
+        "a7" : "Stage 4 theme.\n\nTwo youkai-borns appeared to leap through time to the Edo Period. This is the reason I gave it an electronic feel.\nBecause the Ochiai Clan is a very traditional family, I made it sound oriental. Of course, this would be an idol's theme for when she makes her debut.",
+        "a8" : "Kagami Ochiai's theme.\n\nThis theme should be familiar to those who've played the Phantasmagoria of Dimensional Dreams NES Demake or Chuhou Joutai 3 because this is a remix of said theme.\nThe double boss fight with the Ochiai sisters conveys its intensity. They're both singers, so they incorporate music into their spell cards. They're both princesses like the Watatsuki sisters and would love to spill a lot of royal jelly onto you!",
+        "a9" : "Stage 5 theme.\n\nThe stage takes place in a hallway, and the chants make up the chord progressions in this song.\nAnyway, there's a certain section that repeats a total of four times to give the feel of you getting closer to something.\nI'm assuming something heavenly. ^^;",
+        "a10" : "Jane's theme.\n\nI imagine this theme playing after a stormy Saturday. But that's turned upside down. I can't imagine an ending theme turning into a boss theme. ^^;\nSomehow, this theme manages to sound happy, intense, fun, and eccentric at the same time.",
+        "a11" : "Stage 6 theme.\n\nYou're probably familiar with this theme. This is a partial arrange of the extra stage theme from Double Dealing Character, only made short to fit the length of a final stage theme.\nThe organs in this arrangement help give this theme the feeling that this is almost the end. I mean, the organ has been a major instrument for the majority of themes. It's a leitmotif.",
+        "a12" : "Raiko Horikawa's theme.\n\nI know Raiko already has her own unique theme. Because she takes the role of the final boss of this game, this is a hypothetical theme if Raiko took the final boss's chair.\nIt is heavily inspired by the original, but given a final boss feel.\nI've seen Mima get repurposed into a final boss from an earlier game in the PC-98 days. I can't imagine what would happen if ZUN did the same for the next mainline entry.",
+        "a13" : "Extra stage theme.\n\nAgain, this is another theme that would play in a hallway but made much more heartfelt. I wonder if Satori would like this place.\nThe storm's already receded by now.",
+        "a14" : "Jeanne's theme.\n\nThis is an arrange of another song I wrote on the YM3812 before taking it to the Super Nintendo. The original sounds like it should play during the extra stage and not be the boss theme. I was given no choice.\nBoth versions really give a good jam.",
+        "a15" : "Ending theme.\n\nThis is just an arrange of Shining Miracle of the Angel of Music, but done in a way to fit the end of this game.\nI feel most ending themes sound like a town theme for an RPG, don't you think?",
+        "a16" : "Staff roll theme.\n\nThis is an arrangement of Paradisiacal Primordial Light of Remiel ~ Heavenly Bliss. Still, it carries the feel of going back home after a long journey.\nBut what if it takes place during a thunderstorm? ^^;",
+        "a17" : "Name entry theme.\n\nThis is an all too familiar theme to hear when the game is over. In real life, it sounds like you just arrived at home at night."
+    }
+}

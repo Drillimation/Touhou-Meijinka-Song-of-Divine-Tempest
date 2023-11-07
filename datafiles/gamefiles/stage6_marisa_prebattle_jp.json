@@ -1,0 +1,154 @@
+{
+    "lng" : 21,
+    "char_info" : {
+        "nm" : "堀川ライコ",
+        "desc" : "天な夢幻のパーカッショニスト"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "犯人の隠れ家は私が前に見たシンボルがあることを信じれないわよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "またはことが反乱を始めるとき、もしも…",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "誰か？ジェーンは？あら、彼女ではないが、魔法使いの人間よ。欲しい何だと？",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "あら、少し前に魔法の嵐の中にあった同じ人だけど。前回から、一味違うに見えるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "私を教えれ、なんでここに？プリズムリバー姉妹でと一緒にいるべきだのね？",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "プリズムリバー姉妹？聞いたこともない、メンバーではないわ。そもそもここにいる理由？",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "幻想郷は混乱で住む暗い場所と思うね。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "異変が多くのが短い期間内に起こる。あんたに、絶え間ない恐怖で住むよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Raiko:",
+        "dialogue" : "そもそも壮大音楽会が存在する理由。悲しみと恐怖で荒らす土地に喜びを取り戻すのに！",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "まったく。長年には、幻想郷住人が多くのが異変に関わった。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "状況に向かって無関心だったわ。とにかく、音楽の選択は無関係だと言わなければ。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "「ハレルヤ」と「主を讃榮せよ」は異端の神々で指示した下手な言葉よ。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "コンサートを主催するのにどこか別の場所を見つけれ。幻想郷にこれをやれないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "天な言葉の力を過小評価するわ。",
+        "function" : "scr_bgm_fade"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "主の聖なる名前を讃榮するに痛くないよ。お返しに、主の永遠生活を受ける。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Raiko:",
+        "dialogue" : "あんただけど、本当の不信者わ。主を讃榮しの利点を否定する。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_raiko_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "あの…何かが間違い。感じれる。ライコ様、大丈夫？",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "良い質問。主に向かって態度を保てば、すべては大丈夫ではないよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "まだ、生意気で不遜なら…",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "ソドムとゴモラの呪われた都市の門が開く！",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "Raiko:",
+        "dialogue" : "燃え上がるにつれて、火と硫黄を感じれ！",
+        "function" : "scr_start_boss"
+    }
+}

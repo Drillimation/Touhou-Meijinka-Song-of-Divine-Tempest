@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Good grief... I was almost sliced into half by that sword, but thankfully, the Archangel saved me in the nick of time...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "Oh, so you were able to dodge my slashes as easily as pie?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "You are lucky this time. But if you mess with me again, I will make you go west!",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Curse you, punching bag swordswoman...",
+        "function" : "scr_stage_clear"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "ふーん…印象的だ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "幻想郷でたくさんが起こる中で、「聖なる沈黙」を呼ぶに所がないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "それを練習するに外の世界で帰る必要。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "…",
+        "function" : "scr_stage_clear"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "何を…なんで戻った？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "私に汚い見た目を与えて、不潔な行為をやるのか？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "現在進行中の重大な問題に注意してください。別の一歩を歩けば、死骸なる。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "これが嘘つきの表情だぜ！本当に見れるよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "最初に、主を褒めるのは犯罪的に過小評価されると思う？嘘つきの顔で見てるから…",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_raiko_anger",
+        "speaker" : "ライコ：",
+        "dialogue" : "最後警告である：再び倒せるが、次を倒さないのよ！",
+        "function" : "scr_start_boss"
+    }
+}

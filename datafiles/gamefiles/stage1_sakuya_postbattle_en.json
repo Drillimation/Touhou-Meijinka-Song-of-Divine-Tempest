@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Kaori:",
+        "dialogue" : "Why is every time I try to land an attack on you, everything just stops and then targets me instead?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "It is my innate ability to manipulate time.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "So better not mess with me again, for I will do the same thing to you if you do so!",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Kaori:",
+        "dialogue" : "Ughhhh...",
+        "function" : "scr_stage_clear"
+    }
+}

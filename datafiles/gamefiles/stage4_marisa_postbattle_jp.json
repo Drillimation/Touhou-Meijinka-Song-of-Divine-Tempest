@@ -1,0 +1,63 @@
+{
+    "lng" : 8,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "女王様陛下、コンサートを襲撃したないのん？一つの最後のお願い与える：うちを参加したげて。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "参加しないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "離れさせるたって？コンサートの黒幕を暴露することの仕事をやる必要。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "ユミ：",
+        "dialogue" : "待って、行かへんといて！",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "カガミ：",
+        "dialogue" : "マリサ女王様、滞在しとくれやす。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "カガミ：",
+        "dialogue" : "コンサートの主人は人間やない思う。力は想像できへん…",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "さようなら！",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "カガミ：",
+        "dialogue" : "ねぇ！",
+        "function" : "spr_stage_clear"
+    }
+}

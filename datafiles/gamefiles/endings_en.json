@@ -1,0 +1,75 @@
+{
+    "a0" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "Reimu thought her problems were over, but...",
+        "a2" : "Members of House Horikawa arrested Reimu and locked her up in a dungeon within the House.",
+        "a3" : "The Horikawa Clan forced Reimu into torturous labor.",
+        "a4" : "After she was set free, she was told by Raiko to never return and bother her family.",
+        "a5" : "Too bad! Bad Ending!\nTo see the good ending, beat the main campaign without continuing.",
+        "a6" : " "
+    },
+    "a1" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "Out of nowhere, a mysterious person appears. He introduces himself as Susumu Takajima, but the present-day people call him 'Driller'.",
+        "a2" : "He time travelled to the Edo Period at the same time as Kagami Ochiai.",
+        "a3" : "He seemed to get along with some ghastly figure who walked around the concert grounds.",
+        "a4" : "That ghastly figure appears to be Veronika Grieg. Jane appeared to flee upon seeing her.",
+        "a5" : "After the news of her spread to Raiko and Driller, they end up passing out.",
+        "a6" : "Too bad! Bad Ending!\nTo see the good ending, beat the main campaign without continuing.",
+        "a7" : " "
+    },
+    "a2" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "At the Scarlet Devil Mansion at around lunchtime, Remilia informs Sakuya about some mysterious person walking around the land.",
+        "a2" : "She has no idea who that person is.",
+        "a3" : "After going to bed that night, she has a nightmare about the person stalking and chasing her.",
+        "a4" : "The person in the dream was represented by shadowy hands within a maze of mirrors.",
+        "a5" : "Too bad! Bad Ending!\nTo see the good ending, beat the main campaign without continuing.",
+        "a6" : " "
+    },
+    "a3" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "While watering the plants at the Tower of White Jade, Yuyuko informs Youmu about some mysterious person walking around the land.",
+        "a2" : "After going to bed that night, she has a nightmare about a giant mirror informing her about living a life of falsities.",
+        "a3" : "The mysterious person would be the 'Messiah' she should believe in to escape from her life.",
+        "a4" : "She thought this was the Yama's words. Eiki, who is one, never judged her like that.",
+        "a5" : "Too bad! Bad Ending!\nTo see the good ending, beat the main campaign without continuing.",
+        "a6" : " "
+    },
+    "a4" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "Reimu received an invitation to House Horikawa, where she hears about some 'ghastly figure'.",
+        "a2" : "The ghastly figure nearly ruins Raiko's business. She thinks it was born out of people's sins and is hampering their salvation.",
+        "a3" : "To ensure the salvation plan goes as expected, they must find and eliminate the figure.",
+        "a4" : "Congratulations! Good Ending!\nTo learn the truth of the ghastly figure, challenge the Extra Stage!",
+        "a5" : " "
+    },
+    "a5" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "Out of nowhere, a mysterious person appears. He introduces himself as Susumu Takajima, but the present-day people call him 'Driller'.",
+        "a2" : "He invites Marisa to House Horikawa. From there, she hears rumors about their head maid vanishing without a trace.",
+        "a3" : "The House had spent days looking for her, but none prevailed. The maid had unnaturally pale skin and is likely a 'ghastly figure'.",
+        "a4" : "Raiko dispatches her cousin to look for her, but she didn't know who she is and began attacking anyone who passed by her.",
+        "a5" : "Congratulations! Good Ending!\nBut where is this 'head maid'? To solve this mystery, challenge the Extra Stage!",
+        "a6" : " "
+    },
+    "a6" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "Sakuya received an invitation to House Horikawa. Raiko tells her about a 'mysterious person with valykrie eyes'.",
+        "a2" : "The person attacked people at the concert. It's unclear who it is, but it is likely a minion of a 'ghastly figure'.",
+        "a3" : "If the person kept running loose, they would trigger a calamity that would affect all of Gensokyo.",
+        "a4" : "Raiko dispatched her cousin to find the person. Sakuya is also sent just in case the negotiation is unsuccessful.",
+        "a5" : "Congratulations! Good Ending!\nDoes the Ghastly Figure have any minions? Challenge the Extra Stage to find out!",
+        "a6" : " "
+    },
+    "a7" : {
+        "a0" : "Gensokyo, the morning after the storm. The serenity of the sky brings forth the inner peace in every being.",
+        "a1" : "Youmu receives an invitation to House Horikawa. Raiko tells her about some 'mysterious person' attacking concert goers.",
+        "a2" : "Some of these goers were lured into a 'Labyrinth of Mirrors'. While some made it out alive, others were put into a deep sleep.",
+        "a3" : "When they woke up, they were left with the emotional trauma of the sins and revelations revealed to them inside the labyrinth.",
+        "a4" : "Jane was also a victim too. Her behavior had changed drastically, being unfit for Raiko's band.",
+        "a5" : "Youmu was asked to learn of the Labyrinth's truth and how it appeared.",
+        "a6" : "Congratulations! Good Ending!\nTo figure out the truth of the Labyrinth of Mirrors, challenge the Extra Stage!",
+        "a7" : " "
+    }
+}

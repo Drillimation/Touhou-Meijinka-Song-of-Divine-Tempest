@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Dang it... Maybe I forgot to pray to the Archangel before this battle...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "The one that said, 'Defend us in Battle?'",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "If gods don't exist, then angels don't exist because of no tangible proof of the existence of such entities.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "Emiri:",
+        "dialogue" : "Curse you, irreverent maid...",
+        "function" : "scr_stage_clear"
+    }
+}

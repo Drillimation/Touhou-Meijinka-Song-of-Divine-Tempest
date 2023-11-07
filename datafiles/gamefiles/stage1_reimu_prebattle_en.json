@@ -1,0 +1,70 @@
+{
+    "lng" : 9,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Man, that storm made me all wet. What is all behind this?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "The Great Master has conjured up the storm. Her powers become stronger every time a tempest is stirred up.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "You look like you are one of those heterodox people that I met a while ago, based on what's printed on your apron.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "Hey, don't call me a heterodox!",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "For I, a believer of a true God, the Great Narukami Ouki has blessed Gensokyo with this paradisiacal concert.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "So, you are one of those people. I will never go to a place hosted by heretics.",
+        "function" : "scr_bgm_fade"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "Ugh... How dare you.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Reimu:",
+        "dialogue" : "P... Please cool down, lil' one!",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "For the price of calling us heretics, my blessings to people shall turn into a curse for you!",
+        "function" : "scr_start_boss"
+    }
+}

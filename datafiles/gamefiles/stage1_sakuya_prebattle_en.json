@@ -1,0 +1,105 @@
+{
+    "lng" : 14,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I feel something familiar about this storm...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "It feels so similar to when my knives began to rebel...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "You experienced something that involves knives reveling?",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "Indeed it is the work of a youth with a heart of gold... Not me, but the Ouki!",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Oh, so you have some big shot who manipulates you?",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I guess the person would be in any way related to those cross-cladded people I met some time ago.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "The Narukami Ouki did not manipulate me in any way. I am simply just serving under her service.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "And why are you holding so much animosity towards the hosts of the Lord?",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Kaori:",
+        "dialogue" : "If someone has such feelings towards them, they must be agents of the Scarlet Devil.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Oh ho, I guess you want to decimate my honor after all.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kaori_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Lady Remilia will not be pleased when some twerp decided to challenge her authority and powers.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "These words are the sign of you feigning alliance with the Scarlet Devil and her forces.",
+        "function" : "scr_bgm_fade"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Oh ho, so now you are approaching me?",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "Kaori:",
+        "dialogue" : "You better be burning in the Netherworld with the netherrack, O those who take the appearance of a maid!",
+        "function" : "scr_start_boss"
+    }
+}

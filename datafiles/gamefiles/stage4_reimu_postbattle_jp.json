@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "あ…あんたは…そこコンサートから間者ではへんな？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "はい。その不思議なコンサートを調べるに来た、そしてそれについて怪しいところがないか見る。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_joy",
+        "speaker" : "ユミ：",
+        "dialogue" : "あら、あんたはやっぱし悪い人ではへん…",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "カガミ：",
+        "dialogue" : "そやけど、予めに注意するんならん。このコンサートの「黒幕」について非人道的を感じるがな。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "さようなら。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "カガミ：",
+        "dialogue" : "ねぇ、話が終わらへんかったえ！",
+        "function" : "scr_stage_clear"
+    }
+}

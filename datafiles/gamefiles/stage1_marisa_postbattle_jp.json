@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "カオリ：",
+        "dialogue" : "うーん…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "見たのね？幻想郷の文化的な生活を過小評価するとき、これが起こるよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "マリサ：",
+        "dialogue" : "ところで、ついさっき見た異端の人と関係があるようだぜ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_kaori_anger",
+        "speaker" : "カオリ：",
+        "dialogue" : "異端のよ！？うーん…",
+        "function" : "scr_stage_clear"
+    }
+}

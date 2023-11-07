@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "カオリ：",
+        "dialogue" : "くやしぃぃ！なぜとても強いのよ？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "あんたを教えたわ。巫女さんを台無しにしないの！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "異端の儀式で参加するのに圧力をかけたから、これは賞だ！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "カオリ：",
+        "dialogue" : "うーん…",
+        "function" : "scr_stage_clear"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Kaori:",
+        "dialogue" : "Urf... Before her body went all weird when the curse is in effect, you gave me a pat on the face!",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "Serves you right.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "Even if you can multiply a ham sandwich that can feed the entire world, I am sure nobody is going to eat all of those.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_kaori_sad",
+        "speaker" : "Kaori:",
+        "dialogue" : "Why do ham sandwiches above everything? Are you trying to make a total fool out of me?",
+        "function" : "scr_stage_clear"
+    }
+}

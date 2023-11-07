@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Raiko Horikawa",
+        "desc" : "The Phantasmal Percussionist from Heaven"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ふざけてんの！？噛んだ、今内気なった。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "覚えて、少し前に「不気味な子」で待ち伏せ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "何を話してるの？待ち伏せ以来、慎重になってきたけど。別の理由にここに来たわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "理由は何？",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "その不思議の残忍な姿。心を失わせた。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_raiko_idle",
+        "speaker" : "ライコ：",
+        "dialogue" : "「不思議な人」で交渉するのに、「秘密の武器」を送り出した。ミッションからすぐに戻るよ！",
+        "function" : "scr_start_boss"
+    }
+}

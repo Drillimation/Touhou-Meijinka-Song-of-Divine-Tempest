@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "Kagami:",
+        "dialogue" : "Maybe you are not a totally bad person after all... But hey, are you going to actually raid that concert, will you?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Not quite... But if I do, I am going to squash the concert venue with a road roller if I am in a bad mood!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Yumi:",
+        "dialogue" : "But wait!",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "I must say something:",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Be careful of what you want to do, as I am sure whoever running this concert can overwhelm you with power...",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Bye...",
+        "function" : "scr_stage_clear"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "Kagami:",
+        "dialogue" : "Wait for me!",
+        "function" : "scr_do_nothing"
+    }
+}

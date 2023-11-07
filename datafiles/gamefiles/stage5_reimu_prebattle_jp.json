@@ -1,0 +1,77 @@
+{
+    "lng" : 10,
+    "char_info" : {
+        "nm" : "ジェーン",
+        "desc" : "思いを操作するロボット"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "このコンサートは奇妙に思えるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "幻想郷でコンサートというより、異端の礼拝所に見える。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "レイム：",
+        "dialogue" : "今、この異変の犯人に近づいたので、異教のアホを倒すに準備できるの？",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "ねぇ！あんたが舞台を独り占めしている、外に不快な音を出すのね？",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "レイム：",
+        "dialogue" : "誰も気にしないのよ？幻想郷に邪魔をやる人だぜ。紅悪魔に訪ねてみてはどうの？",
+        "function" : "scr_bgm_fade"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "あら、言った何だったのよ！？",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "レイム：",
+        "dialogue" : "えっと、なし。落ち着け。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "汚れた口から言った冒涜的な言葉で私、音楽天使が、降りかかってはならないのよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "全能の賞賛に、天使の曲を歌うよ！",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "今、最高に甘い曲による、教会で私を参加すれ！悔い改め必要がある！",
+        "function" : "scr_start_boss"
+    }
+}

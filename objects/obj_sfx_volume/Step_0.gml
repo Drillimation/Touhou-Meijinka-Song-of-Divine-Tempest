@@ -1,0 +1,30 @@
+scr_menu_input();
+//scr_menu_input_2d();
+
+if keyboard_check_pressed(vk_enter) or keyboard_check_pressed(ord("Z")) or gamepad_button_check_pressed(0,gp_face1) {
+	audio_play_sound(snd_menuconfirm,10,false);
+	audio_group_set_gain(audiogroup_default,menu_index_y / 10,0);
+	var save_data = 
+	{
+		language : global.language,
+		bgm_volume : global.bgm_volume,
+		sfx_volume : menu_index_y / 10,
+		fullscreen : obj_fullscreen.fs,
+		border_brightness : global.border_brightness,
+	};
+	var _string = json_stringify(save_data);
+	var _buffer = buffer_create(string_byte_length(_string)+1,buffer_fixed,1);
+	buffer_write(_buffer,buffer_string,_string);
+	buffer_save(_buffer,"options.save");
+	buffer_delete(_buffer);
+	
+	global.sfx_volume = menu_index_y / 10
+	instance_create_depth(0,0,0,obj_options);
+	instance_destroy();
+}
+
+if keyboard_check_pressed(vk_escape) or keyboard_check_pressed(ord("X")) or gamepad_button_check_pressed(0,gp_face2) {
+	audio_play_sound(snd_menucancel,10,false);
+	instance_create_depth(0,0,0,obj_options);
+	instance_destroy();
+}

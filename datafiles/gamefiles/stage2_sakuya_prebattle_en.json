@@ -1,0 +1,126 @@
+{
+    "lng" : 17,
+    "char_info" : {
+        "nm" : "Ayaka Takajima",
+        "desc" : "The Mystic Who Transcends Humanity"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "This place is filled with a purplish mist!?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_sad",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I hope I won't get a deadly virus or get sick from a fungus-like being while traversing this...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "???:",
+        "dialogue" : "You are a bit too over-the-top.",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "If there are any viruses in the mist, it must be Reverence's wrath upon trespassers like you.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "You would be swollen to the point beyond recognition and will have no guts.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I don't believe in gods anyway.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "That is because you haven't seen her yourself.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "She will come to this land in the same manner as when she appeared to me several years ago.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "By then, the frail bubble of this sinful world shall burst, and a new eternal bubble shall be created in its place.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "This is a load of waste. As far as I know, the universe is infinite, or apparently, it is.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "You are simply thinking like those stupid flat-Earthers. Saying gods exist even when they haven't seen one by flesh.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Even if they did appear to some people like what I heard, these are just false.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "And worst of all, you're thinking the world is inside a bubble.",
+        "function" : "scr_bgm_fade"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "An undeniable truth is that Reverence is omnipresent in all planes of existence, including the spiritual and material.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Throughout history, many have attempted to unify with her and transcend this world; none prevailed.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "As I, a Mystic who was chosen by Reverence in order to join Her holy silence...",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Your nous should be sewn shut to the Darkness of Oblivion as my nous began to open in her light!",
+        "function" : "scr_start_boss"
+    }
+}

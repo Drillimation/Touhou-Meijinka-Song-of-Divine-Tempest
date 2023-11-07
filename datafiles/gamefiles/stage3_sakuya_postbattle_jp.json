@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "くそっ…この戦闘の前に大天使に祈るのを忘れた…",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "「戦闘に守れ」と言った人だの？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "サクヤ：",
+        "dialogue" : "神様が存在しなかったら、存在の目に見える証拠がないので天使が存在しないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "きさま、不遜なメイド…",
+        "function" : "scr_stage_clear"
+    }
+}

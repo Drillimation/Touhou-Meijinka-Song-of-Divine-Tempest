@@ -1,0 +1,98 @@
+{
+    "lng" : 13,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Who the heck is this girl, and why is she here in the first place?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "From the look of it, it seems you are in the mood for a raid.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Now, join me on this sacking of that mysterious concert.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Once we are done, we can share the loot from raiding if there are any.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Yumi:",
+        "dialogue" : "Sister! I was hurt by some knives, and apparently, that maid over there threw them at me!",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Oh ho, so now both of you are trying to approach me.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Instead of insisting I join a raid on that concert, now you are going to retaliate at me?",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "It is said that you will reap what you see. You can choose between two only:",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Either get out or proceed to head into the concert to do the raiding for me.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "Yumi:",
+        "dialogue" : "Plot twist: Both choices mean that you will be the one who bites the dust for hurting me!",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I don't know what the heck is going on with you, so I have no choice but to face its 'mastermind'. It's my job.",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "So, you have chosen death. Any last words you want to say here? Feel free!",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_yumi_anger",
+        "speaker" : "Yumi:",
+        "dialogue" : "That's too lenient! This person should deserve to die without them disseminating their last ill will to the world!",
+        "function" : "scr_start_boss"
+    }
+}

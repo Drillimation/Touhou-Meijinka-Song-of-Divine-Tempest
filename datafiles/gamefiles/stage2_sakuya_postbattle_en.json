@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Kaori Hosokawa",
+        "desc" : "Angelus of the Archangel Barachiel"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Impressive. I feel like time is accelerating faster than me... Am I... one step closer to her presence?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "Definitely not.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Sakuya:",
+        "dialogue" : "I did this in order to make you feel guilty that you have wasted time monkeying around with me.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "I must tell you this... Beware of who you are going to meet next... Her appearance is a lie.",
+        "function" : "scr_stage_clear"
+    }
+}

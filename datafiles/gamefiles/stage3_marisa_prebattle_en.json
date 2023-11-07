@@ -1,0 +1,112 @@
+{
+    "lng" : 15,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Can you even call this a stage? I didn't receive any glowsticks at the very mere entrance.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Maybe there are glowsticks but they are shaped like that heretical object I might have seen before...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "But by the way, why does the ground look impure? I guess that the mastermind isn't doing something right.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "Who's there? I heard someone blaspheming Milady...",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "But wait... is this an impostor of me, mingling among us in order to infiltrate the concert?",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Definitely not. From what I sense, you might be an envoy of that ditzy archangel I encountered a while ago.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Exactly. A few years ago, my cousin was murdered by a bunch of Crimsonite grunts.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "I thought everything was over until the Archangel came and gave me the divine courage that I currently have.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "It prevents my own self from suffering death.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Nonsense. You are exuding the smug area of that fish youkai I might have seen during a trip to Kourindou.",
+        "function" : "scr_bgm_fade"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "You know what? You are the most irreverent being I have ever seen. I am feeling it.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "You have insulted the Archangel once, and this time you rebound hard on me as an act of blasphemy.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Oh heck no. I have to beat the heck out of you.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Why be a magician, when you can be a slayer of such a being like an angel?",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "You think you are kind of a big shot who can defeat anything? Well, you’re gonna have to try a little harder than that.",
+        "function" : "scr_start_boss"
+    }
+}

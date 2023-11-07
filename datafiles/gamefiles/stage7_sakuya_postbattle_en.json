@@ -1,0 +1,49 @@
+{
+    "lng" : 6,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Oof... Are you just wanting me to let those innocent people burn in despair or not?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "If not, why did you almost kill me with those knives?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Change your mind on both the person and my plans of negotiating with them.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Seriously. They really don't mean any harm and is truly a messiah.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "With my apologies to you, I was a bit rash then.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Sakuya:",
+        "dialogue" : "If they are so nice and harmless, why not you invite them over for some tea, whether it is Darjeeling or Assam.",
+        "function" : "scr_game_clear"
+    }
+}

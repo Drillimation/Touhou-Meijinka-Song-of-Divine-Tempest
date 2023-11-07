@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Ayaka Takajima",
+        "desc" : "The Mystic Who Transcends Humanity"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "お前は強いよ！誰がその強さを与えた？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "レイム：",
+        "dialogue" : "行かせてくれないの？さもないと、力の原点を説明するに最後の一撃をするよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "大丈夫。行けるけど、とりあえず。",
+        "function" : "scr_stage_clear"
+    }
+}

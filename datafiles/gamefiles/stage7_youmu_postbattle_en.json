@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "No! Are you giving me a taste of my medicine? I must tell you this:",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Those guys didn't mean any harm to your people, so let them be!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "On second thoughts, I finally realized that they really did get out of hand by looking at the people's paranoid looks.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I really need to tell them more about that so they can still do their thing while not disturbing the people.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "If then, sure thing.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "But I heard that Sumi secretly gave the mastermind of the labyrinth a headpat and call him a smol bean.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "Youmu:",
+        "dialogue" : "I wonder if they are actually cute like what she said or not...",
+        "function" : "scr_game_clear"
+    }
+}

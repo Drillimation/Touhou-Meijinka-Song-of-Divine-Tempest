@@ -1,0 +1,70 @@
+{
+    "lng" : 9,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jane_sad",
+        "speaker" : "Jane:",
+        "dialogue" : "You simoniac... I guess you wanna keep on trying to steal that monstrance, don't you? Do whatever you want to.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "I don't care whether you will go to the Netherworld or not since you don't have faith in the HaShem.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "On second thought, I now don't want to steal the monstrance because you mentioned the Netherworld.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "While I don't know what your Netherworld looks like, my Netherworld is very savage.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "Sumireko once told me about a very long poem about it, presumably your Netherworld.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "She said it was kind of similar to the native Former Netherworld.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "And since you mentioned something called 'the HaShem', I guess this is the name of the big shot behind this concert.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "If that's the case, then this concert is just a whole big scheme to gather followers for some weird religious movement.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "These words... are the signs of a liar! You simoniac!",
+        "function" : "scr_stage_clear"
+    }
+}

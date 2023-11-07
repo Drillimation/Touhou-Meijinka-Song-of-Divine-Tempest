@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Get back here, you liar. Do you dare say this concert is a money-laundering scheme for a cult?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "I guess so, but that is just my guess. So, take this with a punch of salt.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "And anyway, since I know that the big shot behind the concert is near, there's no time to lose.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "You can try to stop me, but it's too late now. I am certain that I will see the big shot right away!",
+        "function" : "scr_start_boss"
+    }
+}

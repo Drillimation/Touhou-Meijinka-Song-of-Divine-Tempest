@@ -1,0 +1,84 @@
+{
+    "lng" : 11,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Here we are. All those golden features... this is... requiem?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "You are definitely goofing around here.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_idle",
+        "speaker" : "Jane:",
+        "dialogue" : "The interiors of the Stage of Tonitrus are definitely making you see things golden, even the gales blowing past this place.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "You look kind of familiar.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "The last time I saw a person with a hairstyle like you, that person was beaten black and blue by a mere kid.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "And oh boy, I will do the same to you.",
+        "function" : "scr_bgm_fade"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Well, say it again, killjoy!",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Oh, rats.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "A rule of thumb is who needs that stupid furnace when they got a voice like this?",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Now, everyone! Witness this grand moment of a modern-day witch hunt!",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_sad",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "My latest composition: 'Dies irae ~ Marisa Must Die!'",
+        "function" : "scr_start_boss"
+    }
+}

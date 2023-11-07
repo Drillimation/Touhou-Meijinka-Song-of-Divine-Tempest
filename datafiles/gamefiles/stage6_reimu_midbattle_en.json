@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Jane:",
+        "dialogue" : "Hey! You're the same person who caused all the fuss earlier on! Can you just get lost?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Reimu:",
+        "dialogue" : "I won't! Based on what's happening lately, I know who the main culprit is...",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "Reimu:",
+        "dialogue" : "It must be a person I've met before! I will make it to the end and expose the culprit!",
+        "function" : "scr_start_boss"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "prompt":"↑↓: Select  Z/A: Confirm",
+    "buttons":{
+        "a0":"Start Game",
+        "a1":"Music Room",
+        "a2":"Options",
+        "a3":"Exit"
+    },
+    "description":{
+        "a0":"Power up the Touhou Meijinka arcade cabinet.",
+        "a1":"Listen to the game's soundtrack.",
+        "a2":"Adjust the game's settings.",
+        "a3":"Shut down the game."
+    }
+}

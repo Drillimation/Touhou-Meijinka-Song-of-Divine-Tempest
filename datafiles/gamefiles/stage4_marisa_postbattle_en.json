@@ -1,0 +1,63 @@
+{
+    "lng" : 8,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "My Queen, you refuse to go and raid the concert? I give you one final plea: Please join me.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Stop calling me that.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Would you let me go, as I am doing a more important job of exposing the mastermind of the concert...",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Yumi:",
+        "dialogue" : "Wait, don’t go!",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "Kagami:",
+        "dialogue" : "Please, Queen Marisa.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "Kagami:",
+        "dialogue" : "I am certain that the ones who are running the concert aren’t humanoid and their powers are unimaginable...",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_joy",
+        "right_portrait" : "spr_kagami_sad",
+        "speaker" : "Marisa:",
+        "dialogue" : "Bye!",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_kagami_anger",
+        "speaker" : "Kagami:",
+        "dialogue" : "Hey!",
+        "function" : "spr_stage_clear"
+    }
+}

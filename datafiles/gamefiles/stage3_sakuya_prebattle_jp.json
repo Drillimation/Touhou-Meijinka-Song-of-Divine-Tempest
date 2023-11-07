@@ -1,0 +1,147 @@
+{
+    "lng" : 20,
+    "char_info" : {
+        "nm" : "神崎エミリ",
+        "desc" : "決意を強さに変える乙女"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "ここに誰でもを見ないわ。「外観は嘘」と誰が言った人だの？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "良い好印象な外観で殺人者だの？",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "獲物で奇妙な執着がないと願っている…それが悪い感じを与えるわ…",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "死んだ人の魂を盗むのは単純に嫌な。",
+        "function" : "scr_boss_sprite"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "殺人者と思えば、ずっと前にいとこを殺した人に冷たい水のバケツを落とすよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "「悪霊退散」の古いことわざが言うと、旗竿で串に刺すのは磨くに良い方法だね。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "地獄に焼かなければならない。罪を燃やす資格はないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "別の人がほこりをかむね？",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "とにかく、少し前に会った翼のある狂人に聞こえるわ。あんたは代理人と思うね。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "もちろん！",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "彼女なしで、いとこの失いには対処できない神経衰弱であるだろう。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "彼女で、無敵の戦闘マシンなったよ。決定の永遠の炎で力を与える。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "その運命の日の前に何でもを忘れることの料金だけど…",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "この人の嘘を見る：まったくの愚か者との取引を通じて、人間性を否定した。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "取引の一環として不浄なものをやらなくてよかったけど。",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "人間性を否定したい？ふーん、悪魔を奉仕するので、あんたは人間性を否定する人。",
+        "function" : "scr_bgm_fade"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "大天使に冒涜は重大な不浄な行為だわ。地獄に送ることで処罰する必要であるぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "その爪楊枝で串に刺そうとする？レミリアのグングニルは恥をかかせるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "炎の剣に対して偽の異教の神性の武器が何もしない。",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "エミリ：",
+        "dialogue" : "それを持ち出すなら私を平らにするために、もう少し頑張るが必要だよ！",
+        "function" : "scr_start_boss"
+    }
+}

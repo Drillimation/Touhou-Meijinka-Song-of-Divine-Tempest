@@ -1,0 +1,105 @@
+{
+    "lng" : 14,
+    "char_info" : {
+        "nm" : "高島アヤカ",
+        "desc" : "人類を超越する神秘"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "霧の湖で紫の霧？狐おふざけのいくつかの種類だったの？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "マリサ：",
+        "dialogue" : "やっぱり、「イルミナティ確認」のように聞こえるわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "この所はイルミナティがやったことで何かに聞こえると誰が言った？",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "あら、紫の霧の向こうに人がいるね？",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "主の礼拝の聖なる沈黙は抱きしめるべき何かだ。",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "主で団結に一歩近づくのをあんたが作れば、沈黙を壊すよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "最終目標を達成できないの。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "主で団結…私ようにただの人間だぜ。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "肉と骨の人は霊的なものと団結できないのよ。きさま、空想をやめれ。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "マリサ：",
+        "dialogue" : "それについて思ったら、あんたは人間というよりも幽霊だよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "この人が、神聖で団結を達成した有名な神秘の物語を読まなかったわ…",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "本当に可能な偉業だが、まるで存在しないかのように否定し続ける。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "それで？汚い話しているね？再び、自分の行動について思え！本当に不可能だと言ったぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "全能に譲歩で沈黙する準備を！",
+        "function" : "scr_start_boss"
+    }
+}

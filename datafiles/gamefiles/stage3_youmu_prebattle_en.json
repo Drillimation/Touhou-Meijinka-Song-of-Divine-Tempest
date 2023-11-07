@@ -1,0 +1,168 @@
+{
+    "lng" : 23,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Beyond the Divide, I spy a mysterious 'thing' with pillars over there.",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Based on how they look, I bet they are not ordinary pillars but ones from the Outside World where bells are placed inside.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "If I recall correctly, a while ago Sumireko said these are called ‘belfries’, according to what Reimu told me.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Now one question remains: Why are they even there in the first place? Is this supposed to be a stage?",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Milady needs these for her prayers.",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Every morning, noon, and evening, the bells in the belfries should ring to tell her it is time for prayers.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "I, Emiri Kanzaki, even though I have graduated from the Narukamites, still work as her bodyguard from time to time.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "I am responsible for various things she needs, including the ringing of the prayer bells.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "I guess I have guessed correctly what these towers are used for.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "But the single idea of bells for prayer time is just outright bizarre.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "You aren't even aware of the practices that members of the Church practice.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Yeah, I know you are not aware of this because you live in a secluded pagan land.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "But simply put, our Church has several devotional practices, some of which are very well known and others are not.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Although it is evident that Christmas practices are everywhere in the world...",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "They are modified heavily because of secularization.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Sumireko told me about that thing before.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Albeit she said that if you want us to celebrate that holiday here, it is like turkeys voting for Christmas.",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "Say it again, you punching bag swordswoman!",
+        "function" : "scr_bgm_fade"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "You dare to say that if I want to practice my faith here, I am about to bring devastation to myself!?",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Youmu:",
+        "dialogue" : "Nothing! I... I mean, what Sumireko said to me actually means something else different!",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "I guess the land you are coming from must be a secret last bastion of the Shogunate.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "Based on what you have just said about me following the Church's teachings in that place...",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "You are gonna have to try a little harder than that, twerp. I won't have a downfall!",
+        "function" : "scr_do_nothing"
+    }
+}

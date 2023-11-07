@@ -1,0 +1,140 @@
+{
+    "lng" : 19,
+    "char_info" : {
+        "nm" : "Ayaka Takajima",
+        "desc" : "The Mystic Who Transcends Humanity"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Youmu:",
+        "dialogue" : "Purple mist? More like, is this another way to end your life?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Most would think jumping in the poisonous water means your ultimate end.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "But once you discard your earthly body behind or even have it fade away to oblivion soon thereafter...",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "You won't feel pain or sadness anymore.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Right before your eyes will be the presence of the holy, omnibenevolent Reverence.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Mistress Yuyuko did that when she converted to a youkai-born, but in the end, it seems like she got nothing.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "That is because she doesn't have any faith in Reverence. As her old self crumbled into ashes, so did her old spirit.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "If she believes in the saving grace of Reverence, she would have been living forever in the Kingdom of God.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "I have no idea who on Earth is the 'Reverence' you are babbling about.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "And that certain 'Reverence' having a whole Kingdom?",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "She must be the type of person who can easily put Yuyuko to shame.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "But if we gonna have to bite the dust in order to get there... I won't take any chances.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "If I ever get there, I will just stay shut about this place in order to not hurt Mistress Yuyuko's feelings.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Youmu:",
+        "dialogue" : "Imagine 'Reverence' getting off a fancy carriage and people like you start playing something unfunny on piano.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "This is an act of irreverence towards Reverence.",
+        "function" : "scr_bgm_fade"
+    },
+    "a15": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Even though Reverence's benevolence encompasses all when things are going out of hand...",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "The Reverence will unleash Her wrath upon them.",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "This girl has transgressed the Eternal Divinity of Reverence, and I can feel it. Her wrath is going straight down on her.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Now, be prepared to suffer your demise and join Uzzah in everlasting torture!",
+        "function" : "scr_start_boss"
+    }
+}

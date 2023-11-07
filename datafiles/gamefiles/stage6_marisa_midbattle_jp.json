@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "まだ終わらなかったのよ！口の中でソープバーがあるのと言ったら、受け入れられない！",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "誰が気にする？私は一つの絵が持つ。本当にそのソープ神の代理人だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "マリサ：",
+        "dialogue" : "音痴なあほの周りを回る代わりに、バブルの中に入れるのぜ！",
+        "function" : "scr_start_boss"
+    }
+}

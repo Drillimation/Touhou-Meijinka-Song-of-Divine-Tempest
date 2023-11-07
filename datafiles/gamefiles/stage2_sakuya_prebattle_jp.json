@@ -1,0 +1,126 @@
+{
+    "lng" : 17,
+    "char_info" : {
+        "nm" : "高島アヤカ",
+        "desc" : "人類を超越する神秘"
+    },
+    "a0": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "この所は紫の霧で埋めたのよ！？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_sakuya_sad",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "サクヤ：",
+        "dialogue" : "これを横切るにつれて、真菌感染症から病気になりたくないわ…",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "？？？：",
+        "dialogue" : "ちょっとやりすぎ。",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "霧で真菌があると思えば、不法侵入者に対してレヴァレンスの怒りだよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "認識を超えたところまで膨れ上がる、根性がないのさ。",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "とにかく、神様で信じないよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "それは、彼女を見なかったから。",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "彼女が何年か前に現れたとき同じようにこの土地に来る。",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "アヤカ：",
+        "dialogue" : "やっぱり、この罪深い界の脆弱なバブルが爆発して、残りしたものに新しい永遠のバブルを作る。",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_sakuya_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "なんて無駄なことだ。知る限りでは、世界は無限。",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "うざい地球人のように簡単に思っている。肉によって見なかったとしても、神様が存在すると言う。",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "聞きたようにある程度は現れたとしても、あんたが間違っているよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "サクヤ：",
+        "dialogue" : "最悪なことに、世界はバブルの中だと思う。",
+        "function" : "scr_bgm_fade"
+    },
+    "a13": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "存在のあらゆる面で、レヴァレンスは遍在だ。この真実は否定できないのよ。",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "歴史を通して、たくさんが彼女で統一してこの世界を超越しようとした。誰も勝てなかったぜ！",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "私は、聖なる沈黙を参加するために、レヴァレンスで選んだ神秘だわ。",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_sakuya_anger",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "アヤカ：",
+        "dialogue" : "ヌースが彼女の光で開き始めると、あんたの口を縫って閉じるよ！",
+        "function" : "scr_start_boss"
+    }
+}

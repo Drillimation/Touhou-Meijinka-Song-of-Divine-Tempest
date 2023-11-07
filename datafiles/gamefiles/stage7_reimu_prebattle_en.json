@@ -1,0 +1,182 @@
+{
+    "lng" : 25,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Man, why did Raiko act so similar to that maniac genocider this time?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Plus, she mentioned a heretical god, so something fishy must have happened.",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Yukari has been too lax in inviting these gods into Gensokyo.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Even the ones from that heretical sect emphasizing 'forgiveness'.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I sense someone speaking ill of the trinity... but maybe it is just my mind.",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "So you are the person that Raiko mentioned earlier.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "I suppose being cousins make you look similar to Raiko, but you don't resemble her.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Wait... Are you the person called 'the Son' in those babbles made by the people I have met?",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Exactly! I must tell you this:",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "The Father has created this wonderful world, along with my pre-existence and the Spirit.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Every being should give praise to God.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "I am dichromatic too. Is your Father the same being as that weirdo I encountered a while ago?",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "They broke my sky because they simply wanted a certain flood survivor to escape.",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "The Father wants to save her because she was the only good person left in her evil world.",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "Lately, my dearest Raiko has invited her to be a denizen of Horikawa.",
+        "function" : "scr_do_nothing"
+    },
+    "a15": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "In preparation for the Father and the Spirit's arrival, we awakened the trinity's powers and dominion over mankind.",
+        "function" : "scr_do_nothing"
+    },
+    "a16": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "So your clan has 'adopted' that mad, bad, and impure person?",
+        "function" : "scr_do_nothing"
+    },
+    "a17": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "That's something of a 'YHWH Conspiracy' set up by your god, similar to my homeland's 'Moriya Shrine Conspiracy'.",
+        "function" : "scr_do_nothing"
+    },
+    "a18": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "The wrath of God must be rained down those who speak ill of God and his plan to save the people of this impure land.",
+        "function" : "scr_do_nothing"
+    },
+    "a19": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I can feel it, my Father's wrath will be aimed at this shrine maiden standing before me...",
+        "function" : "scr_do_nothing"
+    },
+    "a20": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "It's useless to jinx me with these words. Those jinxing as far as I know only works on your believers.",
+        "function" : "scr_do_nothing"
+    },
+    "a21": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "As a Shinto shrine maiden myself, I should be immune to these jinxes.",
+        "function" : "scr_do_nothing"
+    },
+    "a22": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "If you don't get a life, you will be exterminated along with all of your believers, as seen by what I have done!",
+        "function" : "scr_do_nothing"
+    },
+    "a23": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Jeanne:",
+        "dialogue" : "I shall declare that from my mouth.",
+        "function" : "scr_bgm_fade"
+    },
+    "a24": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_jeanne_anger",
+        "speaker" : "Jeanne:",
+        "dialogue" : "A sharp sword shall emerge, in order to strike down this blasphemous maiden with the wrath of God the Almighty!",
+        "function" : "scr_start_boss"
+    }
+}

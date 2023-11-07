@@ -1,0 +1,28 @@
+{
+    "lng" : 3,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "くそっ。私ように強力な戦闘機を倒すにお前はとても強いを信じれないわ！",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "レイム：",
+        "dialogue" : "じゃ、すべての異教徒はサンドバッグで使える害虫ようなもの。さようなら、魚食べる人！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_emiri_sad",
+        "speaker" : "エミリ：",
+        "dialogue" : "きさま、巫女さん！",
+        "function" : "scr_stage_clear"
+    }
+}

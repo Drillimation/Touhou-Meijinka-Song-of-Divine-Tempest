@@ -1,0 +1,56 @@
+{
+    "lng" : 7,
+    "char_info" : {
+        "nm" : "Jeanne Horikawa",
+        "desc" : "The Cousin of the Phantasmal Percussionist"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "くやし！本当に戦いたかったのか！？これを教えなければならない：",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "あんたの人々に悪気はなかった。",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "やっぱり、人々の偏執的な見た目を見るのに、手に負えなくなってきた！",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_joy",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ジャンヌ：",
+        "dialogue" : "人々に迷惑をかけないようにこれについて伝える必要。",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "はいの場合は、そうすれ！",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "スミさんが黒幕に頭叩きを与えたと聞きたけど。",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jeanne_sad",
+        "speaker" : "ヨウム：",
+        "dialogue" : "実際は可愛いのかな…",
+        "function" : "scr_game_clear"
+    }
+}

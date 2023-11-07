@@ -1,0 +1,35 @@
+{
+    "lng" : 4,
+    "char_info" : {
+        "nm" : "Jane",
+        "desc" : "The Android Who Manipulates Thoughts"
+    },
+    "a0": {
+        "left_portrait" : "spr_youmu_idle",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ジェーン：",
+        "dialogue" : "戻ってくれ、うそつき。このコンサートはカルトの資金洗浄計画だと言うの？",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "そう思うが、それは推測だから。割り引いて受け止めれ！",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "そしてとにかく、コンサートの黒幕は近いを知るので、無駄にする時間はないの。",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_youmu_anger",
+        "right_portrait" : "spr_jane_anger",
+        "speaker" : "ヨウム：",
+        "dialogue" : "私を倒してみてもいいよ。もう遅すぎるけど。すぐに黒幕を見るぜ。",
+        "function" : "scr_start_boss"
+    }
+}

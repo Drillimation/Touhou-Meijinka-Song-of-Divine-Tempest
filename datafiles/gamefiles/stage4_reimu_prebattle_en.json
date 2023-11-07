@@ -1,0 +1,91 @@
+{
+    "lng" : 12,
+    "char_info" : {
+        "nm" : "Kagami and Yumi Ochiai",
+        "desc" : "The Phantoms Who Leap Through Time"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Hold up... I have this deja vu feeling with this girl... Have we met before?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "Do you not remember me? The name's Kagami Ochiai - the phantom who leaps through time.",
+        "function" : "scr_boss_sprite"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Now I think I know why you never aged like me.",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : "Kagami:",
+        "dialogue" : "I never aged because I traveled to a different time period.",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_joy",
+        "speaker" : " ",
+        "dialogue" : "Sister!",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Yumi:",
+        "dialogue" : "That shrine maiden attacked me early on!",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_yumi_sad",
+        "speaker" : "Reimu:",
+        "dialogue" : "Oh. So both of you are sisters, then. Now tell me, why are you here?",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "We are here to seek revenge... That mysterious concert is ousting us in terms of popularity.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_joy",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Yumi:",
+        "dialogue" : "So, we will raid the concert... with our followers from Kozan!",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Wait, what!?",
+        "function" : "scr_bgm_fade"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_kagami_idle",
+        "speaker" : "Kagami:",
+        "dialogue" : "So, you are doubting our actions, huh? You must be a spy from that suspicious concert.",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_yumi_idle",
+        "speaker" : "Yumi:",
+        "dialogue" : "Now, prepare to perish, the impostor who poses as a shrine maiden! This will be what you get for attacking me early on!",
+        "function" : "scr_start_boss"
+    }
+}

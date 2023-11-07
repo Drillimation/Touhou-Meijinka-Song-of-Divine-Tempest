@@ -1,0 +1,105 @@
+{
+    "lng" : 14,
+    "char_info" : {
+        "nm" : "Ayaka Takajima",
+        "desc" : "The Mystic Who Transcends Humanity"
+    },
+    "a0": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Purple mist at the Misty Lake? Was this some kind of kitsune trickery?",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Marisa:",
+        "dialogue" : "Nevertheless, this sounds like something 'Illuminati confirmed'!",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "???:",
+        "dialogue" : "Who said this place sounds like something done by the Illuminati?",
+        "function" : "scr_do_nothing"
+    },
+    "a3": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "So you are the person behind the purple mist, aren' tcha?",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "The holy silence of adoration of the Lord is something I should embrace.",
+        "function" : "scr_boss_sprite"
+    },
+    "a5": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "One step closer to unity with the Lord, and then you in a witch costume break the silence.",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Ayaka:",
+        "dialogue" : "It prevents me from achieving my ultimate goal.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "Unity with God... You are just a mere human like me.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_marisa_anger",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "It is impossible for a being of flesh and bone to unite with the spiritual. Stop fantasizing, dummy.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_idle",
+        "speaker" : "Marisa:",
+        "dialogue" : "If you think you can do so, you are a ghost rather than a humanoid.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "This person hasn't read the stories about famous mystics who have attained unity with the divine...",
+        "function" : "scr_bgm_fade"
+    },
+    "a11": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "A definitely possible feat, but you keep denying it as if it doesn't exist.",
+        "function" : "scr_do_nothing"
+    },
+    "a12": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Marisa:",
+        "dialogue" : "Now what? Sassin' with me, huh? You must think again about what you are doing! I said it is actually impossible!",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_marisa_idle",
+        "right_portrait" : "spr_ayaka_anger",
+        "speaker" : "Ayaka:",
+        "dialogue" : "Prepare to be silenced in surrender to the Almighty!",
+        "function" : "scr_start_boss"
+    }
+}

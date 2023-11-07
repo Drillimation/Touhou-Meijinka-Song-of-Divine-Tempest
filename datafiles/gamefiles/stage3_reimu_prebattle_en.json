@@ -1,0 +1,112 @@
+{
+    "lng" : 15,
+    "char_info" : {
+        "nm" : "Emiri Kanzaki",
+        "desc" : "The Maiden Who Converts Determination to Strength"
+    },
+    "a0": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "I see something on the other side of the Divide... And there seems to be a person who is guarding the place...",
+        "function" : "scr_do_nothing"
+    },
+    "a1": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_blank_portrait",
+        "speaker" : "Reimu:",
+        "dialogue" : "Hmm... Is this the concert that mysteriously appeared along with the storm that buffeted Gensokyo?",
+        "function" : "scr_do_nothing"
+    },
+    "a2": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Why, young maiden, indeed it is!",
+        "function" : "scr_boss_sprite"
+    },
+    "a3": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "This is the Stage of Tonitrus, the venue of the Grand Performance by the Heaven-sent Lady Narukami!",
+        "function" : "scr_do_nothing"
+    },
+    "a4": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "She will certainly bring light to the darkness of this secluded area.",
+        "function" : "scr_do_nothing"
+    },
+    "a5": {
+        "left_portrait" : "spr_reimu_idle",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "It has been in the darkness of fear for a long time until now!",
+        "function" : "scr_do_nothing"
+    },
+    "a6": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "We don't need people like whoever you called 'Lady Narukami' to cheer the people of Gensokyo up.",
+        "function" : "scr_do_nothing"
+    },
+    "a7": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "We already have the Choujou Gigaku and the Prismrivers to entertain its denizens.",
+        "function" : "scr_do_nothing"
+    },
+    "a8": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Ohoho! These bands are inferior to Milady. She is a person sent by God to bring happiness to mankind.",
+        "function" : "scr_do_nothing"
+    },
+    "a9": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Emiri:",
+        "dialogue" : "Those people are just pagans tempted by false prophets to impersonate virtuous people.",
+        "function" : "scr_do_nothing"
+    },
+    "a10": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_idle",
+        "speaker" : "Reimu:",
+        "dialogue" : "Then why didn't you shut up about this? I am going to smack you black and blue if you keep boasting about your mistress!",
+        "function" : "scr_do_nothing"
+    },
+    "a11": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "Your heart is as dark as those who murdered my dearest cousin... Your actions have treaded my broken heart...",
+        "function" : "scr_bgm_fade"
+    },
+    "a12": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Reimu:",
+        "dialogue" : "Please, don't use your sob story to trick me to forfeit! I will never give up!",
+        "function" : "scr_do_nothing"
+    },
+    "a13": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "I heard you are a murderer of supernatural beings, right? Well, I won't let you do that!",
+        "function" : "scr_do_nothing"
+    },
+    "a14": {
+        "left_portrait" : "spr_reimu_anger",
+        "right_portrait" : "spr_emiri_anger",
+        "speaker" : "Emiri:",
+        "dialogue" : "I, Emiri Kanazaki of the Narukamite Alumnus, will vanquish you before you get a chance to disrupt her concert!",
+        "function" : "scr_start_boss"
+    }
+}
