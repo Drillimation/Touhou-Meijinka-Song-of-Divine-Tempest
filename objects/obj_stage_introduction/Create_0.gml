@@ -32,3 +32,9 @@ typist_2 = scribble_typist()
 	
 alarm[0] = 240;
 opac = 0;
+
+scribble_object = undefined;
+scribble_object2 = undefined;
+scribble_object3 = undefined;
+
+font = font_add_sprite(spr_font_mp,32,false,0);

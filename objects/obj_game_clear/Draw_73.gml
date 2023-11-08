@@ -1,12 +1,11 @@
 view_xview = camera_get_view_x(view_camera[0]);
 view_yview = camera_get_view_y(view_camera[0]);
-font = font_add_sprite(spr_font_mp,32,false,0);
+
 draw_set_halign(fa_center);
 draw_set_color(make_color_rgb(255,0,0))
 draw_set_font(font);
 draw_text(view_xview + 128,view_yview + 16,"GAME CLEAR")
 
-font2 = font_add_sprite(spr_font,32,false,0);
 draw_set_font(font2);
 draw_set_color(make_color_rgb(255,255,255));
 draw_set_halign(fa_left);

@@ -23,14 +23,14 @@
         "right_portrait" : "spr_blank_portrait",
         "speaker" : "???:",
         "dialogue" : "You experienced something that involves knives reveling?",
-        "function" : "scr_boss_sprite"
+        "function" : "scr_do_nothing"
     },
     "a3": {
         "left_portrait" : "spr_sakuya_idle",
         "right_portrait" : "spr_kaori_idle",
         "speaker" : "Kaori:",
         "dialogue" : "Indeed it is the work of a youth with a heart of gold... Not me, but the Ouki!",
-        "function" : "scr_do_nothing"
+        "function" : "scr_boss_sprite"
     },
     "a4": {
         "left_portrait" : "spr_sakuya_idle",

@@ -67,5 +67,7 @@ for(var i = 0; i < ds_grid_height(global.spellcard_history); i += 1) {
 	show_debug_message(string(round((global.spellcard_history[# 0,i] / global.spellcard_history[# 1,i]) * 100)));
 }
 
+font = font_add_sprite(spr_font,32,false,0);
+
 //Load other variables
 scr_newgame();

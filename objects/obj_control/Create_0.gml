@@ -22,3 +22,5 @@ boss_bgm = 0;
 
 paused = false;
 who_can_pause = keyboard_check_pressed(vk_escape) or gamepad_button_check_pressed(0,gp_start);
+
+font = font_add_sprite(spr_font,32,false,0);

@@ -27,21 +27,21 @@
     },
     "a3": {
         "left_portrait" : "spr_marisa_idle",
-        "right_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_jane_idle",
         "speaker" : "Marisa:",
         "dialogue" : "You look kind of familiar.",
         "function" : "scr_do_nothing"
     },
     "a4": {
         "left_portrait" : "spr_marisa_idle",
-        "right_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_jane_idle",
         "speaker" : "Marisa:",
         "dialogue" : "The last time I saw a person with a hairstyle like you, that person was beaten black and blue by a mere kid.",
         "function" : "scr_do_nothing"
     },
     "a5": {
         "left_portrait" : "spr_marisa_joy",
-        "right_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_jane_idle",
         "speaker" : "Marisa:",
         "dialogue" : "And oh boy, I will do the same to you.",
         "function" : "scr_bgm_fade"

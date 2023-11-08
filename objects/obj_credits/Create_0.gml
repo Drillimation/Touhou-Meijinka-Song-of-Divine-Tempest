@@ -10,3 +10,6 @@ txt = _string;
 shd = scribble_font_bake_shadow("font_chicago","drp_shd",1,1,make_color_rgb(0,0,0),1,0,false);
 
 vspeed = -0.5;
+
+scribble_object = undefined;
+crd_hgt = undefined;

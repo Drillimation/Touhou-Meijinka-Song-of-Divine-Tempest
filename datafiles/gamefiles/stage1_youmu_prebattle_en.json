@@ -23,14 +23,14 @@
         "right_portrait" : "spr_blank_portrait",
         "speaker" : "???:",
         "dialogue" : "You sound like you are under the effects of my curses already.",
-        "function" : "scr_boss_sprite"
+        "function" : "scr_do_nothing"
     },
     "a3": {
         "left_portrait" : "spr_youmu_anger",
         "right_portrait" : "spr_kaori_idle",
-        "speaker" : "???:",
+        "speaker" : "Kaori:",
         "dialogue" : "But if you want, yeah, whatever. I can curse you to make you think you are a slug during this wonderful weather.",
-        "function" : "scr_do_nothing"
+        "function" : "scr_boss_sprite"
     },
     "a4": {
         "left_portrait" : "spr_youmu_anger",
@@ -101,5 +101,5 @@
         "speaker" : "Kaori:",
         "dialogue" : "You think you are gonna be a kind of unholy animal in this kind of weather? Fine, I will do what you will!",
         "function" : "scr_start_boss"
-    },
+    }
 }

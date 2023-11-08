@@ -29,7 +29,7 @@
         "left_portrait" : "spr_youmu_anger",
         "right_portrait" : "spr_yumi_sad",
         "speaker" : "Youmu:",
-        "dialogue" : "And, while I am indeed her handmaid, why are you acting so weird towards me? Am I some kind of big shot or something?",
+        "dialogue" : "And, while I am indeed her handmaid, why are you acting so weird towards me? Am I some kind of big shot?",
         "function" : "scr_do_nothing"
     },
     "a4": {

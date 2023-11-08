@@ -17,3 +17,8 @@ if struct_exists(_load_data, "cont") {
 	var _names = struct_get_names(_load_data.cont);
 	txt = string(struct_get(_load_data.cont,"a0"));
 }
+
+scribble_object = undefined;
+scribble_object2 = undefined;
+
+font = font_add_sprite(spr_font_mp,32,false,0);

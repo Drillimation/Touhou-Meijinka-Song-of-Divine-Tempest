@@ -85,7 +85,7 @@
         "left_portrait" : "spr_marisa_anger",
         "right_portrait" : "spr_raiko_idle",
         "speaker" : "Marisa:",
-        "dialogue" : "Lyrics such as 'Hallelujah' and ‘Praise the Lord' are simply lame words that are directed as heretical deities.",
+        "dialogue" : "Lyrics such as 'Hallelujah' and 'Praise the Lord' are simply lame words that are directed as heretical deities.",
         "function" : "scr_do_nothing"
     },
     "a12": {

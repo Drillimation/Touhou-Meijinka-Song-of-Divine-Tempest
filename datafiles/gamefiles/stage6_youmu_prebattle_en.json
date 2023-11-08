@@ -92,7 +92,7 @@
         "left_portrait" : "spr_youmu_idle",
         "right_portrait" : "spr_raiko_idle",
         "speaker" : "Raiko:",
-        "dialogue" : "As a way to escape it, we adapt the Shinto-looking mitsudomoe as a symbol that represents the Church's important teaching.",
+        "dialogue" : "As a way to escape it, we adapt the Shinto-looking mitsudomoe as a symbol that represents the Church's teaching.",
         "function" : "scr_do_nothing"
     },
     "a13": {

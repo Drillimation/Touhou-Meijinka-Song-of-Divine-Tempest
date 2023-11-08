@@ -30,3 +30,10 @@ boss_opac = 0;
 
 typist = scribble_typist()
 	.in(0.125, 0);
+
+scribble_object = undefined;
+scribble_object2 = undefined;
+scribble_object3 = undefined;
+scribble_object4 = undefined;
+scribble_object5 = undefined;
+scribble_object6 = undefined;

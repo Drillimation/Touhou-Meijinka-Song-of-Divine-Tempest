@@ -23,14 +23,14 @@
         "right_portrait" : "spr_blank_portrait",
         "speaker" : "???:",
         "dialogue" : "This storm won't stop unless the Narukami successfully consecrates the residents of land to Eternal Euthymia.",
-        "function" : "scr_boss_sprite"
+        "function" : "scr_do_nothing"
     },
     "a3": {
         "left_portrait" : "spr_marisa_sad",
         "right_portrait" : "spr_kaori_idle",
         "speaker" : "Kaori:",
         "dialogue" : "The storm is a sign that her powers are at the zenith.",
-        "function" : "scr_do_nothing"
+        "function" : "scr_boss_sprite"
     },
     "a4": {
         "left_portrait" : "spr_marisa_sad",
@@ -85,7 +85,7 @@
         "left_portrait" : "spr_marisa_anger",
         "right_portrait" : "spr_kaori_idle",
         "speaker" : "Marisa:",
-        "dialogue" : "The person you are describing closely resembles the person the Prismrivers claim to be missing since the storm began.",
+        "dialogue" : "The person you're describing closely resembles the person the Prismrivers claim to be missing since it began.",
         "function" : "scr_do_nothing"
     },
     "a12": {
@@ -93,7 +93,7 @@
         "right_portrait" : "spr_kaori_anger",
         "speaker" : "Kaori:",
         "dialogue" : "Y-you liar...",
-        "function" : "scr_do_nothing"
+        "function" : "scr_bgm_fade"
     },
     "a13": {
         "left_portrait" : "spr_marisa_anger",

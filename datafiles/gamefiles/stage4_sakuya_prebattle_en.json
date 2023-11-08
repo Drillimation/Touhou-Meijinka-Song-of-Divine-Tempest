@@ -92,7 +92,7 @@
         "left_portrait" : "spr_sakuya_idle",
         "right_portrait" : "spr_yumi_anger",
         "speaker" : "Yumi:",
-        "dialogue" : "That's too lenient! This person should deserve to die without them disseminating their last ill will to the world!",
+        "dialogue" : "That's too lenient! This person should deserve to die without disseminating their last ill will to the world!",
         "function" : "scr_start_boss"
     }
 }

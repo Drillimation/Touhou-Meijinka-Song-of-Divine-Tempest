@@ -1,14 +1,14 @@
 view_xview = camera_get_view_x(view_camera[0]);
 view_yview = camera_get_view_y(view_camera[0]);
 draw_set_alpha(1);
-var scribble_object = scribble(txt)
+scribble_object = scribble(txt)
 	.starting_format("drp_shd",make_color_rgb(255,255,255))
 	.wrap(240)
 	.line_spacing(16)
 	.draw(x, y)
 
-var crd_hgt = string_height_scribble(txt)
-if y < 0 - (crd_hgt - 360) {
+crd_hgt = string_height_scribble(txt)
+if y < 0 - (crd_hgt - 512) {
 	instance_create_depth(0,0,0,obj_gameover_transition)
 	instance_destroy();
 }

@@ -9,7 +9,7 @@ draw_set_color(make_color_rgb(0,0,0));
 for(var i = 0; i < buttons_y; i += 1) {
 	draw_text(8+1,(32+1) + (i * 16),button[i])
 }
-var scribble_object = scribble(desc[menu_index_y])
+scribble_object = scribble(desc[menu_index_y])
 	.starting_format("font_ms_gothic",make_color_rgb(0,0,0))
 	.wrap(288)
 	.line_spacing(16)
@@ -21,7 +21,7 @@ draw_set_color(make_color_rgb(255,255,255));
 for(var i = 0; i < buttons_y; i += 1) {
 	draw_text(8,(32) + (i * 16),button[i])
 }
-var scribble_object2 = scribble(desc[menu_index_y])
+scribble_object2 = scribble(desc[menu_index_y])
 	.starting_format("font_ms_gothic",make_color_rgb(255,255,255))
 	.wrap(288)
 	.line_spacing(16)

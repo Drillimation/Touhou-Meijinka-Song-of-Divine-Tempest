@@ -79,6 +79,6 @@
         "right_portrait" : "spr_jane_idle",
         "speaker" : "Jane:",
         "dialogue" : "Now, there are two paths you can choose: Be lulled to your demise by my secret chords, or if you survive... join me!",
-        "function" : "spr_start_boss"
+        "function" : "scr_start_boss"
     }
 }

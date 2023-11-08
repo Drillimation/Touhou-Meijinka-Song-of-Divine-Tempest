@@ -27,21 +27,21 @@
     },
     "a3": {
         "left_portrait" : "spr_marisa_idle",
-        "right_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_jane_idle",
         "speaker" : "マリサ：",
         "dialogue" : "見覚えがあるよう。",
         "function" : "scr_do_nothing"
     },
     "a4": {
         "left_portrait" : "spr_marisa_idle",
-        "right_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_jane_idle",
         "speaker" : "マリサ：",
         "dialogue" : "あんたように髪型で人を最後に見たのは、圧勝に倒した。",
         "function" : "scr_do_nothing"
     },
     "a5": {
         "left_portrait" : "spr_marisa_joy",
-        "right_portrait" : "spr_blank_portrait",
+        "right_portrait" : "spr_jane_idle",
         "speaker" : "マリサ：",
         "dialogue" : "あら、あんたに同じをやるよ。",
         "function" : "scr_bgm_fade"

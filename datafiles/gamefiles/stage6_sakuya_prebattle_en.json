@@ -92,7 +92,7 @@
         "left_portrait" : "spr_sakuya_idle",
         "right_portrait" : "spr_raiko_idle",
         "speaker" : "Sakuya:",
-        "dialogue" : "Even if you're a noblewoman like what you are claiming, there's a greater chance that you will get duped by your ex.",
+        "dialogue" : "Even if you're a noblewoman like what you are claiming, there's a greater chance that you will get duped.",
         "function" : "scr_do_nothing"
     },
     "a13": {

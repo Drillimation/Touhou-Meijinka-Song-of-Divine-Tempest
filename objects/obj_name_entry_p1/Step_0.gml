@@ -12,10 +12,10 @@ if keyboard_check_pressed(ord("X")) or keyboard_check_pressed(vk_numpad6) or gam
 }
 
 if keyboard_check_pressed(vk_enter) or gamepad_button_check_pressed(0,gp_start) {
-	global.highscores[# 1,9] = p1_name;
+	global.highscores[# 0,9] = p1_name;
 	global.highscores[# 1,9] = global.playerscore[0];
-	global.highscores[# 1,9] = global.stage;
-	global.highscores[# 1,9] = global.character[0];
+	global.highscores[# 2,9] = global.stage;
+	global.highscores[# 3,9] = global.character[0];
 	ds_grid_sort(global.highscores,1,false);
 	
 	_j = "{"

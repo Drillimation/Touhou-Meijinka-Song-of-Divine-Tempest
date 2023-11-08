@@ -26,3 +26,7 @@ view_xview = camera_get_view_x(view_camera[0]);
 view_yview = camera_get_view_y(view_camera[0]);
 
 audio_stop_sound(global.bgm);
+
+scribble_object = undefined;
+scribble_object2 = undefined;
+font = font_add_sprite(spr_font_mp,32,false,0);

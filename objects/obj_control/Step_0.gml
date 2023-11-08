@@ -36,6 +36,7 @@ if global.canjoin == true {
 				}
 			}
 			if room == room_arcade_start {
+				scr_newgame_ext();
 				room_goto(room_arcade_setup);
 			}
 		}
@@ -58,7 +59,7 @@ if global.canjoin == true {
 				}
 			}
 			if room == room_arcade_start {
-				scr_newgame();
+				scr_newgame_ext();
 				room_goto(room_arcade_setup);
 			}
 		}

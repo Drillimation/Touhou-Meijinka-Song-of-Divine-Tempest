@@ -23,14 +23,14 @@
         "right_portrait" : "spr_blank_portrait",
         "speaker" : "？？？：",
         "dialogue" : "ナイフが逸れるのを伴う何かを体験するの？",
-        "function" : "scr_boss_sprite"
+        "function" : "scr_do_nothing"
     },
     "a3": {
         "left_portrait" : "spr_sakuya_idle",
         "right_portrait" : "spr_kaori_idle",
         "speaker" : "カオリ：",
         "dialogue" : "そうさ、金の心で若者の働きだよね…あたしではないが、王姫だぜ！",
-        "function" : "scr_do_nothing"
+        "function" : "scr_boss_sprite"
     },
     "a4": {
         "left_portrait" : "spr_sakuya_idle",

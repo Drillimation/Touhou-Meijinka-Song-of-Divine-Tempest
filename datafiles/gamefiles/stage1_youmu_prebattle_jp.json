@@ -21,16 +21,16 @@
     "a2": {
         "left_portrait" : "spr_youmu_anger",
         "right_portrait" : "spr_blank_portrait",
-        "speaker" : "???:",
+        "speaker" : "???：",
         "dialogue" : "あんたがすでに呪の効果の下のように聞こえるよ。",
-        "function" : "scr_boss_sprite"
+        "function" : "scr_do_nothing"
     },
     "a3": {
         "left_portrait" : "spr_youmu_anger",
         "right_portrait" : "spr_kaori_idle",
-        "speaker" : "???:",
+        "speaker" : "カオリ：",
         "dialogue" : "もしそうしたいなら、そうね。素晴らしい天気でナメクジと考えさせるために、あんたを呪えるわ。",
-        "function" : "scr_do_nothing"
+        "function" : "scr_boss_sprite"
     },
     "a4": {
         "left_portrait" : "spr_youmu_anger",

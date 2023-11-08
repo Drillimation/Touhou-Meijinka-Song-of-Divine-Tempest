@@ -58,6 +58,6 @@
         "right_portrait" : "spr_kagami_anger",
         "speaker" : "カガミ：",
         "dialogue" : "ねぇ！",
-        "function" : "spr_stage_clear"
+        "function" : "scr_stage_clear"
     }
 }

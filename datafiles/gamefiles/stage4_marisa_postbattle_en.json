@@ -29,7 +29,7 @@
         "left_portrait" : "spr_marisa_anger",
         "right_portrait" : "spr_yumi_sad",
         "speaker" : "Yumi:",
-        "dialogue" : "Wait, don’t go!",
+        "dialogue" : "Wait, don't go!",
         "function" : "scr_do_nothing"
     },
     "a4": {
@@ -43,7 +43,7 @@
         "left_portrait" : "spr_marisa_anger",
         "right_portrait" : "spr_kagami_sad",
         "speaker" : "Kagami:",
-        "dialogue" : "I am certain that the ones who are running the concert aren’t humanoid and their powers are unimaginable...",
+        "dialogue" : "I am certain that the ones who are running the concert aren't humanoid and their powers are unimaginable...",
         "function" : "scr_do_nothing"
     },
     "a6": {
@@ -58,6 +58,6 @@
         "right_portrait" : "spr_kagami_anger",
         "speaker" : "Kagami:",
         "dialogue" : "Hey!",
-        "function" : "spr_stage_clear"
+        "function" : "scr_stage_clear"
     }
 }

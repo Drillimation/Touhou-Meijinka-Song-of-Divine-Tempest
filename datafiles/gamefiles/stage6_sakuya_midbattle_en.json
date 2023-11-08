@@ -37,6 +37,6 @@
         "right_portrait" : "spr_jane_anger",
         "speaker" : "Sakuya:",
         "dialogue" : "I heard you have a 'master', right? After I deal with you for real, I am gonna show them who's the real boss here!",
-        "function" : "scr_start_battle"
+        "function" : "scr_start_boss"
     }
 }

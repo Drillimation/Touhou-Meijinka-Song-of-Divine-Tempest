@@ -163,6 +163,6 @@
         "right_portrait" : "spr_emiri_anger",
         "speaker" : "エミリ：",
         "dialogue" : "もう少し頑張る必要がある、おかま。没落が起こらないのよ！",
-        "function" : "scr_do_nothing"
+        "function" : "scr_start_boss"
     }
 }

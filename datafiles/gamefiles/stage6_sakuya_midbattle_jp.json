@@ -37,6 +37,6 @@
         "right_portrait" : "spr_jane_anger",
         "speaker" : "サクヤ：",
         "dialogue" : "「お嬢様」がいると聞いているね？倒したあと、本当の魂を示すわ！",
-        "function" : "scr_start_battle"
+        "function" : "scr_start_boss"
     }
 }

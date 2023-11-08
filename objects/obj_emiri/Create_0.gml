@@ -32,3 +32,5 @@ if struct_exists(_load_data, "boss_names") {
 	var _names = struct_get_names(_load_data.boss_names);
 	txt = string(struct_get(_load_data.boss_names,"a3"));
 }
+
+font = font_add_sprite(spr_font,32,false,0);

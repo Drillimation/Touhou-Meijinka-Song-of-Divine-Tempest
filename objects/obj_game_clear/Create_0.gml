@@ -62,3 +62,6 @@ else {
 		statistics[i] = string(difficulty_bonus[i]) + "\n\n" + string(dream_bonus[i]) + "\n\n" + string(point_bonus[i]) + "\n\n" + string(bomb_bonus[i]) + "\n\n" + string(health_bonus[i]) + "\n\n" + string(power_bonus[i]) + "\n\n" + string(graze_bonus[i]) + "\n\n" + string(total[i]);
 	}
 }
+
+font = font_add_sprite(spr_font_mp,32,false,0);
+font2 = font_add_sprite(spr_font,32,false,0);

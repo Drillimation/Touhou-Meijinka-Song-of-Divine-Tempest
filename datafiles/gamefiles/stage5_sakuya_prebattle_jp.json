@@ -79,6 +79,6 @@
         "right_portrait" : "spr_jane_idle",
         "speaker" : "ジェーン：",
         "dialogue" : "今、選べる二つの道である：秘密の和音で倒すこと、生き残りたかったら、参加してくれ！",
-        "function" : "spr_start_boss"
+        "function" : "scr_start_boss"
     }
 }

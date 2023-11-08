@@ -15,14 +15,14 @@
         "left_portrait" : "spr_youmu_idle",
         "right_portrait" : "spr_blank_portrait",
         "speaker" : "Youmu:",
-        "dialogue" : "Based on how they look, I bet they are not ordinary pillars but ones from the Outside World where bells are placed inside.",
+        "dialogue" : "Based on how they look, I bet they're not ordinary pillars but ones from the Outside World where bells are placed inside.",
         "function" : "scr_do_nothing"
     },
     "a2": {
         "left_portrait" : "spr_youmu_idle",
         "right_portrait" : "spr_blank_portrait",
         "speaker" : "Youmu:",
-        "dialogue" : "If I recall correctly, a while ago Sumireko said these are called ‘belfries’, according to what Reimu told me.",
+        "dialogue" : "If I recall correctly, a while ago Sumireko said these are called 'belfries', according to what Reimu told me.",
         "function" : "scr_do_nothing"
     },
     "a3": {
@@ -50,7 +50,7 @@
         "left_portrait" : "spr_youmu_idle",
         "right_portrait" : "spr_emiri_idle",
         "speaker" : "Emiri:",
-        "dialogue" : "I, Emiri Kanzaki, even though I have graduated from the Narukamites, still work as her bodyguard from time to time.",
+        "dialogue" : "I, Emiri Kanzaki, even though I have graduated from the Narukamites, still work as her bodyguard.",
         "function" : "scr_do_nothing"
     },
     "a7": {
@@ -163,6 +163,6 @@
         "right_portrait" : "spr_emiri_anger",
         "speaker" : "Emiri:",
         "dialogue" : "You are gonna have to try a little harder than that, twerp. I won't have a downfall!",
-        "function" : "scr_do_nothing"
+        "function" : "scr_start_boss"
     }
 }
