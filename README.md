@@ -31,6 +31,7 @@ The game's source code is licensed under the GNU GPLv2 license. You are free to 
 ## Legal lines
 © 2023 Drillimation Systems Co., Ltd./Studio Emiko/E. Enthusiasm. Characters © Team Shanghai Alice/Studio Emiko/Drillimation.  
 Song of Divine Tempest is a trademark of Drillimation Systems Co., Ltd. in the Western Hemisphere and Studio Emiko in the rest of the world.  
+Emiverse is a trademark of Studio Emiko.  
 Touhou Project is a trademark of Team Shanghai Alice.  
 All audiovisual asset rights are reserved.  
 This game makes use of the Scribble Text Rendering Engine, licensed under the MIT License.
