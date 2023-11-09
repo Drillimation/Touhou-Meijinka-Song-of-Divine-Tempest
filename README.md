@@ -1,3 +1,5 @@
+<p align="center"><img src="https://drillimationcom.files.wordpress.com/2023/05/touhou_meijinka_logo.png"></p>
+
 # Touhou-Meijinka-Song-of-Divine-Tempest
 A thunderous concert appears...
 ## Info
