@@ -9,13 +9,13 @@ y_pos += vspeed;
 
 depth = -y;
 if grazable == true {
-	if collision_circle(x,y,12,obj_player_1,false,false){
+	if collision_circle(x,y,16,obj_player_1,false,false){
 			global.playerscore[0] += 50;
 			global.graze[0] += 1;
 			scr_one_channel_sound(snd_graze);
 			grazable = false;
 	}
-	if collision_circle(x,y,12,obj_player_2,false,false){
+	if collision_circle(x,y,16,obj_player_2,false,false){
 			global.playerscore[1] += 50;
 			global.graze[1] += 1;
 			scr_one_channel_sound(snd_graze);

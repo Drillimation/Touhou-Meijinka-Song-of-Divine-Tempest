@@ -113,7 +113,7 @@
         "left_portrait" : "spr_sakuya_anger",
         "right_portrait" : "spr_jeanne_idle",
         "speaker" : "ジャンヌ：",
-        "dialogue" : "の少女の場合、良い関係。",
+        "dialogue" : "少女の場合、良い関係。",
         "function" : "scr_do_nothing"
     },
     "a16": {

@@ -13,7 +13,7 @@ function scr_change_bgm(_no){
 			case 8: song = snd_bgm_boss_4; loop_point = 6.000; end_of_song = 126.000; break;
 			case 9: song = snd_bgm_stage_5; loop_point = 27.232; end_of_song = 122.544; break;
 			case 10: song = snd_bgm_boss_5; loop_point = 5.920; end_of_song = 124.320; break;
-			case 11: song = snd_bgm_stage_6; loop_point = 33.600; end_of_song = 99.200; break;
+			case 11: song = snd_bgm_stage_6; loop_point = 27.200; end_of_song = 92.800; break;
 			case 12: song = snd_bgm_boss_6; loop_point = 5.816; end_of_song = 180.296; break;
 			case 13: song = snd_bgm_stage_extra; loop_point = 21.168; end_of_song = 176.400; break;
 			case 14: song = snd_bgm_boss_extra; loop_point = 30.560; end_of_song = 140.576; break;

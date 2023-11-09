@@ -10,4 +10,9 @@ switch(global.stage) {
 with(obj_bullet_enemy) {
 	instance_destroy();
 }
+with(obj_enemy) {
+	if can_attack == true {
+		instance_destroy();
+	}
+}
 instance_destroy();

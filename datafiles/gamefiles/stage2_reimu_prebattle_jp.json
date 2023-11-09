@@ -57,7 +57,7 @@
         "left_portrait" : "spr_reimu_anger",
         "right_portrait" : "spr_ayaka_idle",
         "speaker" : "レイム：",
-        "dialogue" : "あの、すべてのグリークに見える。そして、神道家たちがそのヒービー・ジービーで信じないのよ。",
+        "dialogue" : "あの、すべてのグリークに見える。そして、神道家たちがそのヒービー・ジービーで信じないの。",
         "function" : "scr_do_nothing"
     },
     "a8": {

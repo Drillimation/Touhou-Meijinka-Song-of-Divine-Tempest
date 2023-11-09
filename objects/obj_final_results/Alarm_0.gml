@@ -22,5 +22,7 @@ else if global.playerscore[1] > global.highscores[# 1,9] {
 	instance_create_depth(0,0,0,obj_name_entry_p2);
 }
 else {
+	global.playeractive[0] = false;
+	global.playeractive[1] = false;
 	instance_create_depth(0,0,0,obj_gameover);
 }

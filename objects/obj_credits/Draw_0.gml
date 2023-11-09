@@ -8,7 +8,7 @@ scribble_object = scribble(txt)
 	.draw(x, y)
 
 crd_hgt = string_height_scribble(txt)
-if y < 0 - (crd_hgt - 512) {
+if y < 0 - (crd_hgt) {
 	instance_create_depth(0,0,0,obj_gameover_transition)
 	instance_destroy();
 }

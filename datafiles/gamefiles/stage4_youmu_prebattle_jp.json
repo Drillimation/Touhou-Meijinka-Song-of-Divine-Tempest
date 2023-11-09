@@ -1,8 +1,8 @@
 {
     "lng" : 16 ,
     "char_info" : {
-        "nm" : "Kagami and Yumi Ochiai",
-        "desc" : "The Phantoms Who Leap Through Time"
+        "nm" : "落合カガミとユミ",
+        "desc" : "時をかけた亡霊"
     },
     "a0": {
         "left_portrait" : "spr_youmu_anger",

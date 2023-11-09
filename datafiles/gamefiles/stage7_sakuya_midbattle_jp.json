@@ -43,7 +43,7 @@
         "left_portrait" : "spr_sakuya_anger",
         "right_portrait" : "spr_raiko_idle",
         "speaker" : "ライコ：",
-        "dialogue" : "「不思議な人」で交渉するのに、「秘密の武器」を送り出した。ミッションからすぐに戻るよ！",
+        "dialogue" : "「不思議な人」で交渉するのに、「秘密の武器」を送り出した。ミッションからすぐに戻る！",
         "function" : "scr_start_boss"
     }
 }

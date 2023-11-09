@@ -110,6 +110,7 @@
     {"name":"spr_sakuya_orb","order":24,"path":"sprites/spr_sakuya_orb/spr_sakuya_orb.yy",},
     {"name":"obj_spell_bonus","order":50,"path":"objects/obj_spell_bonus/obj_spell_bonus.yy",},
     {"name":"spr_marisa_anger","order":7,"path":"sprites/spr_marisa_anger/spr_marisa_anger.yy",},
+    {"name":"obj_dialogue_debug","order":62,"path":"objects/obj_dialogue_debug/obj_dialogue_debug.yy",},
     {"name":"scribble_anim_wheel","order":8,"path":"scripts/scribble_anim_wheel/scribble_anim_wheel.yy",},
     {"name":"spr_kagami_anger","order":36,"path":"sprites/spr_kagami_anger/spr_kagami_anger.yy",},
     {"name":"timeline_spell_card_31","order":30,"path":"timelines/timeline_spell_card_31/timeline_spell_card_31.yy",},

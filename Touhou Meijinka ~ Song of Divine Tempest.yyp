@@ -273,6 +273,7 @@
     {"id":{"name":"spr_sakuya_orb","path":"sprites/spr_sakuya_orb/spr_sakuya_orb.yy",},},
     {"id":{"name":"obj_spell_bonus","path":"objects/obj_spell_bonus/obj_spell_bonus.yy",},},
     {"id":{"name":"spr_marisa_anger","path":"sprites/spr_marisa_anger/spr_marisa_anger.yy",},},
+    {"id":{"name":"obj_dialogue_debug","path":"objects/obj_dialogue_debug/obj_dialogue_debug.yy",},},
     {"id":{"name":"scribble_anim_wheel","path":"scripts/scribble_anim_wheel/scribble_anim_wheel.yy",},},
     {"id":{"name":"scribble_add_macro","path":"scripts/scribble_add_macro/scribble_add_macro.yy",},},
     {"id":{"name":"spr_kagami_anger","path":"sprites/spr_kagami_anger/spr_kagami_anger.yy",},},

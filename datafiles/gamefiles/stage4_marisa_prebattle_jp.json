@@ -43,7 +43,7 @@
         "left_portrait" : "spr_marisa_joy",
         "right_portrait" : "spr_yumi_sad",
         "speaker" : "マリサ：",
-        "dialogue" : "あら、あこのアホを倒すのをんたたち二人ともが手伝いたいので来た？じゃ…",
+        "dialogue" : "あら、このアホを倒すのをあんたたち二人ともが手伝いたいので来た？じゃ…",
         "function" : "scr_do_nothing"
     },
     "a6": {
