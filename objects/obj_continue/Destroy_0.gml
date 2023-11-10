@@ -7,5 +7,6 @@ with(obj_camera) {
 		case 4: path_speed = 0.5; break;
 		case 5: path_speed = 0.5; break;
 		case 6: path_speed = 1; break;
+		case 7: path_speed = 0.375; break;
 	}
 }

@@ -28,6 +28,3 @@ switch(global.difficulty) {
 }
 
 alarm[0] = 600;
-
-font = font_add_sprite(spr_font_mp,32,0,false);
-font2 = font_add_sprite(spr_font,32,0,false);

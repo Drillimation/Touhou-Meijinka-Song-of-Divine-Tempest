@@ -2,10 +2,10 @@ view_xview = camera_get_view_x(view_camera[0]);
 view_yview = camera_get_view_y(view_camera[0]);
 draw_set_halign(fa_center);
 draw_set_color(make_color_rgb(255,0,0))
-draw_set_font(font);
+draw_set_font(global.sprite_font[1]);
 draw_text(view_xview + 128,view_yview + 16,"STAGE " + string(global.stage) + " CLEARED!")
 
-draw_set_font(font2);
+draw_set_font(global.sprite_font[0]);
 draw_set_color(make_color_rgb(255,255,255));
 draw_set_halign(fa_left);
 draw_text(view_xview + 8,view_yview + 56,left_text);

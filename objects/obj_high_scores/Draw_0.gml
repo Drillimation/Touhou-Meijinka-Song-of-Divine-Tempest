@@ -2,7 +2,7 @@ draw_set_alpha(0.5);
 draw_set_color(make_color_rgb(0,0,0))
 draw_rectangle(view_xview + 0,view_yview + 0,view_xview + 255,view_yview + 287,false);
 draw_set_alpha(1);
-draw_set_font(font);
+draw_set_font(global.sprite_font[0]);
 draw_set_color(make_color_rgb(255,255,255))
 draw_set_halign(fa_left);
 draw_text(view_xview + 0,view_yview + 24,"      NAME     SCORE  STG  CHAR")

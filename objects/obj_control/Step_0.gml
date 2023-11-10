@@ -51,6 +51,7 @@ if global.canjoin == true {
 				room == room_stage_5 or 
 				room == room_stage_6 or 
 				room == room_stage_7 {
+					instance_create_depth(view_xview + 64,view_yview + 208,0,obj_player_1);
 					instance_create_depth(view_xview + 192,view_yview + 208,0,obj_player_2);
 					if instance_exists(obj_continue) {
 						global.playerscore[1] = round(((global.playerscore[1] / 10) / 2)) * 10
@@ -62,6 +63,75 @@ if global.canjoin == true {
 				scr_newgame_ext();
 				room_goto(room_arcade_setup);
 			}
+		}
+	}
+	if !instance_exists(obj_continue) {
+		if gamepad_is_connected(1) {
+			who_can_pause = keyboard_check_pressed(vk_escape) or gamepad_button_check_pressed(0,gp_start) or gamepad_button_check_pressed(1,gp_start)
+		}
+		else {
+			who_can_pause = keyboard_check_pressed(vk_escape) or gamepad_button_check_pressed(0,gp_start)
+		}
+		if who_can_pause {
+			if paused == false {
+				audio_play_sound(snd_pause,10,false);
+				audio_pause_sound(global.bgm);
+				paused = true;
+				var a = layer_get_all_elements("Instances");
+				for (var i = 0; i < array_length(a); i++;) {
+					if layer_get_element_type(a[i]) == layerelementtype_sequence {
+						layer_sequence_pause(a[i]);
+					}
+				}
+				instance_deactivate_all(false);
+				instance_activate_object(obj_display_manager);
+				instance_activate_object(obj_resize);
+				instance_activate_object(obj_border);
+				if !instance_exists(obj_pause) {
+					var inst = instance_create_depth(0,0,0,obj_pause);
+					if gamepad_button_check(0,gp_start) or keyboard_check(vk_escape) {
+						inst._id = 0;
+					}
+					if gamepad_button_check(1,gp_start) {
+						inst._id = 1;
+					}
+					instance_activate_object(obj_pause);
+				}
+			}
+			else {
+				audio_resume_sound(global.bgm)
+				paused = false;
+				instance_destroy(obj_pause);
+				instance_activate_all();
+			}
+		}
+	}
+
+	if !window_has_focus() and !instance_exists(obj_continue) {
+		if paused == false {
+			audio_play_sound(snd_pause,10,false);
+			audio_pause_sound(global.bgm);
+			paused = true;
+			var a = layer_get_all_elements("Instances");
+			for (var i = 0; i < array_length(a); i++;) {
+				if layer_get_element_type(a[i]) == layerelementtype_sequence {
+					layer_sequence_pause(a[i]);
+				}
+			}
+			instance_deactivate_all(false);
+			instance_activate_object(obj_display_manager);
+			instance_activate_object(obj_resize);
+			instance_activate_object(obj_border);
+			if !instance_exists(obj_pause) {
+				var inst = instance_create_depth(0,0,0,obj_pause);
+				instance_activate_object(obj_pause);
+			}
+		}
+		else {
+			audio_resume_sound(global.bgm)
+			paused = false;
+			instance_destroy(obj_pause);
+			instance_activate_all();
 		}
 	}
 }
@@ -91,75 +161,7 @@ if bgm_fade == true {
 		alarm[2] = 120;
 	}
 }
-if global.canjoin == true and !instance_exists(obj_continue) {
-	if gamepad_is_connected(1) {
-		who_can_pause = keyboard_check_pressed(vk_escape) or gamepad_button_check_pressed(0,gp_start) or gamepad_button_check_pressed(1,gp_start)
-	}
-	else {
-		who_can_pause = keyboard_check_pressed(vk_escape) or gamepad_button_check_pressed(0,gp_start)
-	}
-	if who_can_pause {
-		if paused == false {
-			audio_play_sound(snd_pause,10,false);
-			audio_pause_sound(global.bgm);
-			paused = true;
-			var a = layer_get_all_elements("Instances");
-			for (var i = 0; i < array_length(a); i++;) {
-				if layer_get_element_type(a[i]) == layerelementtype_sequence {
-					layer_sequence_pause(a[i]);
-				}
-			}
-			instance_deactivate_all(false);
-			instance_activate_object(obj_display_manager);
-			instance_activate_object(obj_resize);
-			instance_activate_object(obj_border);
-			if !instance_exists(obj_pause) {
-				var inst = instance_create_depth(0,0,0,obj_pause);
-				if gamepad_button_check(0,gp_start) or keyboard_check(vk_escape) {
-					inst._id = 0;
-				}
-				if gamepad_button_check(1,gp_start) {
-					inst._id = 1;
-				}
-				instance_activate_object(obj_pause);
-			}
-		}
-		else {
-			audio_resume_sound(global.bgm)
-			paused = false;
-			instance_destroy(obj_pause);
-			instance_activate_all();
-		}
-	}
-}
 
-if !window_has_focus() and global.canjoin == true and !instance_exists(obj_continue) {
-	if paused == false {
-		audio_play_sound(snd_pause,10,false);
-		audio_pause_sound(global.bgm);
-		paused = true;
-		var a = layer_get_all_elements("Instances");
-		for (var i = 0; i < array_length(a); i++;) {
-			if layer_get_element_type(a[i]) == layerelementtype_sequence {
-				layer_sequence_pause(a[i]);
-			}
-		}
-		instance_deactivate_all(false);
-		instance_activate_object(obj_display_manager);
-		instance_activate_object(obj_resize);
-		instance_activate_object(obj_border);
-		if !instance_exists(obj_pause) {
-			var inst = instance_create_depth(0,0,0,obj_pause);
-			instance_activate_object(obj_pause);
-		}
-	}
-	else {
-		audio_resume_sound(global.bgm)
-		paused = false;
-		instance_destroy(obj_pause);
-		instance_activate_all();
-	}
-}
 
 /*if room == room_arcade_title {
 	if keyboard_check_pressed(vk_f2) {

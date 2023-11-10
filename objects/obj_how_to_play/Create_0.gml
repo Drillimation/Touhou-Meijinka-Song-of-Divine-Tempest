@@ -29,4 +29,3 @@ audio_stop_sound(global.bgm);
 
 scribble_object = undefined;
 scribble_object2 = undefined;
-font = font_add_sprite(spr_font_mp,32,false,0);

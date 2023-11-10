@@ -20,5 +20,3 @@ if struct_exists(_load_data, "cont") {
 
 scribble_object = undefined;
 scribble_object2 = undefined;
-
-font = font_add_sprite(spr_font_mp,32,false,0);

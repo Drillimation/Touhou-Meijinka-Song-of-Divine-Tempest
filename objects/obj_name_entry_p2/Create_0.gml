@@ -54,5 +54,3 @@ next = false;
 prev = false;
 next_row = false;
 prev_row = false;
-
-font = font_add_sprite(spr_font,32,false,0);

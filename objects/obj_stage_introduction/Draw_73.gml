@@ -5,7 +5,7 @@ draw_sprite_ext(spr_stage_introduction,0,view_xview + 0,view_yview + 144,1,opac,
 
 draw_set_halign(fa_left);
 scribble_object = scribble(stage_text)
-	.starting_format(font_get_name(font),make_color_rgb(255,255,255))
+	.starting_format(font_get_name(global.sprite_font[1]),make_color_rgb(255,255,255))
 	.wrap(240)
 	.line_spacing(16)
 	.draw(view_xview + (8), view_yview + (104),typist_1)
