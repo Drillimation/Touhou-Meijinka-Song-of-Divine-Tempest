@@ -40,6 +40,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Enemy Attacks","order":13,"path":"folders/Timelines/Enemy Attacks.yy",},
     {"name":"Spell Cards","order":12,"path":"folders/Timelines/Spell Cards.yy",},
+    {"name":"Steamworks","order":17,"path":"folders/Steamworks.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sequence_ending_transition","order":7,"path":"sequences/sequence_ending_transition/sequence_ending_transition.yy",},

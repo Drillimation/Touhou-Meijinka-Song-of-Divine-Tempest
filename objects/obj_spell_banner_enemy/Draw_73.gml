@@ -17,8 +17,16 @@ if instance_exists(boss_id) {
 	draw_set_color(make_color_rgb(255,255,255));
 	draw_text(view_xview + x_pos,view_yview + 24,string(percen) + "%");
 	
-	draw_set_color(make_color_rgb(0,0,0));
-	draw_text(((view_xview + x_pos) - 100) + 1,(view_yview + 24) + 1,string(round(spell_bonus)));
-	draw_set_color(make_color_rgb(255,255,255));
-	draw_text((view_xview + x_pos) - 100,view_yview + 24,string(round(spell_bonus)));
+	if failed == false {
+		draw_set_color(make_color_rgb(0,0,0));
+		draw_text(((view_xview + x_pos) - 100) + 1,(view_yview + 24) + 1,string(round(spell_bonus)));
+		draw_set_color(make_color_rgb(255,255,255));
+		draw_text((view_xview + x_pos) - 100,view_yview + 24,string(round(spell_bonus)));
+	}
+	else {
+		draw_set_color(make_color_rgb(0,0,0));
+		draw_text(((view_xview + x_pos) - 100) + 1,(view_yview + 24) + 1,"FAILED");
+		draw_set_color(make_color_rgb(255,255,255));
+		draw_text((view_xview + x_pos) - 100,view_yview + 24,"FAILED");
+	}
 }

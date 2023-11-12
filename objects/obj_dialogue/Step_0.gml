@@ -1,4 +1,4 @@
-if keyboard_check_pressed(vk_enter) or keyboard_check_pressed(ord("Z")) or gamepad_button_check_pressed(0,gp_face1) {
+if keyboard_check_pressed(vk_enter) or keyboard_check_pressed(ord("Z")) or gamepad_button_check_pressed(0,gp_face1) or gamepad_button_check_pressed(1,gp_face1){
 	var check_fade = typist.get_state()
 	if check_fade == 1 {
 		if index == ds_grid_height(dialogue_table) - 1 {

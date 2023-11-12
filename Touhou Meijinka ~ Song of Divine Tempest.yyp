@@ -52,6 +52,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemy Attacks","folderPath":"folders/Timelines/Enemy Attacks.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spell Cards","folderPath":"folders/Timelines/Spell Cards.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Steamworks","folderPath":"folders/Steamworks.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"default_highscores.json","CopyToMask":-1,"filePath":"datafiles/gamefiles",},
@@ -567,6 +568,7 @@
     {"id":{"name":"spr_kedama_1","path":"sprites/spr_kedama_1/spr_kedama_1.yy",},},
     {"id":{"name":"spr_spirit_3","path":"sprites/spr_spirit_3/spr_spirit_3.yy",},},
     {"id":{"name":"spr_title_reimu","path":"sprites/spr_title_reimu/spr_title_reimu.yy",},},
+    {"id":{"name":"Steamworks","path":"extensions/Steamworks/Steamworks.yy",},},
     {"id":{"name":"scr_trigger_dialogue","path":"scripts/scr_trigger_dialogue/scr_trigger_dialogue.yy",},},
     {"id":{"name":"string_height_scribble","path":"scripts/string_height_scribble/string_height_scribble.yy",},},
     {"id":{"name":"snd_bgm_boss_4","path":"sounds/snd_bgm_boss_4/snd_bgm_boss_4.yy",},},
