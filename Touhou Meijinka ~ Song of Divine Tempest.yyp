@@ -48,11 +48,11 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Items","folderPath":"folders/Sprites/Items.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Portraits","folderPath":"folders/Sprites/Portraits.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tiles","folderPath":"folders/Sprites/Tiles.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Steamworks","folderPath":"folders/Steamworks.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemy Attacks","folderPath":"folders/Timelines/Enemy Attacks.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spell Cards","folderPath":"folders/Timelines/Spell Cards.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Steamworks","folderPath":"folders/Steamworks.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"default_highscores.json","CopyToMask":-1,"filePath":"datafiles/gamefiles",},
