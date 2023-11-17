@@ -106,7 +106,7 @@
         "left_portrait" : "spr_marisa_idle",
         "right_portrait" : "spr_emiri_anger",
         "speaker" : "Emiri:",
-        "dialogue" : "You think you are kind of a big shot who can defeat anything? Well, you’re gonna have to try a little harder than that.",
+        "dialogue" : "You think you are kind of a big shot who can defeat anything? Well, you're gonna have to try a little harder than that.",
         "function" : "scr_start_boss"
     }
 }
