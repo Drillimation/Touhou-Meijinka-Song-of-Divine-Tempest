@@ -7,7 +7,10 @@
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"bgm","targets":-1,},
   ],
   "configs": {
-    "children": [],
+    "children": [
+      {"children":[],"name":"itch.io",},
+      {"children":[],"name":"Steam",},
+    ],
     "name": "Default",
   },
   "defaultScriptType": 1,
