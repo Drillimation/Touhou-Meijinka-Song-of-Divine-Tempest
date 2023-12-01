@@ -249,6 +249,7 @@
     {"id":{"name":"obj_raiko","path":"objects/obj_raiko/obj_raiko.yy",},},
     {"id":{"name":"spr_kaori_idle","path":"sprites/spr_kaori_idle/spr_kaori_idle.yy",},},
     {"id":{"name":"obj_bullet_enemy","path":"objects/obj_bullet_enemy/obj_bullet_enemy.yy",},},
+    {"id":{"name":"obj_spell_card_statistics","path":"objects/obj_spell_card_statistics/obj_spell_card_statistics.yy",},},
     {"id":{"name":"scribble_font_add","path":"scripts/scribble_font_add/scribble_font_add.yy",},},
     {"id":{"name":"scr_newgame","path":"scripts/scr_newgame/scr_newgame.yy",},},
     {"id":{"name":"spr_buttons_difficulty","path":"sprites/spr_buttons_difficulty/spr_buttons_difficulty.yy",},},

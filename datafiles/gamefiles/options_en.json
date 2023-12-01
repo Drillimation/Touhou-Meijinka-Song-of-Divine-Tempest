@@ -5,18 +5,26 @@
         "a1" : "Sound Effects Volume",
         "a2" : "Toggle Fullscreen",
         "a3" : "Language",
-        "a4" : "Border Brightness"
+        "a4" : "Border Brightness",
+        "a5" : "Statistics"
     },
     "description" : {
         "a0" : "Adjust the music volume.",
         "a1" : "Adjust the sound effects volume.",
         "a2" : "Toggle to or from fullscreen mode.",
         "a3" : "Change the display language.",
-        "a4" : "Adjust the brightness of the border to reduce screen burn-in."
+        "a4" : "Adjust the brightness of the border to reduce screen burn-in.",
+        "a5" : "View your Spell Card statistics and history."
     },
     "brightness" : {
         "a0" : "Off",
         "a1" : "Dim",
         "a2" : "Bright"
-    }
+    },
+    "statistics" : {
+        "a0" : "Captures",
+        "a1" : "Encounters",
+        "a2" : "Success Rate"
+    },
+    "prompt_stats" : "←→: Scroll  X/B: Back"
 }

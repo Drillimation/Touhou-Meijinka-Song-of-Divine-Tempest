@@ -86,6 +86,7 @@
     {"name":"obj_raiko","order":32,"path":"objects/obj_raiko/obj_raiko.yy",},
     {"name":"spr_kaori_idle","order":18,"path":"sprites/spr_kaori_idle/spr_kaori_idle.yy",},
     {"name":"obj_bullet_enemy","order":37,"path":"objects/obj_bullet_enemy/obj_bullet_enemy.yy",},
+    {"name":"obj_spell_card_statistics","order":21,"path":"objects/obj_spell_card_statistics/obj_spell_card_statistics.yy",},
     {"name":"scr_newgame","order":5,"path":"scripts/scr_newgame/scr_newgame.yy",},
     {"name":"spr_buttons_difficulty","order":25,"path":"sprites/spr_buttons_difficulty/spr_buttons_difficulty.yy",},
     {"name":"__scribble_gen_4_build_words","order":4,"path":"scripts/__scribble_gen_4_build_words/__scribble_gen_4_build_words.yy",},
