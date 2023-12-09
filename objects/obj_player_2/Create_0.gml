@@ -67,6 +67,7 @@ switch(global.character[play_id]) {
 		turret = spr_youmu_orb
 		break;
 }
+sprite_index = idle;
 
 focusmode = false;
 if global.chuhoujoutaimode == true {

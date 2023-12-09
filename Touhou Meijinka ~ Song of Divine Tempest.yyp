@@ -199,7 +199,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.0.121",
   },
   "resources": [
     {"id":{"name":"sequence_ending_transition","path":"sequences/sequence_ending_transition/sequence_ending_transition.yy",},},

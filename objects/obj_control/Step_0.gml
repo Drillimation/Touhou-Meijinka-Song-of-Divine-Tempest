@@ -51,9 +51,10 @@ if global.canjoin == true {
 				room == room_stage_5 or 
 				room == room_stage_6 or 
 				room == room_stage_7 {
-					instance_create_depth(view_xview + 64,view_yview + 208,0,obj_player_1);
 					instance_create_depth(view_xview + 192,view_yview + 208,0,obj_player_2);
 					if instance_exists(obj_continue) {
+						instance_create_depth(view_xview + 64,view_yview + 208,0,obj_player_1);
+						global.playerscore[0] = round(((global.playerscore[0] / 10) / 2)) * 10
 						global.playerscore[1] = round(((global.playerscore[1] / 10) / 2)) * 10
 						instance_destroy(obj_continue);
 					}
