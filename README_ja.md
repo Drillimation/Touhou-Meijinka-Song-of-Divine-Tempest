@@ -16,6 +16,7 @@
 ## インストール
 ゲームをここにダウンロードできる：
 - itch.io: https://drillimation.itch.io/touhou-meijinka-song-of-divine-tempest/
+- Steam: https://store.steampowered.com/app/2630380
 
 ## このゲームを作ることに使ったツール
 - GameMaker Studio (ゲーム自体)

@@ -16,6 +16,7 @@ A thunderous concert appears...
 ## Installation
 You can download the game for free here:
 - itch.io: https://drillimation.itch.io/touhou-meijinka-song-of-divine-tempest/
+- Steam: https://store.steampowered.com/app/2630380
 
 ## Tools used to make this game:
 - GameMaker Studio (the game itself)
