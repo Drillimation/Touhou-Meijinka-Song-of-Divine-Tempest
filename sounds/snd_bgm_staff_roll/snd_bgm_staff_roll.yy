@@ -16,7 +16,7 @@
     "path": "folders/Sounds/BGM.yy",
   },
   "preload": false,
-  "sampleRate": 44100,
+  "sampleRate": 48000,
   "soundFile": "snd_bgm_staff_roll.ogg",
   "type": 1,
   "volume": 1.0,

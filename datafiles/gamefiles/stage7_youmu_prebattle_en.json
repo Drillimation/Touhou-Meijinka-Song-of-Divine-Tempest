@@ -36,7 +36,7 @@
         "left_portrait" : "spr_youmu_idle",
         "right_portrait" : "spr_jeanne_idle",
         "speaker" : "Youmu:",
-        "dialogue" : "God? Even though Shinto has the upper hand with myriads of gods, Buddhism does not believe in the existence of any gods.",
+        "dialogue" : "God? Even though Shinto has the upper hand with myriads of gods, Buddhism does not even have one.",
         "function" : "scr_do_nothing"
     },
     "a5": {
@@ -71,7 +71,7 @@
         "left_portrait" : "spr_youmu_idle",
         "right_portrait" : "spr_jeanne_idle",
         "speaker" : "Jeanne:",
-        "dialogue" : "Their original plan is to hunt down a cambion who has been wreaking havoc upon surrounding lands and trapping souls.",
+        "dialogue" : "Their original plan is to hunt down a cambion who has been wreaking havoc upon the land and trapping souls.",
         "function" : "scr_do_nothing"
     },
     "a10": {

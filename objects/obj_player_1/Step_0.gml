@@ -24,6 +24,7 @@ if keyboard_check(ord("Z")) or gamepad_button_check(play_id,gp_face1) {
 gamepad_set_button_threshold(play_id,0.5);
 if keyboard_check_pressed(ord("X")) or gamepad_button_check_pressed(play_id,gp_face3) or gamepad_button_check_pressed(play_id,gp_shoulderr) or gamepad_button_check_pressed(play_id,gp_shoulderrb) {
 	if global.bombs[play_id] >= 1 and global.pow[play_id] >= 10 and !instance_exists(obj_spellbomb) {
+		invincible = true;
 		global.bombs[play_id] -= 1;
 		global.pow[play_id] -= 10;
 		instance_create_depth(x,y,0,obj_spellbomb);

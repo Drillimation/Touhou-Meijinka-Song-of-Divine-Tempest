@@ -16,7 +16,7 @@
     "path": "folders/Sounds/BGM.yy",
   },
   "preload": false,
-  "sampleRate": 44100,
+  "sampleRate": 48000,
   "soundFile": "snd_bgm_stage_extra.ogg",
   "type": 1,
   "volume": 1.0,

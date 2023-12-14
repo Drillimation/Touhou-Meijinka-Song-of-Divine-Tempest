@@ -144,14 +144,26 @@ if global.playerscore[1] > global.highscore {
 	global.highscore = global.playerscore[1];
 }
 if global.playerscore[0] > global.bombscore[0] {
-	global.bombs[0] += 1;
-	scr_one_channel_sound(snd_get_bomb);
+	if global.chuhoujoutaimode == true {
+		global.bombs[0] += 1;
+		scr_one_channel_sound(snd_get_bomb);
+	}
+	else {
+		global.playerlives[0] += 1;
+		scr_one_channel_sound(snd_get_life);
+	}
 	global.received[0] += 1;
 	global.bombscore[0] += global.received[0] * 100000;
 }
 if global.playerscore[1] > global.bombscore[1] {
-	global.bombs[1] += 1;
-	scr_one_channel_sound(snd_get_bomb);
+	if global.chuhoujoutaimode == true {
+		global.bombs[1] += 1;
+		scr_one_channel_sound(snd_get_bomb);
+	}
+	else {
+		global.playerlives[1] += 1;
+		scr_one_channel_sound(snd_get_life);
+	}
 	global.received[1] += 1;
 	global.bombscore[1] += global.received[1] * 100000;
 }
