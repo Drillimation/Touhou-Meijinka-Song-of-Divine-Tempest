@@ -1,6 +1,6 @@
-gravity = 0.025;
+gravity = 0.015;
 gravity_direction = 270;
-vspeed = -1;
+vspeed = -0.5;
 image_speed = 0;
 
 view_xview = camera_get_view_x(view_camera[0]);
