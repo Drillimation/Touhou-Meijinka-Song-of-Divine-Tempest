@@ -20,6 +20,10 @@ if hp <= 0 {
 			var inst4 = instance_create_depth(x + irandom_range(-32,32),y + irandom_range(-32,32),0,obj_item)
 			inst4.image_index = 1;
 		}
+		for (var i = 0; i < 3; i += 1) {
+			var inst5 = instance_create_depth(x + irandom_range(-32,32),y + irandom_range(-32,32),0,obj_item)
+			inst5.image_index = 6
+		}
 	}
 	with(obj_bullet_enemy) {
 		if global.playeractive[0] == true { global.playerscore[0] += (abs(round((y_pos / 10) - 30)) * 10); }

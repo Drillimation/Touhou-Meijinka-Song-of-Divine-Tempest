@@ -10,11 +10,11 @@ script_execute(state);
 
 if keyboard_check(vk_shift) or gamepad_button_check(play_id,gp_face2) or gamepad_button_check(play_id,gp_shoulderl) or gamepad_button_check(play_id,gp_shoulderlb) {
 	focusmode = true;
-	spd = 1;
+	spd = 1.25;
 }
 else {
 	focusmode = false;
-	spd = 1.5
+	spd = 1.75
 }
 
 if keyboard_check(ord("Z")) or gamepad_button_check(play_id,gp_face1) {
