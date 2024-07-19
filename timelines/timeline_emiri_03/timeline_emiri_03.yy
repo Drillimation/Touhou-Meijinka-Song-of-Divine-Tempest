@@ -1,18 +1,20 @@
 {
-  "resourceType": "GMTimeline",
-  "resourceVersion": "1.0",
-  "name": "timeline_emiri_03",
-  "momentList": [
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},"moment":0,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":0,"isDnD":false,},"moment":5,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":0,"isDnD":false,},"moment":10,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":40,"eventType":0,"isDnD":false,},"moment":40,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":45,"eventType":0,"isDnD":false,},"moment":45,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":50,"eventType":0,"isDnD":false,},"moment":50,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":80,"eventType":0,"isDnD":false,},"moment":80,},
+  "$GMTimeline":"",
+  "%Name":"timeline_emiri_03",
+  "momentList":[
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":0,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":5,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":10,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":40,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":45,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":45,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":50,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":50,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":80,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
   ],
-  "parent": {
-    "name": "Timelines",
-    "path": "folders/Timelines.yy",
+  "name":"timeline_emiri_03",
+  "parent":{
+    "name":"Timelines",
+    "path":"folders/Timelines.yy",
   },
+  "resourceType":"GMTimeline",
+  "resourceVersion":"2.0",
 }

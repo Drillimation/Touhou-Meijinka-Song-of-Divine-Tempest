@@ -1,16 +1,18 @@
 {
-  "resourceType": "GMTimeline",
-  "resourceVersion": "1.0",
-  "name": "timeline_kaori_02",
-  "momentList": [
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},"moment":0,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":45,"eventType":0,"isDnD":false,},"moment":45,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":105,"eventType":0,"isDnD":false,},"moment":105,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":110,"eventType":0,"isDnD":false,},"moment":110,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":111,"eventType":0,"isDnD":false,},"moment":111,},
+  "$GMTimeline":"",
+  "%Name":"timeline_kaori_02",
+  "momentList":[
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":0,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":45,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":45,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":105,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":105,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":110,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":110,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":111,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":111,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
   ],
-  "parent": {
-    "name": "Timelines",
-    "path": "folders/Timelines.yy",
+  "name":"timeline_kaori_02",
+  "parent":{
+    "name":"Timelines",
+    "path":"folders/Timelines.yy",
   },
+  "resourceType":"GMTimeline",
+  "resourceVersion":"2.0",
 }

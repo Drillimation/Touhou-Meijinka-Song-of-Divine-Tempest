@@ -5,9 +5,17 @@ buffer_delete(_buffer);
 var _load_data = json_parse(_string);
 
 prompt = _load_data.prompt;
+
+if os_get_config() == "HTML5" {
+	no_of_options = 5;
+}
+else {
+	no_of_options = 6;
+}
+
 if struct_exists(_load_data, "buttons") {
-	var _names = struct_get_names(_load_data.buttons);
-	for(var i = 0; i < array_length(_names); i += 1) {
+	//var _names = struct_get_names(_load_data.buttons);
+	for(var i = 0; i < no_of_options; i += 1) {
 		button[i] = string(struct_get(_load_data.buttons,"a" + string(i)));
 	}
 }
@@ -19,8 +27,8 @@ button[3] = _load_data.buttons.a3;
 */
 
 if struct_exists(_load_data, "description") {
-	var _names = struct_get_names(_load_data.description);
-	for(var i = 0; i < array_length(_names); i += 1) {
+	//var _names = struct_get_names(_load_data.description);
+	for(var i = 0; i < no_of_options; i += 1) {
 		desc[i] = string(struct_get(_load_data.description,"a" + string(i)));
 	}
 }

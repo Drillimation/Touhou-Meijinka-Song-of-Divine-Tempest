@@ -4,12 +4,16 @@
         "a0":"Start Game",
         "a1":"Music Room",
         "a2":"Options",
-        "a3":"Exit"
+        "a3":"Fork on GitHub",
+        "a4":"Drillipedia",
+        "a5":"Exit"
     },
     "description":{
         "a0":"Power up the Touhou Meijinka arcade cabinet.",
         "a1":"Listen to the game's soundtrack.",
         "a2":"Adjust the game's settings.",
-        "a3":"Shut down the game."
+        "a3":"Opens the GitHub repository for the game.",
+        "a4":"Opens Drillipedia.",
+        "a5":"Shut down the game."
     }
 }

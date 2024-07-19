@@ -1,14 +1,16 @@
 {
-  "resourceType": "GMTimeline",
-  "resourceVersion": "1.0",
-  "name": "timeline_jeanne_04",
-  "momentList": [
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},"moment":0,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":0,"isDnD":false,},"moment":5,},
-    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":50,"eventType":0,"isDnD":false,},"moment":50,},
+  "$GMTimeline":"",
+  "%Name":"timeline_jeanne_04",
+  "momentList":[
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":0,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":5,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":50,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":50,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
   ],
-  "parent": {
-    "name": "Timelines",
-    "path": "folders/Timelines.yy",
+  "name":"timeline_jeanne_04",
+  "parent":{
+    "name":"Timelines",
+    "path":"folders/Timelines.yy",
   },
+  "resourceType":"GMTimeline",
+  "resourceVersion":"2.0",
 }
