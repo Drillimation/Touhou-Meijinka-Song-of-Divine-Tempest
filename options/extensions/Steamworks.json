@@ -5,6 +5,12 @@
     "2d6a1c61-98e7-4289-8eff-d70ef6dac1ff": {
       "Default": {
         "value": "C:\\\\Users\\\\Drillimation Systems\\\\Downloads\\\\steamworks_sdk_155\\\\sdk"
+      },
+      "itch.io": {
+        "value": "/Users/drillimationsystems/Downloads/sdk"
+      },
+      "Steam": {
+        "value": "/Users/drillimationsystems/Downloads/sdk"
       }
     },
     "c37a2e1d-c82f-4d90-9d0a-b4a2b3b3da08": null,
@@ -15,7 +21,11 @@
     },
     "96a61e5d-c4ac-4104-b5ac-c8ef936e2609": null,
     "6fb808c0-c204-4477-9ad2-f05b3a5b9eeb": null,
-    "4bf243ec-4e30-4c6d-86fd-9207893f0784": null,
+    "4bf243ec-4e30-4c6d-86fd-9207893f0784": {
+      "Steam": {
+        "value": "2"
+      }
+    },
     "3c048609-3c36-48e2-88c3-d1c216e84e6b": null,
     "33aac3da-b966-4c5f-8c9a-f3835e1e003d": null,
     "16d61f9e-45d0-40f7-9efd-c932ad7ed8ba": null,
