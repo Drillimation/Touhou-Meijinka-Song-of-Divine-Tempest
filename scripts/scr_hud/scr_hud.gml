@@ -111,9 +111,9 @@ function scr_hud(){
 		else {
 			draw_text(view_xview + 256,view_yview + 272,global.playerhealth[1]);
 		}
-		draw_text(view_xview + 256,view_yview + 280,global.bombs[0]);
-		draw_text(view_xview + 224,view_yview + 272,global.graze[0]);
-		draw_text(view_xview + 224,view_yview + 280,global.pow[0]);
+		draw_text(view_xview + 256,view_yview + 280,global.bombs[1]);
+		draw_text(view_xview + 224,view_yview + 272,global.graze[1]);
+		draw_text(view_xview + 224,view_yview + 280,global.pow[1]);
 	}
 	draw_text(view_xview + 144,view_yview + 272,global.dream);
 	draw_text(view_xview + 144,view_yview + 280,global.pnt_item);
