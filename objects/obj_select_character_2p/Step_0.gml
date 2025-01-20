@@ -6,7 +6,7 @@ else {
 }
 //scr_menu_input_2d();
 
-if keyboard_check_pressed(vk_enter) or keyboard_check_pressed(ord("Z")) or gamepad_button_check_pressed(0,gp_face1) {
+if keyboard_check_pressed(vk_enter) or keyboard_check_pressed(ord("Z")) or gamepad_button_check_pressed(0,gp_face1) or gamepad_button_check_pressed(1,gp_face1) {
 	audio_play_sound(snd_menuconfirm,10,false);
 	switch(menu_index_y) {
 		case 0: if global.character[0] == "REIMU" { audio_play_sound(snd_buzzer,10,false) } else { global.character[1] = "REIMU"; confirmed = true; } break;
