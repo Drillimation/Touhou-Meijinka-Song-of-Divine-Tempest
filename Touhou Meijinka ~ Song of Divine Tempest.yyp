@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"Touhou Meijinka ~ Song of Divine Tempest",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -57,6 +57,7 @@
     {"$GMFolder":"","%Name":"Enemy Attacks","folderPath":"folders/Timelines/Enemy Attacks.yy","name":"Enemy Attacks","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Spell Cards","folderPath":"folders/Timelines/Spell Cards.yy","name":"Spell Cards","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"default_highscores.json","CopyToMask":-1,"filePath":"datafiles/gamefiles","name":"default_highscores.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"default_spellcards.json","CopyToMask":-1,"filePath":"datafiles/gamefiles","name":"default_spellcards.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
@@ -199,7 +200,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.1300.0.785",
   },
   "name":"Touhou Meijinka ~ Song of Divine Tempest",
   "resources":[
