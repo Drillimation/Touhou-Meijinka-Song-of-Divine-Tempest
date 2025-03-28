@@ -26,7 +26,9 @@ if keyboard_check_pressed(ord("X")) or gamepad_button_check_pressed(play_id,gp_f
 	if global.bombs[play_id] >= 1 and global.pow[play_id] >= 10 and !instance_exists(obj_spellbomb) {
 		invincible = true;
 		global.bombs[play_id] -= 1;
+		global.totalbombsused[play_id] += 1;
 		global.pow[play_id] -= 10;
+		global.pow[play_id] = clamp(global.pow[play_id],0,100);
 		instance_create_depth(x,y,0,obj_spellbomb);
 		var inst = instance_create_depth(0,0,0,obj_spell_banner_player);
 		inst.item_id = play_id;

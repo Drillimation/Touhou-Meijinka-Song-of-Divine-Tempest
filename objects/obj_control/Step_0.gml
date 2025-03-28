@@ -17,7 +17,7 @@ if keyboard_check_pressed(vk_tab) or gamepad_button_check_pressed(0,gp_select) {
 }
 if global.canjoin == true {
 	if global.credits >= 1 {
-		if keyboard_check_pressed(vk_enter) or keyboard_check_pressed(ord("Z")) or gamepad_button_check_pressed(0,gp_face1) or gamepad_button_check_pressed(0,gp_start) {
+		if keyboard_check_pressed(vk_enter) or keyboard_check_pressed(ord("Z")) or gamepad_button_check_pressed(0,gp_face1) {
 			if global.playeractive[0] == false {
 				global.credits -= 1;
 				global.playeractive[0] = true
@@ -31,16 +31,26 @@ if global.canjoin == true {
 					instance_create_depth(view_xview + 64,view_yview + 208,0,obj_player_1);
 					if instance_exists(obj_continue) {
 						global.playerscore[0] = round(((global.playerscore[0] / 10) / 2)) * 10
+						global.playerlives[0] = 3;
+						global.playerhealth[0] = 30;
 						instance_destroy(obj_continue);
 					}
 				}
 			}
+			wo_credits[0] = "CREDITS\n" + string(global.credits);
+			wo_credits[1] = "INSERT\nCOIN"
+
+			w_credits_1[0] = "CREDITS\n" + string(global.credits);
+			w_credits_1[1] = "PUSH\n1P"
+
+			w_credits_2[0] = "CREDITS\n" + string(global.credits);
+			w_credits_2[1] = "PUSH\n2P"
 			if room == room_arcade_start {
 				scr_newgame_ext();
 				room_goto(room_arcade_setup);
 			}
 		}
-		if gamepad_button_check_pressed(1,gp_start) or gamepad_button_check_pressed(1,gp_face1) {
+		if gamepad_button_check_pressed(1,gp_face1) {
 			if global.playeractive[1] == false {
 				global.credits -= 1;
 				global.playeractive[1] = true
@@ -56,10 +66,22 @@ if global.canjoin == true {
 						instance_create_depth(view_xview + 64,view_yview + 208,0,obj_player_1);
 						global.playerscore[0] = round(((global.playerscore[0] / 10) / 2)) * 10
 						global.playerscore[1] = round(((global.playerscore[1] / 10) / 2)) * 10
+						global.playerlives[0] = 3;
+						global.playerhealth[0] = 30;
+						global.playerlives[1] = 3;
+						global.playerhealth[1] = 30;
 						instance_destroy(obj_continue);
 					}
 				}
 			}
+			wo_credits[0] = "CREDITS\n" + string(global.credits);
+			wo_credits[1] = "INSERT\nCOIN"
+
+			w_credits_1[0] = "CREDITS\n" + string(global.credits);
+			w_credits_1[1] = "PUSH\n1P"
+
+			w_credits_2[0] = "CREDITS\n" + string(global.credits);
+			w_credits_2[1] = "PUSH\n2P"
 			if room == room_arcade_start {
 				scr_newgame_ext();
 				room_goto(room_arcade_setup);

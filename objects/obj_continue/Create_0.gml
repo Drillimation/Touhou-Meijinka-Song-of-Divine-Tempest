@@ -1,4 +1,6 @@
-instance_deactivate_layer("Enemies");
+if instance_exists(obj_enemy) {
+	instance_deactivate_object(obj_enemy);
+}
 with(obj_camera) {
 	path_speed = 0;
 }

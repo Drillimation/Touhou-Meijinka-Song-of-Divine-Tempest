@@ -10,6 +10,8 @@ function scr_declare_damage(_damage, _id){
 			if global.pnt_item >= 20 + (20 * global.revivesused) {
 				global.pnt_item -= 20 + (20 * global.revivesused);
 				global.revivesused += 1;
+				global.pow[_id] -= 12
+				global.pow[_id] = clamp(global.pow[_id],0,100);
 				global.playerhealth[other.play_id] = 30;
 				randomize();
 				if global.pow[_id] >= 9 {
@@ -37,10 +39,12 @@ function scr_declare_damage(_damage, _id){
 	else {
 		scr_one_channel_sound(snd_pichuun)
 		global.playerlives[_id] -= 1;
+		global.revivesused += 1;
 		if global.bombs[_id] < 3 {
 			global.bombs[_id] = 3;
 		}
 		global.pow[_id] -= 12
+		global.pow[_id] = clamp(global.pow[_id],0,100);
 		global.dream -= 100;
 		global.dream = clamp(global.dream,0,1000);
 		instance_destroy(obj_bullet_enemy);
