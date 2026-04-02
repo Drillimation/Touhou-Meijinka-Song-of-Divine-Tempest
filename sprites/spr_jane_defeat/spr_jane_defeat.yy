@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_jane_defeat",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"95cd2358-fb1a-448d-bf9a-1a44e06ebb01","name":"95cd2358-fb1a-448d-bf9a-1a44e06ebb01","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"95cd2358-fb1a-448d-bf9a-1a44e06ebb01","name":"95cd2358-fb1a-448d-bf9a-1a44e06ebb01","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

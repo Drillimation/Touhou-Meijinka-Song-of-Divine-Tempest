@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_meijinka_logo",
   "bboxMode":0,
   "bbox_bottom":100,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"df052f3e-f93e-499b-a68d-bc11a7b27eda","name":"df052f3e-f93e-499b-a68d-bc11a7b27eda","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"df052f3e-f93e-499b-a68d-bc11a7b27eda","name":"df052f3e-f93e-499b-a68d-bc11a7b27eda","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

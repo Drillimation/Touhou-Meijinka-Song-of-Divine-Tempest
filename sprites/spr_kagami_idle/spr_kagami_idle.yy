@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_kagami_idle",
   "bboxMode":0,
   "bbox_bottom":251,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a3c95d67-e587-454f-b110-b8147a56a23e","name":"a3c95d67-e587-454f-b110-b8147a56a23e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a3c95d67-e587-454f-b110-b8147a56a23e","name":"a3c95d67-e587-454f-b110-b8147a56a23e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

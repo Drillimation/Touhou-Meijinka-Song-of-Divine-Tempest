@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_ayaka_joy",
   "bboxMode":0,
   "bbox_bottom":248,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"dbc300b3-ad9d-4df8-af26-3a8e354b431c","name":"dbc300b3-ad9d-4df8-af26-3a8e354b431c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"dbc300b3-ad9d-4df8-af26-3a8e354b431c","name":"dbc300b3-ad9d-4df8-af26-3a8e354b431c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

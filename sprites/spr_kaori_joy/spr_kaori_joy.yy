@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_kaori_joy",
   "bboxMode":0,
   "bbox_bottom":249,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f4342e91-bfd4-4f2d-bb07-69bea5ec0f8f","name":"f4342e91-bfd4-4f2d-bb07-69bea5ec0f8f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f4342e91-bfd4-4f2d-bb07-69bea5ec0f8f","name":"f4342e91-bfd4-4f2d-bb07-69bea5ec0f8f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

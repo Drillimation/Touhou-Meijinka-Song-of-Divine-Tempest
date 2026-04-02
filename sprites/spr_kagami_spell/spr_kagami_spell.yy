@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_kagami_spell",
   "bboxMode":0,
   "bbox_bottom":287,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"010be9ab-025d-41fa-b13e-40934d33bee1","name":"010be9ab-025d-41fa-b13e-40934d33bee1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"010be9ab-025d-41fa-b13e-40934d33bee1","name":"010be9ab-025d-41fa-b13e-40934d33bee1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

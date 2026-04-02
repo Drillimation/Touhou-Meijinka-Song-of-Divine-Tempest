@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_sakuya_idle",
   "bboxMode":0,
   "bbox_bottom":249,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ba5ced7e-6a3a-4f41-9bad-2ae1b72886f8","name":"ba5ced7e-6a3a-4f41-9bad-2ae1b72886f8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ba5ced7e-6a3a-4f41-9bad-2ae1b72886f8","name":"ba5ced7e-6a3a-4f41-9bad-2ae1b72886f8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_title_raiko",
   "bboxMode":0,
   "bbox_bottom":247,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"7afb792e-11a0-4a1c-8b4d-062b36db10d6","name":"7afb792e-11a0-4a1c-8b4d-062b36db10d6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7afb792e-11a0-4a1c-8b4d-062b36db10d6","name":"7afb792e-11a0-4a1c-8b4d-062b36db10d6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

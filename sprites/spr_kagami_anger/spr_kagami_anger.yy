@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_kagami_anger",
   "bboxMode":0,
   "bbox_bottom":251,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f3fe9ac7-0a57-4ddd-a0c5-68084f3a1131","name":"f3fe9ac7-0a57-4ddd-a0c5-68084f3a1131","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f3fe9ac7-0a57-4ddd-a0c5-68084f3a1131","name":"f3fe9ac7-0a57-4ddd-a0c5-68084f3a1131","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

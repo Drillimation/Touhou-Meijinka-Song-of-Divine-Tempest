@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_kagami_joy",
   "bboxMode":0,
   "bbox_bottom":251,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5bd7088f-9217-48a6-afa2-2d3515b3d567","name":"5bd7088f-9217-48a6-afa2-2d3515b3d567","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5bd7088f-9217-48a6-afa2-2d3515b3d567","name":"5bd7088f-9217-48a6-afa2-2d3515b3d567","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_kaori_spell",
   "bboxMode":0,
   "bbox_bottom":287,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"43d09f25-d7f8-4f6e-aef6-531f6b6b0534","name":"43d09f25-d7f8-4f6e-aef6-531f6b6b0534","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"43d09f25-d7f8-4f6e-aef6-531f6b6b0534","name":"43d09f25-d7f8-4f6e-aef6-531f6b6b0534","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

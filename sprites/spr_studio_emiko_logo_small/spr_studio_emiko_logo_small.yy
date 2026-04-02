@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_studio_emiko_logo_small",
   "bboxMode":0,
   "bbox_bottom":232,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"673ee53b-d400-4471-92c5-41e70c07de79","name":"673ee53b-d400-4471-92c5-41e70c07de79","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"673ee53b-d400-4471-92c5-41e70c07de79","name":"673ee53b-d400-4471-92c5-41e70c07de79","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

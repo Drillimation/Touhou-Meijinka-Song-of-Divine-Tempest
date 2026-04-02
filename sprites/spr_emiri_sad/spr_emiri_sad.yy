@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_emiri_sad",
   "bboxMode":0,
   "bbox_bottom":251,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4944efc1-f45c-47ba-b30e-2a896c18999d","name":"4944efc1-f45c-47ba-b30e-2a896c18999d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4944efc1-f45c-47ba-b30e-2a896c18999d","name":"4944efc1-f45c-47ba-b30e-2a896c18999d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

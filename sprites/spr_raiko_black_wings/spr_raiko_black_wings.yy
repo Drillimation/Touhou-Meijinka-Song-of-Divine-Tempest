@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_raiko_black_wings",
   "bboxMode":0,
   "bbox_bottom":28,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"43e7e441-bb7b-4f30-a25e-cf48dac0505f","name":"43e7e441-bb7b-4f30-a25e-cf48dac0505f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"43e7e441-bb7b-4f30-a25e-cf48dac0505f","name":"43e7e441-bb7b-4f30-a25e-cf48dac0505f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

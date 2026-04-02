@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_raiko_joy",
   "bboxMode":0,
   "bbox_bottom":247,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2ade77db-3dfe-42c4-957f-b9e0bba613e8","name":"2ade77db-3dfe-42c4-957f-b9e0bba613e8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2ade77db-3dfe-42c4-957f-b9e0bba613e8","name":"2ade77db-3dfe-42c4-957f-b9e0bba613e8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

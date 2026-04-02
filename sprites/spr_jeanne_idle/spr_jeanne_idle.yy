@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_jeanne_idle",
   "bboxMode":0,
   "bbox_bottom":249,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f4fcb5fb-869e-4a9b-a917-fc98fdfa2f2b","name":"f4fcb5fb-869e-4a9b-a917-fc98fdfa2f2b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f4fcb5fb-869e-4a9b-a917-fc98fdfa2f2b","name":"f4fcb5fb-869e-4a9b-a917-fc98fdfa2f2b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

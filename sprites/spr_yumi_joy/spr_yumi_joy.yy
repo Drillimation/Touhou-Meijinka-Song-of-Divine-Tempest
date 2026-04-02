@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_yumi_joy",
   "bboxMode":0,
   "bbox_bottom":250,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"25e349c2-f987-47d0-86e9-ed04e0c26a76","name":"25e349c2-f987-47d0-86e9-ed04e0c26a76","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"25e349c2-f987-47d0-86e9-ed04e0c26a76","name":"25e349c2-f987-47d0-86e9-ed04e0c26a76","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_ayaka_defeat",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8cebcc15-2f60-4a68-a67c-1bbb7b2e03dd","name":"8cebcc15-2f60-4a68-a67c-1bbb7b2e03dd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8cebcc15-2f60-4a68-a67c-1bbb7b2e03dd","name":"8cebcc15-2f60-4a68-a67c-1bbb7b2e03dd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

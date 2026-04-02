@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_emiri_anger",
   "bboxMode":0,
   "bbox_bottom":251,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"889617b8-0d95-43bc-9500-d43bdc2b4a21","name":"889617b8-0d95-43bc-9500-d43bdc2b4a21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"889617b8-0d95-43bc-9500-d43bdc2b4a21","name":"889617b8-0d95-43bc-9500-d43bdc2b4a21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

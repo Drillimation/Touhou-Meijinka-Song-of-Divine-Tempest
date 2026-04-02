@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_stage_5_tiles",
   "bboxMode":0,
   "bbox_bottom":175,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"83764710-7857-4217-b8da-5b467da5404f","name":"83764710-7857-4217-b8da-5b467da5404f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"83764710-7857-4217-b8da-5b467da5404f","name":"83764710-7857-4217-b8da-5b467da5404f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
